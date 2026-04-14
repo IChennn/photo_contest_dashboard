@@ -135,12 +135,17 @@ def find_next_page(soup: BeautifulSoup, current_url: str) -> str | None:
 
 def make_entry(name, source_name, source_url, entry_url,
                deadline_text="", prize=None) -> dict:
-    """Build a normalised contest dict."""
+    """
+    Build a normalised contest dict.
+    'sources' is a list of {name, url} dicts — deduplicate() may append to it
+    when the same contest is found on multiple sites.
+    The dedup key is based on the contest name only (not source), so duplicates
+    across different sites are merged into one entry.
+    """
     return {
-        "id":           make_id(name, source_name),
+        "id":           hashlib.md5(name.encode()).hexdigest()[:10],
         "name":         name,
-        "source":       source_name,
-        "sourceUrl":    source_url,
+        "sources":      [{"name": source_name, "url": source_url}],
         "entryUrl":     entry_url,
         "deadline":     parse_deadline(deadline_text),
         "deadlineText": deadline_text or "要確認",
@@ -241,7 +246,9 @@ def parse_picru(source: dict) -> list[dict]:
     Picru listing page structure (confirmed from live HTML):
       - Each contest block: <h3><a href="/portals/detail/NNN">Title</a></h3>
       - Pagination: /opens/index/page:N  (no standard rel=next link)
-      - Deadline not shown on listing page; left null to avoid slow per-detail fetches.
+      - Deadline is NOT on the listing page — must be fetched from the detail page.
+        Detail page has a two-row table: | 募集開始日 | YYYY年MM月DD日 | 募集締切日 | YYYY年MM月DD日 |
+        We fetch detail pages with a short delay to be polite.
     """
     contests = []
 
@@ -256,18 +263,38 @@ def parse_picru(source: dict) -> list[dict]:
         if not soup:
             break
 
-        # Each contest has an h3 > a pointing to /portals/detail/
         links = soup.select("h3 > a[href*='/portals/detail/']")
         if not links:
-            # Past the last page
-            break
+            break  # past the last page
 
         for a in links:
             name = a.get_text(strip=True)
             if not name or len(name) < 3:
                 continue
-            href = abs_url(a["href"], url)
-            contests.append(make_entry(name, source["name"], href, href))
+            detail_url = abs_url(a["href"], url)
+
+            # Fetch the detail page to get the deadline
+            deadline_text = ""
+            entry_url     = detail_url
+            detail_soup   = get_soup(detail_url)
+            if detail_soup:
+                # Table row: | 募集締切日 | YYYY年MM月DD日 |
+                for td in detail_soup.select("td"):
+                    if "募集締切日" in td.get_text():
+                        next_td = td.find_next_sibling("td")
+                        if next_td:
+                            deadline_text = next_td.get_text(strip=True)
+                            break
+                # Real contest URL (not the picru page) is in the detail table
+                for td in detail_soup.select("td"):
+                    link = td.select_one("a[href^='http']")
+                    if link and "picru.jp" not in link["href"]:
+                        entry_url = link["href"]
+                        break
+            time.sleep(REQUEST_DELAY)
+
+            contests.append(make_entry(name, source["name"], detail_url,
+                                       entry_url, deadline_text))
 
         page_num += 1
         time.sleep(REQUEST_DELAY)
@@ -278,72 +305,75 @@ def parse_picru(source: dict) -> list[dict]:
 
 def parse_photosekai(source: dict) -> list[dict]:
     """
-    フォトセカイ structures each contest as an <h3> heading followed by
-    siblings containing the URL, deadline, and prize.
-    Filters out structural h3s (nav, footers, etc.) by requiring an
-    external link in the sibling block.
-    Also scrapes two related sub-pages for broader coverage.
+    フォトセカイ /post/photocontestlist/ structure (confirmed from live HTML):
+      - Page is organised by deadline month: <h2>2026年4月締切</h2> ... <table> ...
+      - Each contest is a <tr> / single-cell <td> containing:
+          "[都道府県] **[Contest name](URL)**\n応募締切：M月D日\n賞品：...\n主催：..."
+      - The deadline month comes from the preceding h2 heading.
+      - Contest name and URL are inside a markdown-style bold+link rendered as <strong><a>.
     """
     contests = []
+    url = source["url"]
+    print(f"  [フォトセカイ] {url}")
+    soup = get_soup(url)
+    if not soup:
+        return contests
 
-    parsed = urlparse(source["url"])
-    root = f"{parsed.scheme}://{parsed.netloc}"
-    urls_to_scrape = [
-        source["url"],
-        f"{root}/post/photocontestprize/",
-        f"{root}/post/prefecture/",
-    ]
+    content = soup.select_one("article, .entry-content, main, #content, .post-content")
+    scope = content if content else soup
 
-    for url in urls_to_scrape:
-        print(f"  [フォトセカイ] {url}")
-        soup = get_soup(url)
-        if not soup:
-            time.sleep(REQUEST_DELAY)
+    # Track the current deadline year+month from h2 headings like "2026年4月締切"
+    current_year  = date.today().year
+    current_month = None
+
+    for el in scope.find_all(["h2", "td"]):
+        if el.name == "h2":
+            # Extract year and month from section heading
+            m = re.search(r"(\d{4})年(\d{1,2})月", el.get_text())
+            if m:
+                current_year  = int(m.group(1))
+                current_month = int(m.group(2))
             continue
 
-        # Narrow to main content area to avoid nav/sidebar h3s
-        content = soup.select_one("article, .entry-content, main, #content, .post-content")
-        scope = content if content else soup
+        # --- <td> element: one contest per cell ---
+        text = el.get_text(" ", strip=True)
+        if not text or len(text) < 10:
+            continue
 
-        for h3 in scope.select("h3"):
-            name = h3.get_text(strip=True)
-            if not name or len(name) < 8:
-                continue
+        # Contest name + URL: <strong><a href="...">Name</a></strong>
+        link_el = el.select_one("strong > a[href], a[href]")
+        if not link_el:
+            continue
+        name      = link_el.get_text(strip=True)
+        entry_url = link_el.get("href", "")
+        if not name or len(name) < 4:
+            continue
+        if not entry_url.startswith("http"):
+            entry_url = abs_url(entry_url, url)
 
-            entry_url = None
-            deadline_text = ""
-            prize = None
+        # Deadline: "応募締切：4月15日" — combine with section year
+        deadline_text = ""
+        deadline_iso  = None
+        m = re.search(r"応募締切[：:]\s*(\d{1,2})月(\d{1,2})日", text)
+        if m and current_month is not None:
+            month, day   = int(m.group(1)), int(m.group(2))
+            deadline_iso = f"{current_year}-{month:02d}-{day:02d}"
+            deadline_text = f"{current_year}年{month}月{day}日"
+        else:
+            # Fallback: full date anywhere in the cell
+            m2 = re.search(r"(\d{4})年(\d{1,2})月(\d{1,2})日", text)
+            if m2:
+                deadline_iso  = f"{m2.group(1)}-{int(m2.group(2)):02d}-{int(m2.group(3)):02d}"
+                deadline_text = m2.group(0)
 
-            sibling = h3.find_next_sibling()
-            for _ in range(8):
-                if sibling is None or sibling.name in ("h2", "h3"):
-                    break
-                text = sibling.get_text(" ", strip=True)
+        prize = extract_prize(text)
 
-                if not entry_url:
-                    link = sibling.select_one("a[href]")
-                    # Only accept absolute links (external contest pages)
-                    if link and link.get("href", "").startswith("http"):
-                        entry_url = link["href"]
+        entry = make_entry(name, source["name"], url, entry_url, deadline_text, prize)
+        if deadline_iso:
+            entry["deadline"] = deadline_iso
+        contests.append(entry)
 
-                if not deadline_text:
-                    m = re.search(r"\d{4}年\d{1,2}月\d{1,2}日", text)
-                    if m:
-                        deadline_text = m.group(0)
-
-                if not prize and any(kw in text for kw in ("賞金", "万円")):
-                    prize = extract_prize(text)
-
-                sibling = sibling.find_next_sibling()
-
-            if not entry_url:
-                continue
-
-            contests.append(make_entry(name, source["name"], url, entry_url,
-                                       deadline_text, prize))
-
-        time.sleep(REQUEST_DELAY)
-
+    time.sleep(REQUEST_DELAY)
     print(f"  [フォトセカイ] {len(contests)} entries")
     return contests
 
@@ -464,12 +494,35 @@ CUSTOM_PARSERS: dict = {
 # =============================================================================
 
 def deduplicate(contests: list[dict]) -> list[dict]:
-    """Remove duplicates by ID; first occurrence wins."""
-    seen: dict = {}
+    """
+    Merge entries with the same contest name (case-insensitive, whitespace-normalised).
+    When the same contest appears on multiple sites, the sources lists are combined
+    so the dashboard can show all source links side by side.
+    The entry with the better data (non-null deadline, prize) is kept as the base.
+    """
+    seen: dict = {}  # normalised_name → index in result
+    result: list[dict] = []
+
     for c in contests:
-        if c["id"] not in seen:
-            seen[c["id"]] = c
-    return list(seen.values())
+        key = re.sub(r"\s+", "", c["name"]).lower()
+        if key in seen:
+            existing = result[seen[key]]
+            # Merge source list — avoid duplicates by name
+            existing_names = {s["name"] for s in existing["sources"]}
+            for s in c["sources"]:
+                if s["name"] not in existing_names:
+                    existing["sources"].append(s)
+            # Fill in missing fields from this entry
+            if not existing.get("deadline") and c.get("deadline"):
+                existing["deadline"]     = c["deadline"]
+                existing["deadlineText"] = c["deadlineText"]
+            if not existing.get("prize") and c.get("prize"):
+                existing["prize"] = c["prize"]
+        else:
+            seen[key] = len(result)
+            result.append(c)
+
+    return result
 
 
 def filter_active(contests: list[dict]) -> list[dict]:

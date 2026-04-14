@@ -329,6 +329,12 @@
     color: var(--accent);
     background: #edf0ea;
     border-color: #d4dccf;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .tag-source:hover {
+    background: #e0e8db;
   }
 
   /* ── DEADLINE ── */
@@ -600,13 +606,15 @@ function render(contests) {
       : "";
 
     const metaTags = [
-      c.source ? `<span class="tag tag-source">${escHtml(c.source)}</span>` : "",
+      ...(c.sources || []).map(s =>
+        `<a class="tag tag-source" href="${escHtml(s.url)}" target="_blank" rel="noreferrer">${escHtml(s.name)}</a>`
+      ),
       c.region  ? `<span class="tag">${escHtml(c.region)}</span>` : "",
       c.theme   ? `<span class="tag">${escHtml(c.theme)}</span>`  : "",
     ].filter(Boolean).join("");
 
-    const sourceBtn = (c.sourceUrl && c.sourceUrl !== c.entryUrl)
-      ? `<a class="btn-source" href="${escHtml(c.sourceUrl)}" target="_blank" rel="noreferrer">元記事</a>`
+    const sourceBtn = (c.sources && c.sources.length > 0 && c.sources[0].url !== c.entryUrl)
+      ? `<a class="btn-source" href="${escHtml(c.sources[0].url)}" target="_blank" rel="noreferrer">元記事</a>`
       : "";
 
     return `
@@ -677,7 +685,11 @@ async function loadData() {
 
     // Sources bar
     const counts = {};
-    active.forEach(c => { counts[c.source] = (counts[c.source] || 0) + 1; });
+    active.forEach(c => {
+      (c.sources || []).forEach(s => {
+        counts[s.name] = (counts[s.name] || 0) + 1;
+      });
+    });
     document.getElementById("sources-bar").innerHTML =
       Object.entries(counts).map(([k, v]) => {
         const url = SOURCES[k] || "#";

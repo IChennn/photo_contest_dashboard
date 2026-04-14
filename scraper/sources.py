@@ -19,7 +19,7 @@ SOURCES = [
     },
     {
         "name": "フォトセカイ",
-        "url":  "https://photosekai.com/post/photocontestnew/",
+        "url":  "https://photosekai.com/post/photocontestlist/",
     },
     {
         "name": "山と渓谷",
