@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photo Contest Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:        #0e0e0e;
+    --bg2:       #161616;
+    --bg3:       #1f1f1f;
+    --border:    rgba(255,255,255,0.07);
+    --border2:   rgba(255,255,255,0.12);
+    --text:      #e2ddd6;
+    --text2:     #7a7570;
+    --text3:     #4a4540;
+    --accent:    #c8a96e;
+    --accent2:   #8fa86e;
+    --red:       #c86e6e;
+    --orange:    #c8956e;
+    --mono:      'DM Mono', monospace;
+    --serif:     'Shippori Mincho', serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--serif);
+    min-height: 100vh;
+    line-height: 1.6;
+  }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 clamp(16px, 4vw, 48px);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 16px;
+    padding-bottom: 24px;
+    padding-top: 40px;
+  }
+
+  .header-left h1 {
+    font-size: clamp(22px, 4vw, 38px);
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    color: var(--text);
+    line-height: 1.1;
+  }
+
+  .header-left h1 span {
+    color: var(--accent);
+  }
+
+  .header-sub {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-top: 6px;
+  }
+
+  .header-meta {
+    text-align: right;
+  }
+
+  .updated-at {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 0.1em;
+  }
+
+  .updated-at strong {
+    color: var(--text2);
+    display: block;
+    font-size: 13px;
+    margin-top: 2px;
+  }
+
+  /* ── STATS BAR ── */
+  .stats {
+    display: flex;
+    gap: 1px;
+    background: var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .stat {
+    flex: 1;
+    background: var(--bg);
+    padding: 14px clamp(12px, 2vw, 28px);
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+  }
+
+  .stat-num {
+    font-family: var(--mono);
+    font-size: clamp(20px, 3vw, 28px);
+    font-weight: 500;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .stat-num.red   { color: var(--red); }
+  .stat-num.orange { color: var(--orange); }
+  .stat-num.green { color: var(--accent2); }
+
+  .stat-label {
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+  }
+
+  /* ── CONTROLS ── */
+  .controls {
+    padding: 16px clamp(16px, 4vw, 48px);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg2);
+  }
+
+  .search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+    max-width: 320px;
+  }
+
+  .search-wrap input {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border2);
+    border-radius: 4px;
+    padding: 8px 12px 8px 32px;
+    color: var(--text);
+    font-family: var(--serif);
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-wrap input:focus { border-color: var(--accent); }
+  .search-wrap input::placeholder { color: var(--text3); }
+
+  .search-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text3);
+    font-size: 13px;
+    pointer-events: none;
+  }
+
+  .filters {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    background: transparent;
+    border: 1px solid var(--border2);
+    border-radius: 3px;
+    padding: 6px 12px;
+    color: var(--text2);
+    font-family: var(--serif);
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.03em;
+  }
+
+  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
+    font-weight: 600;
+  }
+
+  .count-badge {
+    margin-left: auto;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--text3);
+    white-space: nowrap;
+  }
+
+  /* ── SOURCE LEGEND ── */
+  .sources {
+    padding: 10px clamp(16px, 4vw, 48px);
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+  }
+
+  .source-tag {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+    text-decoration: none;
+    letter-spacing: 0.08em;
+    transition: color 0.15s;
+  }
+  .source-tag:hover { color: var(--accent); }
+
+  /* ── MAIN GRID ── */
+  main {
+    padding: clamp(16px, 3vw, 40px) clamp(16px, 4vw, 48px);
+  }
+
+  #empty-state {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--text3);
+  }
+
+  #empty-state .big { font-size: 40px; margin-bottom: 12px; }
+  #empty-state p { font-size: 14px; line-height: 1.8; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+
+  /* ── CARD ── */
+  .card {
+    background: var(--bg);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: background 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card:hover { background: var(--bg2); }
+
+  .card-urgent::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--red);
+  }
+
+  .card-soon::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--orange);
+  }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .card-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.4;
+    flex: 1;
+  }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 2px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    letter-spacing: 0.06em;
+  }
+
+  .badge-urgent { background: rgba(200,110,110,0.15); color: var(--red); border: 1px solid rgba(200,110,110,0.3); }
+  .badge-soon   { background: rgba(200,149,110,0.15); color: var(--orange); border: 1px solid rgba(200,149,110,0.3); }
+  .badge-normal { background: rgba(143,168,110,0.15); color: var(--accent2); border: 1px solid rgba(143,168,110,0.3); }
+  .badge-none   { background: rgba(122,117,112,0.15); color: var(--text2); border: 1px solid var(--border2); }
+
+  .card-meta {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 2px;
+    background: var(--bg3);
+    color: var(--text2);
+    border: 1px solid var(--border);
+  }
+
+  .tag-source { color: var(--accent); border-color: rgba(200,169,110,0.2); }
+
+  /* ── DEADLINE BOX ── */
+  .deadline-box {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 10px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+  }
+
+  .deadline-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+    letter-spacing: 0.1em;
+    margin-bottom: 2px;
+  }
+
+  .deadline-date {
+    font-family: var(--mono);
+    font-size: 14px;
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .deadline-date.urgent { color: var(--red); }
+  .deadline-date.soon   { color: var(--orange); }
+
+  .days-left {
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 2px;
+    background: var(--bg3);
+    color: var(--text2);
+    border: 1px solid var(--border);
+  }
+
+  .days-left.urgent { color: var(--red); border-color: rgba(200,110,110,0.3); background: rgba(200,110,110,0.08); }
+  .days-left.soon   { color: var(--orange); border-color: rgba(200,149,110,0.3); background: rgba(200,149,110,0.08); }
+
+  /* ── PRIZE / NOTES ── */
+  .prize {
+    font-size: 12px;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .notes {
+    font-size: 12px;
+    color: var(--text3);
+    line-height: 1.5;
+    border-left: 2px solid var(--border2);
+    padding-left: 8px;
+  }
+
+  /* ── BUTTONS ── */
+  .card-actions {
+    display: flex;
+    gap: 6px;
+  }
+
+  .btn-entry {
+    flex: 1;
+    text-align: center;
+    background: var(--accent);
+    color: var(--bg);
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 3px;
+    letter-spacing: 0.05em;
+    transition: opacity 0.15s;
+    font-family: var(--serif);
+  }
+  .btn-entry:hover { opacity: 0.85; }
+
+  .btn-source {
+    background: var(--bg3);
+    border: 1px solid var(--border2);
+    color: var(--text2);
+    text-decoration: none;
+    font-size: 11px;
+    padding: 8px 12px;
+    border-radius: 3px;
+    font-family: var(--mono);
+    transition: all 0.15s;
+  }
+  .btn-source:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 20px clamp(16px, 4vw, 48px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .footer-links a {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+    text-decoration: none;
+    letter-spacing: 0.08em;
+    transition: color 0.15s;
+  }
+  .footer-links a:hover { color: var(--accent); }
+
+  .footer-note {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+    letter-spacing: 0.06em;
+  }
+
+  @media (max-width: 600px) {
+    .stats { flex-wrap: wrap; }
+    .stat { min-width: 50%; }
+    header { grid-template-columns: 1fr; }
+    .header-meta { text-align: left; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>フォトコンテスト<span>収集板</span></h1>
+    <div class="header-sub">Photo Contest Dashboard · Japan · Auto-updated Daily</div>
+  </div>
+  <div class="header-meta">
+    <div class="updated-at">
+      最終更新
+      <strong id="updated-at">---</strong>
+    </div>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="stat"><span class="stat-num" id="stat-total">0</span><span class="stat-label">件 募集中</span></div>
+  <div class="stat"><span class="stat-num red" id="stat-urgent">0</span><span class="stat-label">件 締切7日以内</span></div>
+  <div class="stat"><span class="stat-num orange" id="stat-soon">0</span><span class="stat-label">件 今月締切</span></div>
+  <div class="stat"><span class="stat-num green" id="stat-national">0</span><span class="stat-label">件 全国対象</span></div>
+</div>
+
+<div class="controls">
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search" placeholder="コンテスト名・テーマで絞込み">
+  </div>
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all">すべて</button>
+    <button class="filter-btn" data-filter="urgent">締切間近</button>
+    <button class="filter-btn" data-filter="national">全国</button>
+    <button class="filter-btn" data-filter="local">地域</button>
+    <button class="filter-btn" data-filter="prize">賞金あり</button>
+  </div>
+  <div class="count-badge" id="count-badge">-- 件表示</div>
+</div>
+
+<div class="sources" id="sources-bar"></div>
+
+<main>
+  <div id="empty-state" style="display:none;">
+    <div class="big">📷</div>
+    <p>コンテスト情報がまだありません。<br>
+    GitHub Actions が毎日 09:00 JST に自動更新します。<br>
+    初回は Actions タブから手動で実行してください。</p>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <div class="footer-links">
+    <a href="https://picru.jp/opens/" target="_blank" rel="noreferrer">Picru</a>
+    <a href="https://photosekai.com/post/photocontestnew/" target="_blank" rel="noreferrer">フォトセカイ</a>
+    <a href="https://www.yamakei-online.com/yk/pt_contest/" target="_blank" rel="noreferrer">山と渓谷</a>
+    <a href="https://compe.japandesign.ne.jp/category/photo/" target="_blank" rel="noreferrer">登竜門</a>
+  </div>
+  <div class="footer-note">毎日 09:00 JST 自動更新 · GitHub Actions</div>
+</footer>
+
+<script>
+const DATA_URL = "data/contests.json";
+const SOURCES = {
+  "Picru": "https://picru.jp/opens/",
+  "フォトセカイ": "https://photosekai.com/post/photocontestnew/",
+  "山と渓谷": "https://www.yamakei-online.com/yk/pt_contest/",
+  "登竜門": "https://compe.japandesign.ne.jp/category/photo/",
+};
+
+let allContests = [];
+let activeFilter = "all";
+let searchText = "";
+
+function urgency(deadline) {
+  if (!deadline) return "none";
+  const d = new Date(deadline);
+  const now = new Date();
+  const diff = (d - now) / 864e5;
+  if (diff < 0) return "expired";
+  if (diff <= 7) return "urgent";
+  if (diff <= 31) return "soon";
+  return "normal";
+}
+
+function daysLeft(deadline) {
+  if (!deadline) return null;
+  const diff = Math.ceil((new Date(deadline) - new Date()) / 864e5);
+  return diff;
+}
+
+function formatDate(iso) {
+  if (!iso) return null;
+  const [y, m, d] = iso.split("-");
+  return `${y}年${parseInt(m)}月${parseInt(d)}日`;
+}
+
+function render(contests) {
+  const grid = document.getElementById("grid");
+  const empty = document.getElementById("empty-state");
+  document.getElementById("count-badge").textContent = `${contests.length} 件表示`;
+
+  if (contests.length === 0) {
+    grid.innerHTML = "";
+    empty.style.display = "block";
+    return;
+  }
+  empty.style.display = "none";
+
+  grid.innerHTML = contests.map(c => {
+    const urg = urgency(c.deadline);
+    if (urg === "expired") return "";
+    const dl = daysLeft(c.deadline);
+    const urgClass = urg === "urgent" ? "card-urgent" : urg === "soon" ? "card-soon" : "";
+    const badgeClass = urg === "urgent" ? "badge-urgent" : urg === "soon" ? "badge-soon" : urg === "normal" ? "badge-normal" : "badge-none";
+    const badgeText = urg === "urgent" ? "締切間近" : urg === "soon" ? "今月締切" : urg === "normal" ? "募集中" : "要確認";
+    const dlClass = urg === "urgent" ? "urgent" : urg === "soon" ? "soon" : "";
+
+    return `
+      <div class="card ${urgClass}">
+        <div class="card-top">
+          <div class="card-name">${escHtml(c.name)}</div>
+          <span class="badge ${badgeClass}">${badgeText}</span>
+        </div>
+        <div class="card-meta">
+          ${c.source ? `<span class="tag tag-source">${escHtml(c.source)}</span>` : ""}
+          ${c.region ? `<span class="tag">📍 ${escHtml(c.region)}</span>` : ""}
+          ${c.theme ? `<span class="tag">🎨 ${escHtml(c.theme)}</span>` : ""}
+        </div>
+        ${c.prize ? `<div class="prize">🏆 ${escHtml(c.prize)}</div>` : ""}
+        <div class="deadline-box">
+          <div>
+            <div class="deadline-label">応募締切</div>
+            <div class="deadline-date ${dlClass}">${formatDate(c.deadline) || escHtml(c.deadlineText)}</div>
+          </div>
+          ${dl !== null ? `<div class="days-left ${dlClass}">${dl > 0 ? "あと " + dl + " 日" : "本日締切"}</div>` : ""}
+        </div>
+        ${c.notes ? `<div class="notes">${escHtml(c.notes)}</div>` : ""}
+        <div class="card-actions">
+          <a class="btn-entry" href="${escHtml(c.entryUrl || c.sourceUrl)}" target="_blank" rel="noreferrer">応募ページへ →</a>
+          ${c.sourceUrl && c.sourceUrl !== c.entryUrl
+            ? `<a class="btn-source" href="${escHtml(c.sourceUrl)}" target="_blank" rel="noreferrer">元記事</a>`
+            : ""}
+        </div>
+      </div>`;
+  }).join("");
+}
+
+function escHtml(str) {
+  if (!str) return "";
+  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+function applyFilters() {
+  let list = allContests.filter(c => urgency(c.deadline) !== "expired");
+
+  if (searchText) {
+    const q = searchText.toLowerCase();
+    list = list.filter(c =>
+      (c.name || "").toLowerCase().includes(q) ||
+      (c.theme || "").toLowerCase().includes(q) ||
+      (c.region || "").toLowerCase().includes(q)
+    );
+  }
+
+  if (activeFilter === "urgent") {
+    list = list.filter(c => ["urgent","soon"].includes(urgency(c.deadline)));
+  } else if (activeFilter === "national") {
+    list = list.filter(c => c.region === "全国" || !c.region);
+  } else if (activeFilter === "local") {
+    list = list.filter(c => c.region && c.region !== "全国");
+  } else if (activeFilter === "prize") {
+    list = list.filter(c => c.prize);
+  }
+
+  render(list);
+}
+
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + "?t=" + Date.now());
+    const data = await res.json();
+    allContests = data.contests || [];
+
+    // 更新日時
+    if (data.updatedAt) {
+      const d = new Date(data.updatedAt);
+      document.getElementById("updated-at").textContent =
+        d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" }) + " JST";
+    }
+
+    // Stats
+    const active = allContests.filter(c => urgency(c.deadline) !== "expired");
+    document.getElementById("stat-total").textContent = active.length;
+    document.getElementById("stat-urgent").textContent = active.filter(c => urgency(c.deadline) === "urgent").length;
+    document.getElementById("stat-soon").textContent = active.filter(c => urgency(c.deadline) === "soon").length;
+    document.getElementById("stat-national").textContent = active.filter(c => !c.region || c.region === "全国").length;
+
+    // Sources bar
+    const sourcesBar = document.getElementById("sources-bar");
+    const sourceCounts = {};
+    active.forEach(c => { sourceCounts[c.source] = (sourceCounts[c.source] || 0) + 1; });
+    sourcesBar.innerHTML = Object.entries(sourceCounts).map(([k, v]) => {
+      const url = SOURCES[k] || "#";
+      return `<a class="source-tag" href="${url}" target="_blank" rel="noreferrer">${k}（${v}件）</a>`;
+    }).join("");
+
+    applyFilters();
+  } catch (e) {
+    document.getElementById("empty-state").style.display = "block";
+    console.error(e);
+  }
+}
+
+// ── Events ──
+document.getElementById("search").addEventListener("input", e => {
+  searchText = e.target.value;
+  applyFilters();
+});
+
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+});
+
+loadData();
+</script>
+</body>
+</html>
