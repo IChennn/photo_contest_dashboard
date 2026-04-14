@@ -238,73 +238,38 @@ def scrape_generic(source: dict) -> list[dict]:
 
 def parse_picru(source: dict) -> list[dict]:
     """
-    Picru's listing page links to contest detail pages via
-    <a href="/opens/view/NNN"> rather than using article cards.
-    Also handles Picru's page:N URL pattern for pagination.
+    Picru listing page structure (confirmed from live HTML):
+      - Each contest block: <h3><a href="/portals/detail/NNN">Title</a></h3>
+      - Pagination: /opens/index/page:N  (no standard rel=next link)
+      - Deadline not shown on listing page; left null to avoid slow per-detail fetches.
     """
     contests = []
-    url: str | None = source["url"]
-    # Normalise entry URL: picru.jp/opens/ → picru.jp/opens/index/page:1
-    if url.rstrip("/").endswith("/opens"):
-        url = url.rstrip("/") + "/index/page:1"
-    elif url.rstrip("/").endswith("/opens/"):
-        url = url.rstrip("/") + "index/page:1"
 
-    visited = set()
-    page = 0
+    # Normalise to paginated form regardless of what URL was given
+    base = re.sub(r"/opens.*$", "/opens/index/page:", source["url"].rstrip("/"))
+    page_num = 1
 
-    while url and url not in visited and page < MAX_PAGES:
-        print(f"  [Picru] page {page + 1}: {url}")
+    while page_num <= MAX_PAGES:
+        url = f"{base}{page_num}"
+        print(f"  [Picru] page {page_num}: {url}")
         soup = get_soup(url)
         if not soup:
             break
 
-        visited.add(url)
-        page += 1
+        # Each contest has an h3 > a pointing to /portals/detail/
+        links = soup.select("h3 > a[href*='/portals/detail/']")
+        if not links:
+            # Past the last page
+            break
 
-        # Try structured cards first, then fall back to bare detail links
-        items = soup.select("div.contest-list-item, article.contest-item, li.contest")
-        if not items:
-            items = soup.select("a[href*='/opens/view/']")
+        for a in links:
+            name = a.get_text(strip=True)
+            if not name or len(name) < 3:
+                continue
+            href = abs_url(a["href"], url)
+            contests.append(make_entry(name, source["name"], href, href))
 
-        for item in items:
-            try:
-                link_el = item if item.name == "a" else item.select_one("a")
-                if not link_el:
-                    continue
-                href = abs_url(link_el.get("href", ""), url)
-
-                name_el = item.select_one("h2, h3, .title, .name, strong")
-                name = (name_el.get_text(strip=True) if name_el
-                        else link_el.get_text(strip=True))
-                if not name or len(name) < 3:
-                    continue
-
-                deadline_text = ""
-                for el in item.select("span, p, div, time"):
-                    t = el.get_text(strip=True)
-                    if any(kw in t for kw in ("締切", "〆切", "期限", "月")):
-                        deadline_text = t
-                        break
-
-                contests.append(make_entry(name, source["name"], href, href,
-                                           deadline_text))
-            except Exception as e:
-                print(f"    [Picru] item error: {e}")
-
-        # Picru paginates as /opens/index/page:N — build next URL manually
-        # if the generic next-page detection doesn't find anything
-        next_url = find_next_page(soup, url)
-        if not next_url:
-            m = re.search(r"/page:(\d+)", url)
-            if m:
-                next_page_num = int(m.group(1)) + 1
-                next_url = re.sub(r"/page:\d+", f"/page:{next_page_num}", url)
-                # Stop if the next page returns no items (checked next iteration)
-            else:
-                next_url = None
-
-        url = next_url
+        page_num += 1
         time.sleep(REQUEST_DELAY)
 
     print(f"  [Picru] {len(contests)} entries")
@@ -314,16 +279,19 @@ def parse_picru(source: dict) -> list[dict]:
 def parse_photosekai(source: dict) -> list[dict]:
     """
     フォトセカイ structures each contest as an <h3> heading followed by
-    sibling elements containing the URL, deadline, and prize.
-    The page also has multiple sub-sections worth scraping.
+    siblings containing the URL, deadline, and prize.
+    Filters out structural h3s (nav, footers, etc.) by requiring an
+    external link in the sibling block.
+    Also scrapes two related sub-pages for broader coverage.
     """
     contests = []
 
-    # Scrape the main URL plus related sub-pages on the same site
-    extra_paths = ["/post/photocontestprize/", "/post/prefecture/"]
     parsed = urlparse(source["url"])
-    urls_to_scrape = [source["url"]] + [
-        f"{parsed.scheme}://{parsed.netloc}{p}" for p in extra_paths
+    root = f"{parsed.scheme}://{parsed.netloc}"
+    urls_to_scrape = [
+        source["url"],
+        f"{root}/post/photocontestprize/",
+        f"{root}/post/prefecture/",
     ]
 
     for url in urls_to_scrape:
@@ -333,25 +301,29 @@ def parse_photosekai(source: dict) -> list[dict]:
             time.sleep(REQUEST_DELAY)
             continue
 
-        for h3 in soup.select("h3"):
+        # Narrow to main content area to avoid nav/sidebar h3s
+        content = soup.select_one("article, .entry-content, main, #content, .post-content")
+        scope = content if content else soup
+
+        for h3 in scope.select("h3"):
             name = h3.get_text(strip=True)
-            if not name or len(name) < 5:
+            if not name or len(name) < 8:
                 continue
 
             entry_url = None
             deadline_text = ""
             prize = None
 
-            # Walk up to 6 siblings; stop at the next h3
             sibling = h3.find_next_sibling()
-            for _ in range(6):
-                if sibling is None or sibling.name == "h3":
+            for _ in range(8):
+                if sibling is None or sibling.name in ("h2", "h3"):
                     break
                 text = sibling.get_text(" ", strip=True)
 
                 if not entry_url:
                     link = sibling.select_one("a[href]")
-                    if link:
+                    # Only accept absolute links (external contest pages)
+                    if link and link.get("href", "").startswith("http"):
                         entry_url = link["href"]
 
                 if not deadline_text:
@@ -376,11 +348,114 @@ def parse_photosekai(source: dict) -> list[dict]:
     return contests
 
 
+def parse_japandesign(source: dict) -> list[dict]:
+    """
+    登竜門 confirmed HTML structure:
+      <ul> of <li> > <a href="/contest-slug/"> containing:
+        <h3>Contest name</h3>
+        <dl> with 賞 / 主催 / 締切 rows   (main list)
+        or plain "あとN日" text           (promo block)
+    The generic scraper's CARD_SELECTORS don't match this structure.
+    """
+    contests = []
+    url: str | None = source["url"]
+    visited: set = set()
+    page = 0
+
+    while url and url not in visited and page < MAX_PAGES:
+        print(f"  [登竜門] page {page + 1}: {url}")
+        soup = get_soup(url)
+        if not soup:
+            break
+
+        visited.add(url)
+        page += 1
+
+        for a in soup.select("li > a[href]"):
+            h3 = a.select_one("h3")
+            if not h3:
+                continue
+            name = h3.get_text(strip=True)
+            if not name or len(name) < 5:
+                continue
+
+            href = abs_url(a["href"], url)
+
+            # Deadline and prize are in the parent <li>
+            parent_li = a.find_parent("li")
+            deadline_text = ""
+            prize = None
+            if parent_li:
+                text = parent_li.get_text(" ", strip=True)
+                m = re.search(r"\d{4}年\d{1,2}月\d{1,2}日", text)
+                if m:
+                    deadline_text = m.group(0)
+                if any(kw in text for kw in ("万円", "賞金")):
+                    prize = extract_prize(text)
+
+            contests.append(make_entry(name, source["name"], href, href,
+                                       deadline_text, prize))
+
+        url = find_next_page(soup, url)
+        time.sleep(REQUEST_DELAY)
+
+    print(f"  [登竜門] {len(contests)} entries")
+    return contests
+
+
+def parse_yamakei(source: dict) -> list[dict]:
+    """
+    山と渓谷 blocks the default User-Agent with 403.
+    Retry with a Referer header; fall back gracefully with 0 results if still blocked.
+    """
+    contests = []
+    url = source["url"]
+    print(f"  [山と渓谷] {url}")
+
+    try:
+        headers = {**HEADERS, "Referer": "https://www.yamakei-online.com/"}
+        r = requests.get(url, headers=headers, timeout=15)
+        r.raise_for_status()
+        r.encoding = r.apparent_encoding
+        soup = BeautifulSoup(r.text, "html.parser")
+    except Exception as e:
+        print(f"  [山と渓谷] blocked or error: {e}")
+        return contests
+
+    for item in soup.select("article, li.contest, div.contest, .entry-body"):
+        name_el = item.select_one("h2, h3, h4, .title, strong")
+        if not name_el:
+            continue
+        name = name_el.get_text(strip=True)
+        if not name or len(name) < 5:
+            continue
+
+        link_el = item.select_one("a[href]")
+        entry_url = abs_url(link_el["href"] if link_el else "", url)
+
+        deadline_text = ""
+        prize = None
+        for el in item.select("p, span, div, time"):
+            t = el.get_text(strip=True)
+            if not deadline_text and any(kw in t for kw in ("締切", "〆切", "応募期間")):
+                deadline_text = t[:80]
+            if not prize and any(kw in t for kw in ("万円", "賞金")):
+                prize = extract_prize(t)
+
+        contests.append(make_entry(name, source["name"], url, entry_url,
+                                   deadline_text, prize))
+
+    print(f"  [山と渓谷] {len(contests)} entries")
+    return contests
+
+
 # Register custom parsers by source name.
 # Sources not listed here fall through to scrape_generic().
 CUSTOM_PARSERS: dict = {
     "Picru":       parse_picru,
     "フォトセカイ": parse_photosekai,
+    "登竜門":      parse_japandesign,
+    "山と渓谷":    parse_yamakei,
 }
 
 

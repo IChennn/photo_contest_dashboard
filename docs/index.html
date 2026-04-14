@@ -3,153 +3,147 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Photo Contest Dashboard</title>
+<title>フォトコンテスト 収集板</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;700&family=Noto+Sans+JP:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg:        #0e0e0e;
-    --bg2:       #161616;
-    --bg3:       #1f1f1f;
-    --border:    rgba(255,255,255,0.07);
-    --border2:   rgba(255,255,255,0.12);
-    --text:      #e2ddd6;
-    --text2:     #7a7570;
-    --text3:     #4a4540;
-    --accent:    #c8a96e;
-    --accent2:   #8fa86e;
-    --red:       #c86e6e;
-    --orange:    #c8956e;
-    --mono:      'DM Mono', monospace;
-    --serif:     'Shippori Mincho', serif;
+    --bg:       #f5f3ef;
+    --bg2:      #edeae4;
+    --bg3:      #e4e0d8;
+    --surface:  #faf9f6;
+    --border:   #d8d3c8;
+    --border2:  #c8c2b4;
+    --text:     #2c2820;
+    --text2:    #6b6358;
+    --text3:    #a09890;
+    --accent:   #7a8c6e;   /* muted sage green */
+    --red:      #a05c5c;   /* muted terracotta */
+    --orange:   #a07850;   /* muted amber */
+    --serif:    'Noto Serif JP', serif;
+    --sans:     'Noto Sans JP', sans-serif;
   }
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
 
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: var(--serif);
+    font-family: var(--sans);
     min-height: 100vh;
-    line-height: 1.6;
+    line-height: 1.7;
   }
 
   /* ── HEADER ── */
   header {
+    background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 0 clamp(16px, 4vw, 48px);
+    padding: 32px clamp(20px, 5vw, 56px) 24px;
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: end;
     gap: 16px;
-    padding-bottom: 24px;
-    padding-top: 40px;
   }
 
-  .header-left h1 {
-    font-size: clamp(22px, 4vw, 38px);
-    font-weight: 800;
-    letter-spacing: 0.04em;
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(20px, 3.5vw, 32px);
+    font-weight: 700;
+    letter-spacing: 0.06em;
     color: var(--text);
-    line-height: 1.1;
+    line-height: 1.2;
   }
 
-  .header-left h1 span {
+  h1 em {
+    font-style: normal;
     color: var(--accent);
   }
 
   .header-sub {
-    font-family: var(--mono);
     font-size: 11px;
     color: var(--text3);
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
+    letter-spacing: 0.12em;
     margin-top: 6px;
   }
 
-  .header-meta {
-    text-align: right;
-  }
-
   .updated-at {
-    font-family: var(--mono);
     font-size: 11px;
     color: var(--text3);
-    letter-spacing: 0.1em;
+    text-align: right;
+    line-height: 1.6;
   }
 
   .updated-at strong {
-    color: var(--text2);
     display: block;
-    font-size: 13px;
-    margin-top: 2px;
+    font-size: 12px;
+    color: var(--text2);
+    font-weight: 500;
   }
 
-  /* ── STATS BAR ── */
+  /* ── STATS ── */
   .stats {
-    display: flex;
-    gap: 1px;
-    background: var(--border);
+    background: var(--surface);
     border-bottom: 1px solid var(--border);
+    display: flex;
   }
 
   .stat {
     flex: 1;
-    background: var(--bg);
-    padding: 14px clamp(12px, 2vw, 28px);
+    padding: 16px clamp(12px, 2vw, 32px);
+    border-right: 1px solid var(--border);
     display: flex;
-    align-items: baseline;
-    gap: 8px;
+    flex-direction: column;
+    gap: 2px;
   }
 
+  .stat:last-child { border-right: none; }
+
   .stat-num {
-    font-family: var(--mono);
-    font-size: clamp(20px, 3vw, 28px);
-    font-weight: 500;
-    color: var(--accent);
+    font-family: var(--serif);
+    font-size: clamp(22px, 2.5vw, 30px);
+    font-weight: 700;
+    color: var(--text);
     line-height: 1;
   }
 
-  .stat-num.red   { color: var(--red); }
+  .stat-num.red    { color: var(--red); }
   .stat-num.orange { color: var(--orange); }
-  .stat-num.green { color: var(--accent2); }
+  .stat-num.green  { color: var(--accent); }
 
   .stat-label {
     font-size: 11px;
     color: var(--text3);
-    letter-spacing: 0.05em;
-    white-space: nowrap;
+    letter-spacing: 0.04em;
   }
 
   /* ── CONTROLS ── */
   .controls {
-    padding: 16px clamp(16px, 4vw, 48px);
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 14px clamp(20px, 5vw, 56px);
     display: flex;
     gap: 10px;
     align-items: center;
     flex-wrap: wrap;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg2);
   }
 
   .search-wrap {
     position: relative;
     flex: 1;
-    min-width: 200px;
-    max-width: 320px;
+    min-width: 180px;
+    max-width: 300px;
   }
 
   .search-wrap input {
     width: 100%;
-    background: var(--bg3);
+    background: var(--surface);
     border: 1px solid var(--border2);
-    border-radius: 4px;
-    padding: 8px 12px 8px 32px;
+    border-radius: 3px;
+    padding: 7px 12px 7px 28px;
     color: var(--text);
-    font-family: var(--serif);
-    font-size: 14px;
+    font-family: var(--sans);
+    font-size: 13px;
     outline: none;
     transition: border-color 0.2s;
   }
@@ -159,12 +153,13 @@
 
   .search-icon {
     position: absolute;
-    left: 10px;
+    left: 9px;
     top: 50%;
     transform: translateY(-50%);
+    font-size: 12px;
     color: var(--text3);
-    font-size: 13px;
     pointer-events: none;
+    font-style: normal;
   }
 
   .filters {
@@ -177,13 +172,13 @@
     background: transparent;
     border: 1px solid var(--border2);
     border-radius: 3px;
-    padding: 6px 12px;
+    padding: 6px 13px;
     color: var(--text2);
-    font-family: var(--serif);
+    font-family: var(--sans);
     font-size: 12px;
     cursor: pointer;
     transition: all 0.15s;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
   }
 
   .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
@@ -191,138 +186,152 @@
   .filter-btn.active {
     background: var(--accent);
     border-color: var(--accent);
-    color: var(--bg);
-    font-weight: 600;
+    color: #fff;
+    font-weight: 500;
   }
 
-  .count-badge {
+  .count-label {
     margin-left: auto;
-    font-family: var(--mono);
     font-size: 12px;
     color: var(--text3);
     white-space: nowrap;
   }
 
-  /* ── SOURCE LEGEND ── */
-  .sources {
-    padding: 10px clamp(16px, 4vw, 48px);
-    display: flex;
-    gap: 12px;
-    flex-wrap: wrap;
-    border-bottom: 1px solid var(--border);
+  /* ── SOURCES BAR ── */
+  .sources-bar {
     background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 8px clamp(20px, 5vw, 56px);
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
-  .source-tag {
-    font-family: var(--mono);
+  .sources-label {
     font-size: 11px;
     color: var(--text3);
-    text-decoration: none;
-    letter-spacing: 0.08em;
-    transition: color 0.15s;
+    letter-spacing: 0.06em;
   }
-  .source-tag:hover { color: var(--accent); }
 
-  /* ── MAIN GRID ── */
+  .source-link {
+    font-size: 11px;
+    color: var(--text2);
+    text-decoration: none;
+    border-bottom: 1px solid var(--border2);
+    padding-bottom: 1px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .source-link:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* ── MAIN ── */
   main {
-    padding: clamp(16px, 3vw, 40px) clamp(16px, 4vw, 48px);
+    padding: clamp(20px, 3vw, 40px) clamp(20px, 5vw, 56px);
   }
 
   #empty-state {
     text-align: center;
-    padding: 80px 0;
+    padding: 72px 0;
     color: var(--text3);
   }
 
-  #empty-state .big { font-size: 40px; margin-bottom: 12px; }
-  #empty-state p { font-size: 14px; line-height: 1.8; }
+  #empty-state p { font-size: 14px; line-height: 2; }
 
+  /* ── GRID ── */
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
+    gap: 12px;
   }
 
   /* ── CARD ── */
   .card {
-    background: var(--bg);
-    padding: 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 18px 20px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    transition: background 0.15s;
+    gap: 11px;
     position: relative;
-    overflow: hidden;
+    transition: box-shadow 0.15s, border-color 0.15s;
   }
 
-  .card:hover { background: var(--bg2); }
+  .card:hover {
+    border-color: var(--border2);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
 
-  .card-urgent::before {
+  /* Left accent stripe by urgency */
+  .card::before {
     content: '';
     position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 2px;
-    background: var(--red);
+    left: 0; top: 8px; bottom: 8px;
+    width: 3px;
+    border-radius: 0 2px 2px 0;
+    background: var(--border);
   }
 
-  .card-soon::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 2px;
-    background: var(--orange);
-  }
+  .card-urgent::before { background: var(--red); }
+  .card-soon::before   { background: var(--orange); }
+  .card-normal::before { background: var(--accent); }
 
+  /* ── CARD TOP ── */
   .card-top {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 8px;
+    gap: 10px;
   }
 
   .card-name {
+    font-family: var(--serif);
     font-size: 14px;
     font-weight: 600;
     color: var(--text);
-    line-height: 1.4;
+    line-height: 1.5;
     flex: 1;
   }
 
   .badge {
-    font-family: var(--mono);
     font-size: 10px;
     padding: 2px 7px;
     border-radius: 2px;
     white-space: nowrap;
     flex-shrink: 0;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.04em;
+    font-weight: 500;
   }
 
-  .badge-urgent { background: rgba(200,110,110,0.15); color: var(--red); border: 1px solid rgba(200,110,110,0.3); }
-  .badge-soon   { background: rgba(200,149,110,0.15); color: var(--orange); border: 1px solid rgba(200,149,110,0.3); }
-  .badge-normal { background: rgba(143,168,110,0.15); color: var(--accent2); border: 1px solid rgba(143,168,110,0.3); }
-  .badge-none   { background: rgba(122,117,112,0.15); color: var(--text2); border: 1px solid var(--border2); }
+  .badge-urgent { background: #f0e4e4; color: var(--red); }
+  .badge-soon   { background: #f0ebe0; color: var(--orange); }
+  .badge-normal { background: #e8ede4; color: var(--accent); }
+  .badge-none   { background: var(--bg3); color: var(--text3); }
 
+  /* ── CARD META ── */
   .card-meta {
     display: flex;
-    gap: 6px;
     flex-wrap: wrap;
+    gap: 5px;
   }
 
   .tag {
     font-size: 11px;
     padding: 2px 8px;
     border-radius: 2px;
-    background: var(--bg3);
+    background: var(--bg2);
     color: var(--text2);
     border: 1px solid var(--border);
   }
 
-  .tag-source { color: var(--accent); border-color: rgba(200,169,110,0.2); }
+  .tag-source {
+    color: var(--accent);
+    background: #edf0ea;
+    border-color: #d4dccf;
+  }
 
-  /* ── DEADLINE BOX ── */
+  /* ── DEADLINE ── */
   .deadline-box {
     background: var(--bg2);
     border: 1px solid var(--border);
@@ -331,101 +340,99 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: auto;
   }
 
   .deadline-label {
-    font-family: var(--mono);
     font-size: 10px;
     color: var(--text3);
-    letter-spacing: 0.1em;
+    letter-spacing: 0.06em;
     margin-bottom: 2px;
   }
 
   .deadline-date {
-    font-family: var(--mono);
+    font-family: var(--serif);
     font-size: 14px;
+    font-weight: 600;
     color: var(--text);
-    font-weight: 500;
   }
 
   .deadline-date.urgent { color: var(--red); }
   .deadline-date.soon   { color: var(--orange); }
 
   .days-left {
-    font-family: var(--mono);
     font-size: 11px;
-    padding: 3px 8px;
+    padding: 3px 9px;
     border-radius: 2px;
     background: var(--bg3);
     color: var(--text2);
     border: 1px solid var(--border);
   }
 
-  .days-left.urgent { color: var(--red); border-color: rgba(200,110,110,0.3); background: rgba(200,110,110,0.08); }
-  .days-left.soon   { color: var(--orange); border-color: rgba(200,149,110,0.3); background: rgba(200,149,110,0.08); }
+  .days-left.urgent { color: var(--red);    background: #f5ecec; border-color: #e0cece; }
+  .days-left.soon   { color: var(--orange); background: #f5f0e8; border-color: #e0d4c0; }
 
   /* ── PRIZE / NOTES ── */
   .prize {
     font-size: 12px;
-    color: var(--accent);
-    display: flex;
-    align-items: center;
-    gap: 5px;
+    color: var(--orange);
   }
 
   .notes {
     font-size: 12px;
     color: var(--text3);
-    line-height: 1.5;
+    line-height: 1.6;
     border-left: 2px solid var(--border2);
-    padding-left: 8px;
+    padding-left: 10px;
   }
 
-  /* ── BUTTONS ── */
+  /* ── ACTIONS ── */
   .card-actions {
     display: flex;
     gap: 6px;
+    margin-top: auto;
   }
 
   .btn-entry {
     flex: 1;
     text-align: center;
     background: var(--accent);
-    color: var(--bg);
+    color: #fff;
     text-decoration: none;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 500;
     padding: 8px;
     border-radius: 3px;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     transition: opacity 0.15s;
-    font-family: var(--serif);
+    font-family: var(--sans);
   }
+
   .btn-entry:hover { opacity: 0.85; }
 
   .btn-source {
-    background: var(--bg3);
+    background: var(--bg2);
     border: 1px solid var(--border2);
     color: var(--text2);
     text-decoration: none;
     font-size: 11px;
-    padding: 8px 12px;
+    padding: 8px 13px;
     border-radius: 3px;
-    font-family: var(--mono);
+    font-family: var(--sans);
     transition: all 0.15s;
   }
+
   .btn-source:hover { border-color: var(--accent); color: var(--accent); }
 
   /* ── FOOTER ── */
   footer {
     border-top: 1px solid var(--border);
-    padding: 20px clamp(16px, 4vw, 48px);
+    padding: 18px clamp(20px, 5vw, 56px);
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 10px;
+    background: var(--surface);
   }
 
   .footer-links {
@@ -435,55 +442,63 @@
   }
 
   .footer-links a {
-    font-family: var(--mono);
     font-size: 11px;
     color: var(--text3);
     text-decoration: none;
-    letter-spacing: 0.08em;
     transition: color 0.15s;
   }
+
   .footer-links a:hover { color: var(--accent); }
 
   .footer-note {
-    font-family: var(--mono);
     font-size: 10px;
     color: var(--text3);
-    letter-spacing: 0.06em;
+    letter-spacing: 0.04em;
   }
 
   @media (max-width: 600px) {
-    .stats { flex-wrap: wrap; }
-    .stat { min-width: 50%; }
     header { grid-template-columns: 1fr; }
-    .header-meta { text-align: left; }
+    .updated-at { text-align: left; }
+    .stat { min-width: 50%; }
+    .stats { flex-wrap: wrap; }
   }
 </style>
 </head>
 <body>
 
 <header>
-  <div class="header-left">
-    <h1>フォトコンテスト<span>収集板</span></h1>
-    <div class="header-sub">Photo Contest Dashboard · Japan · Auto-updated Daily</div>
+  <div>
+    <h1>フォトコンテスト<em>収集板</em></h1>
+    <div class="header-sub">Photo Contest Dashboard · Japan · 毎日自動更新</div>
   </div>
-  <div class="header-meta">
-    <div class="updated-at">
-      最終更新
-      <strong id="updated-at">---</strong>
-    </div>
+  <div class="updated-at">
+    最終更新
+    <strong id="updated-at">---</strong>
   </div>
 </header>
 
 <div class="stats">
-  <div class="stat"><span class="stat-num" id="stat-total">0</span><span class="stat-label">件 募集中</span></div>
-  <div class="stat"><span class="stat-num red" id="stat-urgent">0</span><span class="stat-label">件 締切7日以内</span></div>
-  <div class="stat"><span class="stat-num orange" id="stat-soon">0</span><span class="stat-label">件 今月締切</span></div>
-  <div class="stat"><span class="stat-num green" id="stat-national">0</span><span class="stat-label">件 全国対象</span></div>
+  <div class="stat">
+    <span class="stat-num" id="stat-total">—</span>
+    <span class="stat-label">件 募集中</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num red" id="stat-urgent">—</span>
+    <span class="stat-label">件 締切7日以内</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num orange" id="stat-soon">—</span>
+    <span class="stat-label">件 今月締切</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num green" id="stat-national">—</span>
+    <span class="stat-label">件 全国対象</span>
+  </div>
 </div>
 
 <div class="controls">
   <div class="search-wrap">
-    <span class="search-icon">🔍</span>
+    <span class="search-icon">&#x2315;</span>
     <input type="text" id="search" placeholder="コンテスト名・テーマで絞込み">
   </div>
   <div class="filters">
@@ -493,14 +508,16 @@
     <button class="filter-btn" data-filter="local">地域</button>
     <button class="filter-btn" data-filter="prize">賞金あり</button>
   </div>
-  <div class="count-badge" id="count-badge">-- 件表示</div>
+  <div class="count-label" id="count-label">— 件</div>
 </div>
 
-<div class="sources" id="sources-bar"></div>
+<div class="sources-bar">
+  <span class="sources-label">情報元 :</span>
+  <span id="sources-bar"></span>
+</div>
 
 <main>
   <div id="empty-state" style="display:none;">
-    <div class="big">📷</div>
     <p>コンテスト情報がまだありません。<br>
     GitHub Actions が毎日 09:00 JST に自動更新します。<br>
     初回は Actions タブから手動で実行してください。</p>
@@ -521,10 +538,10 @@
 <script>
 const DATA_URL = "data/contests.json";
 const SOURCES = {
-  "Picru": "https://picru.jp/opens/",
+  "Picru":      "https://picru.jp/opens/",
   "フォトセカイ": "https://photosekai.com/post/photocontestnew/",
-  "山と渓谷": "https://www.yamakei-online.com/yk/pt_contest/",
-  "登竜門": "https://compe.japandesign.ne.jp/category/photo/",
+  "山と渓谷":   "https://www.yamakei-online.com/yk/pt_contest/",
+  "登竜門":     "https://compe.japandesign.ne.jp/category/photo/",
 };
 
 let allContests = [];
@@ -533,10 +550,8 @@ let searchText = "";
 
 function urgency(deadline) {
   if (!deadline) return "none";
-  const d = new Date(deadline);
-  const now = new Date();
-  const diff = (d - now) / 864e5;
-  if (diff < 0) return "expired";
+  const diff = (new Date(deadline) - new Date()) / 864e5;
+  if (diff < 0)  return "expired";
   if (diff <= 7) return "urgent";
   if (diff <= 31) return "soon";
   return "normal";
@@ -544,8 +559,7 @@ function urgency(deadline) {
 
 function daysLeft(deadline) {
   if (!deadline) return null;
-  const diff = Math.ceil((new Date(deadline) - new Date()) / 864e5);
-  return diff;
+  return Math.ceil((new Date(deadline) - new Date()) / 864e5);
 }
 
 function formatDate(iso) {
@@ -554,10 +568,15 @@ function formatDate(iso) {
   return `${y}年${parseInt(m)}月${parseInt(d)}日`;
 }
 
+function escHtml(str) {
+  if (!str) return "";
+  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
 function render(contests) {
-  const grid = document.getElementById("grid");
+  const grid  = document.getElementById("grid");
   const empty = document.getElementById("empty-state");
-  document.getElementById("count-badge").textContent = `${contests.length} 件表示`;
+  document.getElementById("count-label").textContent = `${contests.length} 件`;
 
   if (contests.length === 0) {
     grid.innerHTML = "";
@@ -569,45 +588,49 @@ function render(contests) {
   grid.innerHTML = contests.map(c => {
     const urg = urgency(c.deadline);
     if (urg === "expired") return "";
-    const dl = daysLeft(c.deadline);
-    const urgClass = urg === "urgent" ? "card-urgent" : urg === "soon" ? "card-soon" : "";
-    const badgeClass = urg === "urgent" ? "badge-urgent" : urg === "soon" ? "badge-soon" : urg === "normal" ? "badge-normal" : "badge-none";
-    const badgeText = urg === "urgent" ? "締切間近" : urg === "soon" ? "今月締切" : urg === "normal" ? "募集中" : "要確認";
-    const dlClass = urg === "urgent" ? "urgent" : urg === "soon" ? "soon" : "";
+
+    const dl       = daysLeft(c.deadline);
+    const cardCls  = urg === "urgent" ? "card-urgent" : urg === "soon" ? "card-soon" : urg === "normal" ? "card-normal" : "";
+    const badgeCls = urg === "urgent" ? "badge-urgent" : urg === "soon" ? "badge-soon" : urg === "normal" ? "badge-normal" : "badge-none";
+    const badgeTxt = urg === "urgent" ? "締切間近" : urg === "soon" ? "今月締切" : urg === "normal" ? "募集中" : "要確認";
+    const dlCls    = urg === "urgent" ? "urgent" : urg === "soon" ? "soon" : "";
+
+    const dlLabel = dl !== null
+      ? `<div class="days-left ${dlCls}">${dl > 0 ? "あと " + dl + " 日" : "本日締切"}</div>`
+      : "";
+
+    const metaTags = [
+      c.source ? `<span class="tag tag-source">${escHtml(c.source)}</span>` : "",
+      c.region  ? `<span class="tag">${escHtml(c.region)}</span>` : "",
+      c.theme   ? `<span class="tag">${escHtml(c.theme)}</span>`  : "",
+    ].filter(Boolean).join("");
+
+    const sourceBtn = (c.sourceUrl && c.sourceUrl !== c.entryUrl)
+      ? `<a class="btn-source" href="${escHtml(c.sourceUrl)}" target="_blank" rel="noreferrer">元記事</a>`
+      : "";
 
     return `
-      <div class="card ${urgClass}">
+      <div class="card ${cardCls}">
         <div class="card-top">
           <div class="card-name">${escHtml(c.name)}</div>
-          <span class="badge ${badgeClass}">${badgeText}</span>
+          <span class="badge ${badgeCls}">${badgeTxt}</span>
         </div>
-        <div class="card-meta">
-          ${c.source ? `<span class="tag tag-source">${escHtml(c.source)}</span>` : ""}
-          ${c.region ? `<span class="tag">📍 ${escHtml(c.region)}</span>` : ""}
-          ${c.theme ? `<span class="tag">🎨 ${escHtml(c.theme)}</span>` : ""}
-        </div>
-        ${c.prize ? `<div class="prize">🏆 ${escHtml(c.prize)}</div>` : ""}
+        ${metaTags ? `<div class="card-meta">${metaTags}</div>` : ""}
+        ${c.prize ? `<div class="prize">賞金 ${escHtml(c.prize)}</div>` : ""}
         <div class="deadline-box">
           <div>
             <div class="deadline-label">応募締切</div>
-            <div class="deadline-date ${dlClass}">${formatDate(c.deadline) || escHtml(c.deadlineText)}</div>
+            <div class="deadline-date ${dlCls}">${formatDate(c.deadline) || escHtml(c.deadlineText)}</div>
           </div>
-          ${dl !== null ? `<div class="days-left ${dlClass}">${dl > 0 ? "あと " + dl + " 日" : "本日締切"}</div>` : ""}
+          ${dlLabel}
         </div>
         ${c.notes ? `<div class="notes">${escHtml(c.notes)}</div>` : ""}
         <div class="card-actions">
-          <a class="btn-entry" href="${escHtml(c.entryUrl || c.sourceUrl)}" target="_blank" rel="noreferrer">応募ページへ →</a>
-          ${c.sourceUrl && c.sourceUrl !== c.entryUrl
-            ? `<a class="btn-source" href="${escHtml(c.sourceUrl)}" target="_blank" rel="noreferrer">元記事</a>`
-            : ""}
+          <a class="btn-entry" href="${escHtml(c.entryUrl || c.sourceUrl)}" target="_blank" rel="noreferrer">応募ページへ</a>
+          ${sourceBtn}
         </div>
       </div>`;
   }).join("");
-}
-
-function escHtml(str) {
-  if (!str) return "";
-  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
 function applyFilters() {
@@ -616,53 +639,50 @@ function applyFilters() {
   if (searchText) {
     const q = searchText.toLowerCase();
     list = list.filter(c =>
-      (c.name || "").toLowerCase().includes(q) ||
-      (c.theme || "").toLowerCase().includes(q) ||
+      (c.name   || "").toLowerCase().includes(q) ||
+      (c.theme  || "").toLowerCase().includes(q) ||
       (c.region || "").toLowerCase().includes(q)
     );
   }
 
-  if (activeFilter === "urgent") {
-    list = list.filter(c => ["urgent","soon"].includes(urgency(c.deadline)));
-  } else if (activeFilter === "national") {
-    list = list.filter(c => c.region === "全国" || !c.region);
-  } else if (activeFilter === "local") {
-    list = list.filter(c => c.region && c.region !== "全国");
-  } else if (activeFilter === "prize") {
-    list = list.filter(c => c.prize);
-  }
+  if      (activeFilter === "urgent")   list = list.filter(c => ["urgent","soon"].includes(urgency(c.deadline)));
+  else if (activeFilter === "national") list = list.filter(c => !c.region || c.region === "全国");
+  else if (activeFilter === "local")    list = list.filter(c => c.region && c.region !== "全国");
+  else if (activeFilter === "prize")    list = list.filter(c => c.prize);
 
   render(list);
 }
 
 async function loadData() {
   try {
-    const res = await fetch(DATA_URL + "?t=" + Date.now());
+    const res  = await fetch(DATA_URL + "?t=" + Date.now());
     const data = await res.json();
     allContests = data.contests || [];
 
-    // 更新日時
     if (data.updatedAt) {
       const d = new Date(data.updatedAt);
       document.getElementById("updated-at").textContent =
-        d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" }) + " JST";
+        d.toLocaleString("ja-JP", {
+          timeZone: "Asia/Tokyo",
+          year: "numeric", month: "2-digit", day: "2-digit",
+          hour: "2-digit", minute: "2-digit"
+        }) + " JST";
     }
 
-    // Stats
     const active = allContests.filter(c => urgency(c.deadline) !== "expired");
-    document.getElementById("stat-total").textContent = active.length;
-    document.getElementById("stat-urgent").textContent = active.filter(c => urgency(c.deadline) === "urgent").length;
-    document.getElementById("stat-soon").textContent = active.filter(c => urgency(c.deadline) === "soon").length;
+    document.getElementById("stat-total").textContent    = active.length;
+    document.getElementById("stat-urgent").textContent   = active.filter(c => urgency(c.deadline) === "urgent").length;
+    document.getElementById("stat-soon").textContent     = active.filter(c => urgency(c.deadline) === "soon").length;
     document.getElementById("stat-national").textContent = active.filter(c => !c.region || c.region === "全国").length;
 
     // Sources bar
-    const sourcesBar = document.getElementById("sources-bar");
-    const sourceCounts = {};
-    active.forEach(c => { sourceCounts[c.source] = (sourceCounts[c.source] || 0) + 1; });
-    sourcesBar.innerHTML = Object.entries(sourceCounts).map(([k, v]) => {
-      const url = SOURCES[k] || "#";
-      return `<a class="source-tag" href="${url}" target="_blank" rel="noreferrer">${k}（${v}件）</a>`;
-    }).join("");
+    const counts = {};
+    active.forEach(c => { counts[c.source] = (counts[c.source] || 0) + 1; });
+    document.getElementById("sources-bar").innerHTML =
+      Object.entries(counts).map(([k, v]) => {
+        const url = SOURCES[k] || "#";
+        return `<a class="source-link" href="${url}" target="_blank" rel="noreferrer">${k}（${v}件）</a>`;
+      }).join(" · ");
 
     applyFilters();
   } catch (e) {
@@ -671,7 +691,6 @@ async function loadData() {
   }
 }
 
-// ── Events ──
 document.getElementById("search").addEventListener("input", e => {
   searchText = e.target.value;
   applyFilters();
