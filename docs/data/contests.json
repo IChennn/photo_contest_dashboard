@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-04-14T02:34:35Z",
-  "count": 514,
+  "updatedAt": "2026-04-15T02:53:24Z",
+  "count": 519,
   "contests": [
-    {
-      "id": "91b8eeed50",
-      "name": "令和8年高野口公園桜ウィーク Instagramフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.hashimoto.lg.jp/hashimototaikan/asobu/ibennto/sakura_fes/R8/photocontest.html",
-      "deadline": "2026-04-14",
-      "deadlineText": "2026年4月14日",
-      "prize": "2万円",
-      "notes": null
-    },
     {
       "id": "57de378505",
       "name": "2026小瀬桜フォト コンテスト",
@@ -1521,6 +1506,21 @@
       "deadline": "2026-05-10",
       "deadlineText": "2026年5月10日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "23a5e2a6cd",
+      "name": "ハコフォトコン春2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hakodate-kankou.com/news/2026/0407-21845/",
+      "deadline": "2026-05-10",
+      "deadlineText": "2026年5月10日",
+      "prize": "15,000円",
       "notes": null
     },
     {
@@ -3751,6 +3751,21 @@
       "notes": null
     },
     {
+      "id": "c05cc0de1b",
+      "name": "TOUR de KUMANO 2026 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tourdekumano.jp/2026/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E3%81%97%E3%82%89%E3%81%9B/",
+      "deadline": "2026-06-11",
+      "deadlineText": "2026年6月11日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "4223d33340",
       "name": "胎内市 第33回チューリップ写真コンテスト",
       "sources": [
@@ -4204,6 +4219,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kitashiobara-spring-photo-2026/"
         }
       ],
       "entryUrl": "https://www.vill.kitashiobara.fukushima.jp/site/kanko/9061.html",
@@ -4664,6 +4683,21 @@
       "deadline": "2026-07-15",
       "deadlineText": "2026年7月15日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "6b38b7df45",
+      "name": "第11回 スクールベン 新入学 制服フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/schoolben-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/schoolben-photo-2026/",
+      "deadline": "2026-07-15",
+      "deadlineText": "2026年07月15日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -5437,6 +5471,21 @@
       "notes": null
     },
     {
+      "id": "2330fbcfdb",
+      "name": "第10回 若山農場フォトコンテスト 竹撮物語2026春夏",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.wakayamafarm.com/post/%E8%8B%A5%E5%B1%B1%E8%BE%B2%E5%A0%B4%E3%81%AEinstagram%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E7%AB%B9%E6%92%AE%E7%89%A9%E8%AA%9E2026%E6%98%A5%E5%A4%8F-%E5%8B%9F%E9%9B%86%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b78fc0211e",
       "name": "白子町フォトコンテスト season4",
       "sources": [
@@ -5479,6 +5528,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "546b479c9d",
+      "name": "第六回 伊勢山皇大神宮写真展",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.iseyama.jp/information/exhibition6",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -5629,6 +5693,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4586bdc6ee",
+      "name": "第14回 かごしま水族館フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ioworld.jp/news/news-33608",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -5903,6 +5982,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "666ef8560c",
+      "name": "いかわフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tokyocameraclub.com/ikawa/contest2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "20,000円",
       "notes": null
     },
     {
@@ -7419,21 +7513,6 @@
         }
       ],
       "entryUrl": "https://panda-contest.com/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "2f9391f407",
-      "name": "‐ピクティア‐ 2026春のフォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8893"
-        }
-      ],
-      "entryUrl": "https://contest.pictier.com/2026spring/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
