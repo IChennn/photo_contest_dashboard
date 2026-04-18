@@ -1,97 +1,7 @@
 {
-  "updatedAt": "2026-04-17T02:55:51Z",
+  "updatedAt": "2026-04-18T02:47:02Z",
   "count": 528,
   "contests": [
-    {
-      "id": "faeee6d20f",
-      "name": "広報しらおか700号記念 第2回 白岡市フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.shiraoka.lg.jp/soshiki/keieikikakubu/kikakuseisakuka/16/2/9261.html",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "08511e9753",
-      "name": "かんすいフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kansui-park.jp/events/events-1174/",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "d375053936",
-      "name": "有磯ふれあいパーク 桜フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.aisin.com/jp/group/aisin-ak/topics/topics-e000308.php",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c29d961a4a",
-      "name": "第50回 各務原市桜まつりフォトコンテスト(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/026/711/50photo.pdf",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "4f73073a63",
-      "name": "神野公園 人工雲海・ライトアップ 写真＆動画ＳＮＳ投稿キャンペーン",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.saga.lg.jp/main/116879.html",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": "3,000円",
-      "notes": null
-    },
-    {
-      "id": "a23400a3d6",
-      "name": "出水市誕生20周年記念花火大会 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.kagoshima-izumi.lg.jp/page/page_012572.html",
-      "deadline": "2026-04-17",
-      "deadlineText": "2026年4月17日",
-      "prize": "30,000円",
-      "notes": null
-    },
     {
       "id": "0015a5c32b",
       "name": "竹田の里しだれ桜まつりフォトコンテスト2026(Instagram)",
@@ -1220,6 +1130,21 @@
       "deadline": "2026-05-06",
       "deadlineText": "2026年5月6日",
       "prize": "3,000円",
+      "notes": null
+    },
+    {
+      "id": "2ba56531ab",
+      "name": "2026 芝桜の丘インスタグラムフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://navi.city.chichibu.lg.jp/p_flower/29074/",
+      "deadline": "2026-05-06",
+      "deadlineText": "2026年5月6日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -3259,6 +3184,21 @@
       "notes": null
     },
     {
+      "id": "fa1ebdec3c",
+      "name": "和気町藤まつりInstagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://wake-fujifestival.jp/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年5月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "ea5787e366",
       "name": "Narustagram ～鳴門で Instagram！ 写真動画コンテスト～(春編)",
       "sources": [
@@ -4772,6 +4712,21 @@
       "notes": null
     },
     {
+      "id": "36b16ae19e",
+      "name": "第32回 夢けんせつフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yumeken.or.jp/photo-concool/",
+      "deadline": "2026-07-17",
+      "deadlineText": "2026年7月17日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "4e06813064",
       "name": "2026「芝桜まつり」＆「世界のあじさい・ゆりまつり」インスタグラムフォトコンテスト(世界のあじさいゆりまつり)",
       "sources": [
@@ -4923,6 +4878,21 @@
       "deadline": "2026-07-31",
       "deadlineText": "2026年7月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "0f1dda10f0",
+      "name": "第22回 魚沼市フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.iine-uonuma.jp/uonumacity/photo-contest/",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -6442,6 +6412,21 @@
       "notes": null
     },
     {
+      "id": "cc101432e0",
+      "name": "2026 ふかがわフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://riceland-fukagawa.com/event/%e3%80%8c2026%e3%81%b5%e3%81%8b%e3%81%8c%e3%82%8f%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%8d%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "adcc6ede49",
       "name": "英国大使館別荘記念公園　開園10周年 Instagram フォトコンテスト 2026(秋、雨)",
       "sources": [
@@ -7283,6 +7268,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "3946ce22d3",
+      "name": "やぶ市観光協会 フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yabu-kankou.jp/photocontest2026.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "1万円",
       "notes": null
     },
     {
