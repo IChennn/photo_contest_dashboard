@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-04-18T02:47:02Z",
-  "count": 528,
+  "updatedAt": "2026-04-19T03:21:01Z",
+  "count": 531,
   "contests": [
-    {
-      "id": "0015a5c32b",
-      "name": "竹田の里しだれ桜まつりフォトコンテスト2026(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/takeda_photocontest/p/DVcWtUnk-Rr/",
-      "deadline": "2026-04-18",
-      "deadlineText": "2026年4月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "80bf85e937",
-      "name": "志井川 さくらまつりフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kikugaokamachikyo.amebaownd.com/posts/58625623?categoryIds=3890696",
-      "deadline": "2026-04-18",
-      "deadlineText": "2026年4月18日",
-      "prize": "3,000円",
-      "notes": null
-    },
     {
       "id": "acddbfab46",
       "name": "2026年 第2回 キヤノン マンスリーフォトコンテスト",
@@ -1580,6 +1550,21 @@
       "notes": null
     },
     {
+      "id": "5a8bfd3070",
+      "name": "第24回 不老山花と光のフェスタ フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city-matsuura.jp/top/soshikikarasagasu/chiikikeizaikasseika/kankobussangakari/1/3118.html",
+      "deadline": "2026-05-11",
+      "deadlineText": "2026年5月11日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b5dc7a7e20",
       "name": "TOKYO MIDTOWN AWARD 2026 アートコンペ",
       "sources": [
@@ -2607,6 +2592,21 @@
       "deadline": "2026-05-31",
       "deadlineText": "2026年5月31日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "7e45dd72ea",
+      "name": "写真コンテスト in 伝承園",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.densyoen.jp/news/%e5%86%99%e7%9c%9f%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e9%96%8b%e5%82%ac%ef%bc%88%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%95%e6%9c%8831%e6%97%a5%e7%b7%a0%e3%82%81%e5%88%87%e3%82%8a%ef%bc%89/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年5月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -4408,6 +4408,21 @@
       "notes": null
     },
     {
+      "id": "f3fae3529e",
+      "name": "サイクルシティ堺フォトフェスタ2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.sakai.lg.jp/kurashi/doro/jitensha/photofesta.html",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "6a6cc993ab",
       "name": "兵庫県立フラワーセンター 開園50周年記念 写真コンテスト",
       "sources": [
@@ -6157,6 +6172,21 @@
       "notes": null
     },
     {
+      "id": "c63924aec0",
+      "name": "千種区フォトコンテスト イイじゃん！千種",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.nagoya.jp/chikusa/miryoku/1019354/1041338/1019425/1048314.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b3768d43cd",
       "name": "八幡山 ロープウェーフォトコンテスト2026",
       "sources": [
@@ -6706,6 +6736,21 @@
         }
       ],
       "entryUrl": "https://touhoku-ohenro.jp/pkobo_news2/upload/151-0link_file.pd",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "dbe52321a1",
+      "name": "第1回 石墨棚田フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://usunefurusato.com/top_news/ishizumi-tanada-photo-contest/",
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": null,
