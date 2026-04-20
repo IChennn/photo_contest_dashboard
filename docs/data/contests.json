@@ -1,112 +1,7 @@
 {
-  "updatedAt": "2026-04-19T03:21:01Z",
-  "count": 531,
+  "updatedAt": "2026-04-20T03:23:41Z",
+  "count": 526,
   "contests": [
-    {
-      "id": "acddbfab46",
-      "name": "2026年 第2回 キヤノン マンスリーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://personal.canon.jp/event/photocontest/monthly",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "69e960e1df",
-      "name": "結城サクラメグリ2026フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.yuki.lg.jp/kankou/news/page007078.html",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "fd59126b55",
-      "name": "寺ケ池公園 ミモザフォトコンテスト(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/teragaikekoen/p/DVKQaJFk18d/",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "698cf3b10b",
-      "name": "和歌山城フォトコンテスト2026春",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://wakayamajo.jp/event/event.php?id=620",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "173ce732c0",
-      "name": "因幡千本桜フォトコンテスト2026(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DWGNotfjygv/",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": "20,000円",
-      "notes": null
-    },
-    {
-      "id": "460fda69ee",
-      "name": "ひがしフォトコン！2026 東部地区の桜の写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.nagasaki.lg.jp/page/6040.html",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "f50eed3f3d",
-      "name": "菜の花フェスタ2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.bungotakada.oita.jp/site/showanomachi/22721.html",
-      "deadline": "2026-04-19",
-      "deadlineText": "2026年4月19日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "7d387aedee",
       "name": "第32回 田浦観光写真コンクール",
@@ -2522,6 +2417,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/meilleur-calendar-photo-2026/"
         }
       ],
       "entryUrl": "https://meilleur.co.jp/notice/photo_contest_3_entry/",
@@ -3409,6 +3308,21 @@
       "notes": null
     },
     {
+      "id": "e5f6119fa7",
+      "name": "第2回 COEDO DRONE AWARD",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/coedo-drone-award-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/coedo-drone-award-2026/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年05月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "928bbb9d1c",
       "name": "2027年度 未年（ひつじどし） 年賀状デザイン募集",
       "sources": [
@@ -3614,6 +3528,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tachikawa-faretart-photo-2026/"
         }
       ],
       "entryUrl": "https://www.faretart.jp/news/5760/",
@@ -3650,6 +3568,21 @@
       "deadline": "2026-06-07",
       "deadlineText": "2026年6月7日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "44650a82a8",
+      "name": "令和8年 全国地域安全運動 全国暴力追放運動 ポスター・青パト写真・標語募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/s-bouhan-poster-hyogo-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/s-bouhan-poster-hyogo-photo-2026/",
+      "deadline": "2026-06-10",
+      "deadlineText": "2026年06月10日",
+      "prize": null,
       "notes": null
     },
     {
