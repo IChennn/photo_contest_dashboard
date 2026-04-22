@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-21T02:56:39Z",
-  "count": 536,
+  "updatedAt": "2026-04-22T02:55:17Z",
+  "count": 540,
   "contests": [
     {
       "id": "eaf70b2437",
@@ -2081,6 +2081,21 @@
       "deadline": "2026-05-29",
       "deadlineText": "2026年5月29日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "9ba328909b",
+      "name": "第16 回こうのす花まつりフォトイベント",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kounosu.saitama.jp/site/hanamatsuri/1319.html",
+      "deadline": "2026-05-29",
+      "deadlineText": "2026年5月29日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -4461,6 +4476,25 @@
       "notes": null
     },
     {
+      "id": "5f56e0feef",
+      "name": "全日本写真展2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8888"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/asahi-zennihon-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://www.photo-asahi.com/contest/4/1462/entry/",
+      "deadline": "2026-07-02",
+      "deadlineText": "2026年07月02日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "6c4c707b57",
       "name": "第53回 全日本写真展2026",
       "sources": [
@@ -4587,6 +4621,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/nikkor-photo-2026/"
         }
       ],
       "entryUrl": "https://nij.nikon.com/activity/nikkor/ncpc/74/sp/",
@@ -5985,6 +6023,21 @@
       "notes": null
     },
     {
+      "id": "3bd885bd49",
+      "name": "みらい米フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tsukubamirai.lg.jp/jyumin/shigoto-sangyou-nougyou/nougyou/page004807.html",
+      "deadline": "2026-09-25",
+      "deadlineText": "2026年9月25日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "92550bb1ad",
       "name": "第41回 ダムフォトコンテスト",
       "sources": [
@@ -6360,6 +6413,21 @@
       "notes": null
     },
     {
+      "id": "a02318bd8e",
+      "name": "北陸しあわせ彩景フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.maff.go.jp/hokuriku/news/press/seisan/260421.html",
+      "deadline": "2026-10-30",
+      "deadlineText": "2026年10月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "919e36db11",
       "name": "小海町観光フォトコンテスト2026",
       "sources": [
@@ -6471,6 +6539,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/aichi-doren-photo-2026/"
         }
       ],
       "entryUrl": "https://www.aichi-doren.or.jp/%e7%ac%ac2%ef%bc%95%e5%9b%9e%e3%80%80%e3%81%82%e3%81%84%e3%81%a1%e3%81%ae%e8%be%b2%e6%a5%ad%e3%83%bb%e8%be%b2%e6%9d%91%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%80/",
@@ -7264,6 +7336,21 @@
       "notes": null
     },
     {
+      "id": "fd92394247",
+      "name": "あかびらまちづくりフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.akabira.hokkaido.jp/static/akabira-photocon_2026/index.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "d9159dd661",
       "name": "大磯町観光フォトコンテスト2026-2027(PDF)",
       "sources": [
@@ -7798,21 +7885,6 @@
         }
       ],
       "entryUrl": "https://www.town.kuriyama.hokkaido.jp/soshiki/48/663.html",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "5f56e0feef",
-      "name": "全日本写真展2026",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8888"
-        }
-      ],
-      "entryUrl": "https://www.photo-asahi.com/contest/4/1462/entry/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
