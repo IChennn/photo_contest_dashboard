@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-22T02:55:17Z",
-  "count": 540,
+  "updatedAt": "2026-04-23T02:57:55Z",
+  "count": 544,
   "contests": [
     {
       "id": "eaf70b2437",
@@ -1596,6 +1596,21 @@
       "notes": null
     },
     {
+      "id": "528fddd724",
+      "name": "濃姫まつりフォトコンテスト2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/kichofestival/p/DV-6zrLlZsb/?img_index=1",
+      "deadline": "2026-05-15",
+      "deadlineText": "2026年5月15日",
+      "prize": "3,000円",
+      "notes": null
+    },
+    {
       "id": "75058a3d71",
       "name": "第10回 九州川の風景フォトコンテスト 冬・春部門",
       "sources": [
@@ -1973,6 +1988,21 @@
         }
       ],
       "entryUrl": "https://www.city.hekinan.lg.jp/aquarium/event_guide/photo_contest/23772.html",
+      "deadline": "2026-05-24",
+      "deadlineText": "2026年5月24日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "7f26d4a83d",
+      "name": "堀川フラワーフェスティバル デジタルフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "http://horikawa.flower-festival.com/2026/photo/",
       "deadline": "2026-05-24",
       "deadlineText": "2026年5月24日",
       "prize": null,
@@ -4837,6 +4867,21 @@
       "notes": null
     },
     {
+      "id": "c05d83a2e3",
+      "name": "第21回 宮前区フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kawasaki.jp/miyamae/page/0000185093.html",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "89ca14a8b8",
       "name": "JAみなみ魚沼 カレンダーフォトコンテスト",
       "sources": [
@@ -7333,6 +7378,21 @@
       "deadline": "2027-01-20",
       "deadlineText": "2027年1月20日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "527c6511fd",
+      "name": "第38回 御所市観光フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.gose.nara.jp/kankou/0000001582.html",
+      "deadline": "2027-01-29",
+      "deadlineText": "2027年1月29日",
+      "prize": "5万円",
       "notes": null
     },
     {
