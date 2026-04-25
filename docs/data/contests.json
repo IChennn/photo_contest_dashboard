@@ -1,82 +1,7 @@
 {
-  "updatedAt": "2026-04-24T02:58:56Z",
-  "count": 556,
+  "updatedAt": "2026-04-25T02:48:03Z",
+  "count": 558,
   "contests": [
-    {
-      "id": "eaf70b2437",
-      "name": "福岡町 さくらまつりInstagramフォトコンテスト(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DWNhrdBkQ0n/?img_index=3",
-      "deadline": "2026-04-24",
-      "deadlineText": "2026年4月24日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c6c5ff30d9",
-      "name": "おおべ逆さ桜スナップフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://note.com/rcdc_of_obe/n/n0b35fe0c395e",
-      "deadline": "2026-04-24",
-      "deadlineText": "2026年4月24日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "1fe211055e",
-      "name": "チューリップのある風景 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.niimi.okayama.jp/kanko/event/event_detail/index/846.html",
-      "deadline": "2026-04-24",
-      "deadlineText": "2026年4月24日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "9a6802d78b",
-      "name": "九州がっ祭2026フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kyusyugassai.com/photocontest.html",
-      "deadline": "2026-04-24",
-      "deadlineText": "2026年4月24日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "e44a190af2",
-      "name": "「春の0号展-2026」 出展作品募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/zine-gallery-haru0-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/zine-gallery-haru0-2026/",
-      "deadline": "2026-04-24",
-      "deadlineText": "2026年04月24日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "0dab34e842",
       "name": "芦屋さくらまつり 2026フォトコンテスト",
@@ -4341,6 +4266,21 @@
       "notes": null
     },
     {
+      "id": "0827725c72",
+      "name": "第1弾 いろあふれるし、山梨市。魅力発掘キャンペーン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.yamanashi.yamanashi.jp/site/everydaylife/19105.html",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "6902f653b5",
       "name": "刈谷の公園フォトコンテスト2026",
       "sources": [
@@ -4353,6 +4293,21 @@
       "deadline": "2026-06-30",
       "deadlineText": "2026年6月30日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "916f6764b7",
+      "name": "市バス沿線フォトコンテスト 中川区編",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kotsu.city.nagoya.jp/rp/odekake/TRP0005441.htm",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -4687,6 +4642,21 @@
       "deadline": "2026-07-10",
       "deadlineText": "2026年7月10日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "9e8fe8f177",
+      "name": "第9回 東京水道フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.waterworks.metro.tokyo.lg.jp/information/press/r8/04/2026042401",
+      "deadline": "2026-07-14",
+      "deadlineText": "2026年7月14日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -6049,6 +6019,21 @@
       "notes": null
     },
     {
+      "id": "36dcfc1ccc",
+      "name": "こんなところにも電気の設備 フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ieiej.or.jp/news/20260424111709.html",
+      "deadline": "2026-09-13",
+      "deadlineText": "2026年9月13日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "54e29b204a",
       "name": "国際湿地都市 NIIGATA Instagramフォトコンテスト（春・夏）",
       "sources": [
@@ -6230,6 +6215,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "51b9d70371",
+      "name": "第22回 ソフトクリームフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://soft-cream.mitte-x.istsw.jp/index.html?cn=218",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -6437,6 +6437,21 @@
         }
       ],
       "entryUrl": "https://www.vill.yamae.lg.jp/kiji0031520/index.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "194f51e2d4",
+      "name": "令和8年度 インスタ都城選手権(前期)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.miyakonojo.miyazaki.jp/site/miyakonojo-pr/73114.html",
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "10,000円",
@@ -7738,6 +7753,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "128bb969c6",
+      "name": "令和8年度 インスタ都城選手権(後期)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.miyakonojo.miyazaki.jp/site/miyakonojo-pr/73114.html",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": "10,000円",
       "notes": null
     },
     {
