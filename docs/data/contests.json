@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-04-25T02:48:03Z",
-  "count": 558,
+  "updatedAt": "2026-04-26T03:25:10Z",
+  "count": 561,
   "contests": [
-    {
-      "id": "0dab34e842",
-      "name": "芦屋さくらまつり 2026フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://ashiya-ata.org/photo-contest2026/",
-      "deadline": "2026-04-25",
-      "deadlineText": "2026年4月25日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "6554a37b27",
-      "name": "シャディ100周年 母の日フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://shaddy.jp/campaign/md_photo_26/",
-      "deadline": "2026-04-25",
-      "deadlineText": "2026年4月25日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "63ec34386b",
       "name": "第2回 日山の日フォトコンテスト",
@@ -3496,6 +3466,21 @@
       "notes": null
     },
     {
+      "id": "5c058914e5",
+      "name": "たきのチューリップフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://takinopark.com/event/tulipphotocontest/",
+      "deadline": "2026-06-07",
+      "deadlineText": "2026年6月7日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d816a0775f",
       "name": "碧南花まつりインスタグラムフォトコンテスト2026",
       "sources": [
@@ -3508,6 +3493,21 @@
       "deadline": "2026-06-07",
       "deadlineText": "2026年6月7日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "b8e9cb7c47",
+      "name": "第36回 日野曳山まつり写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hino-kanko.jp/topics/6858/",
+      "deadline": "2026-06-07",
+      "deadlineText": "2026年6月7日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -3598,6 +3598,21 @@
       "deadline": "2026-06-12",
       "deadlineText": "2026年6月12日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "1e135adbe1",
+      "name": "長野県議会高校生フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.nagano.lg.jp/gikai/chosa/koho/photocontest/bosyuyoko2026.html",
+      "deadline": "2026-06-12",
+      "deadlineText": "2026年6月12日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -5460,6 +5475,21 @@
       "notes": null
     },
     {
+      "id": "893ebc4e49",
+      "name": "令和8年度 湯梨浜夏まつり写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yurihama.jp/site/matsuri/2305.html",
+      "deadline": "2026-08-21",
+      "deadlineText": "2026年8月21日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e665fc4419",
       "name": "第13回ほとけの心フォトコンテスト",
       "sources": [
@@ -7056,6 +7086,21 @@
         }
       ],
       "entryUrl": "https://www.we-hall.jp/14055/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "fb636fe84a",
+      "name": "いしかわ里山里海サイクリングルート フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.ishikawa.jp/michi/cycling/cycling-web/cycling.html#photocontest",
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": null,
