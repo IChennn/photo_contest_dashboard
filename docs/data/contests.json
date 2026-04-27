@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-04-26T03:25:10Z",
-  "count": 561,
+  "updatedAt": "2026-04-27T03:30:06Z",
+  "count": 560,
   "contests": [
-    {
-      "id": "63ec34386b",
-      "name": "第2回 日山の日フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.sundaymountain.jp/2026_nitiyamanohi_photocontest/",
-      "deadline": "2026-04-26",
-      "deadlineText": "2026年4月26日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "d57be55a8f",
-      "name": "茨木市 春の公園・緑地 Instagram フォトキャンペーン",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.ibaraki.osaka.jp/kikou/kensetsu/koen/oshirase/68685.html",
-      "deadline": "2026-04-26",
-      "deadlineText": "2026年4月26日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4b9c8ed9ff",
-      "name": "TANOSU 春の桜フォトコン",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://tanosu.com/event/213761/",
-      "deadline": "2026-04-26",
-      "deadlineText": "2026年4月26日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "4ea350540d",
-      "name": "「こめびと」vol.6 表紙デザイン募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/shimadahouse-komebito-cover-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/shimadahouse-komebito-cover-2026/",
-      "deadline": "2026-04-26",
-      "deadlineText": "2026年04月26日",
-      "prize": "10万円",
-      "notes": null
-    },
     {
       "id": "430e5e11bc",
       "name": "キヤノンフォトコンテスト「Bird Photo Contest 2026」",
@@ -3233,6 +3173,36 @@
       "notes": null
     },
     {
+      "id": "a63233c919",
+      "name": "第41回 水とのふれあいフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/mizutono-fureai-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/mizutono-fureai-photo-2026/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年05月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4be1ce54ff",
+      "name": "2026年 「春の陣」 日本写真俳句大賞",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/shashin-haiku-spring-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/shashin-haiku-spring-2026/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年05月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "928bbb9d1c",
       "name": "2027年度 未年（ひつじどし） 年賀状デザイン募集",
       "sources": [
@@ -3562,6 +3532,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kinkikaiji-photo-2026/"
         }
       ],
       "entryUrl": "https://kinkikaiji.sakura.ne.jp/photocontest.html",
@@ -5164,6 +5138,21 @@
       "deadline": "2026-07-31",
       "deadlineText": "2026年07月31日",
       "prize": "20万円",
+      "notes": null
+    },
+    {
+      "id": "2a2bbf238a",
+      "name": "2028 申（さる）年 年賀状用 イラスト・写真募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/muromachi-nenga-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/muromachi-nenga-2026/",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年07月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
