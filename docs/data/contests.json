@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-28T03:36:10Z",
-  "count": 570,
+  "updatedAt": "2026-04-29T03:34:40Z",
+  "count": 577,
   "contests": [
     {
       "id": "be8d7d59a2",
@@ -1784,6 +1784,21 @@
       "notes": null
     },
     {
+      "id": "e31b278c62",
+      "name": "tamaのカレンダープロジェクト「とびきり、かわいい！」猫のお写真大募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tamaone.jp/ext/magazine/2026/04/calendar-project202604.html",
+      "deadline": "2026-05-24",
+      "deadlineText": "2026年5月24日",
+      "prize": "2,222円",
+      "notes": null
+    },
+    {
       "id": "7e83fa1048",
       "name": "2026美濃竹鼻ふじまつり・竹鼻まつりフォトコンテスト",
       "sources": [
@@ -2088,6 +2103,21 @@
       "notes": null
     },
     {
+      "id": "32b3ca4dc8",
+      "name": "第30回 糸田祇園山笠フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.itoda.lg.jp/news/detail/1504/year:/back:1",
+      "deadline": "2026-05-29",
+      "deadlineText": "2026年5月29日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "a2c75840f1",
       "name": "第25回 全日本モノクロ写真展",
       "sources": [
@@ -2130,6 +2160,25 @@
       "deadline": "2026-05-30",
       "deadlineText": "2026年5月30日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "1e3fa77bee",
+      "name": "TANOPOフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8931"
+        },
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tcgnouchimizu.net/photo-contest/",
+      "deadline": "2026-05-31",
+      "deadlineText": "2026年5月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -2491,21 +2540,6 @@
       "deadline": "2026-05-31",
       "deadlineText": "2026年5月31日",
       "prize": null,
-      "notes": null
-    },
-    {
-      "id": "1e3fa77bee",
-      "name": "TANOPOフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://tcgnouchimizu.net/photo-contest/",
-      "deadline": "2026-05-31",
-      "deadlineText": "2026年5月31日",
-      "prize": "3万円",
       "notes": null
     },
     {
@@ -3744,6 +3778,21 @@
       "notes": null
     },
     {
+      "id": "d8a91e5350",
+      "name": "還幸祭写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shimogoryo.main.jp/%e9%82%84%e5%b9%b8%e7%a5%ad%e5%86%99%e7%9c%9f%e3%82%b3%e3%83%b3%e3%82%af%e3%83%bc%e3%83%ab/",
+      "deadline": "2026-06-15",
+      "deadlineText": "2026年6月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "72beb3fb34",
       "name": "ウミカジフォトコン2026",
       "sources": [
@@ -3880,6 +3929,21 @@
       "deadline": "2026-06-19",
       "deadlineText": "2026年6月19日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "a941738e84",
+      "name": "第12回 津沢夜高あんどん祭りフォトコンテストin TSUZAWA",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://oyabe.info/3529/",
+      "deadline": "2026-06-24",
+      "deadlineText": "2026年6月24日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -4890,6 +4954,21 @@
       "notes": null
     },
     {
+      "id": "189b676ec4",
+      "name": "Nikon Creators Challenge 2026 色で感じる季節（colors）",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nikkor.tokyocameraclub.com/creatorschallenge2026/",
+      "deadline": "2026-07-30",
+      "deadlineText": "2026年7月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "fde8b52c69",
       "name": "横浜市民共済主催 70周年記念フォトコンテスト",
       "sources": [
@@ -5634,6 +5713,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "50万円",
+      "notes": null
+    },
+    {
+      "id": "7895fd020e",
+      "name": "第13回 モンベル フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.montbell.jp/generalpage/disp.php?id=973",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8065,6 +8159,21 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年3月31日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "228a49da8f",
+      "name": "SA・PAとわんこフォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8932"
+        }
+      ],
+      "entryUrl": "https://www.c-nexco.co.jp/corporate/prkan/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
       "notes": null
     },
     {
