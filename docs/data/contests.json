@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-05-01T03:46:08Z",
-  "count": 543,
+  "updatedAt": "2026-05-02T03:20:57Z",
+  "count": 552,
   "contests": [
-    {
-      "id": "d22b83ef59",
-      "name": "遠州横須賀 三熊野神社大祭 第29回 おまつり写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.kakegawa.shizuoka.jp/kanko/docs/7065.html",
-      "deadline": "2026-05-01",
-      "deadlineText": "2026年5月1日",
-      "prize": "30,000円",
-      "notes": null
-    },
     {
       "id": "cd547328ad",
       "name": "にゅうぜんフラワーロード2026フォトコンテスト",
@@ -3500,6 +3485,21 @@
       "notes": null
     },
     {
+      "id": "c50931638b",
+      "name": "あびらの菜の花Instagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://abikan.jp/photocontest2026_nanohana/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "c8d9fda22a",
       "name": "青森ベイエリアフォトコンテスト",
       "sources": [
@@ -3808,6 +3808,21 @@
       "notes": null
     },
     {
+      "id": "737fd7bd0b",
+      "name": "2027年版 富士山静岡空港公式カレンダー フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.mtfuji-shizuokaairport.jp/news/calender-2027/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "6902f653b5",
       "name": "刈谷の公園フォトコンテスト2026",
       "sources": [
@@ -4044,6 +4059,21 @@
       "entryUrl": "https://compe.japandesign.ne.jp/kyonoha-cover-2026/",
       "deadline": "2026-06-30",
       "deadlineText": "2026年06月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "7bd5e13a71",
+      "name": "HADANOカレンダー2027掲載写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.hadano.kanagawa.jp/soshiki/1/1004/5025.html",
+      "deadline": "2026-07-01",
+      "deadlineText": "2026年7月1日",
       "prize": null,
       "notes": null
     },
@@ -5269,6 +5299,21 @@
       "notes": null
     },
     {
+      "id": "c730e68ef9",
+      "name": "秋田空港フォトコンテスト2026 春夏",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.akita-airport.com/pages/news/p20260428150057",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "46fe954410",
       "name": "第52回 つるしん写真コンク－ル(PDF)",
       "sources": [
@@ -5581,6 +5626,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "ccdc2720a1",
+      "name": "ぴ～ぷるフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://wpub.people-i.ne.jp/web/event/%E3%81%B4%EF%BD%9E%E3%81%B7%E3%82%8B-%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -6320,6 +6380,21 @@
       "deadline": "2026-10-15",
       "deadlineText": "2026年10月15日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "a287589191",
+      "name": "第27回 炭都写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://sekitankan.com/event/20260519tantosyashinbosyu/",
+      "deadline": "2026-10-15",
+      "deadlineText": "2026年10月15日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -7400,6 +7475,21 @@
       "notes": null
     },
     {
+      "id": "5dc8480ca7",
+      "name": "愛南町公共交通フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.ainan.ehime.jp/kurashi/tetsuduki/anshin/kotsuanzen/koukyoukoutu-photocon_2026.html",
+      "deadline": "2027-01-20",
+      "deadlineText": "2027年1月20日",
+      "prize": "3,000円",
+      "notes": null
+    },
+    {
       "id": "527c6511fd",
       "name": "第38回 御所市観光フォトコンテスト",
       "sources": [
@@ -7472,6 +7562,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "f662938cd4",
+      "name": "飛び地の村 北山村 Instagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kitayama-mikke.jp/topics/detail.php?id=259",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "10000円",
       "notes": null
     },
     {
@@ -7727,6 +7832,36 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年3月31日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "0621d7e26d",
+      "name": "「8月4日は栄養の日」コンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8939"
+        }
+      ],
+      "entryUrl": "https://www.dietitian.or.jp/84/2026/2.html",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "45351a93e3",
+      "name": "とっておきいぬ旅フォトコン",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8937"
+        }
+      ],
+      "entryUrl": "https://withdog.iconia.co.jp/articles/1564",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
       "notes": null
     },
     {
