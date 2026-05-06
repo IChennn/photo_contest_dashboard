@@ -1,41 +1,7 @@
 {
-  "updatedAt": "2026-05-05T03:23:40Z",
-  "count": 572,
+  "updatedAt": "2026-05-06T03:34:32Z",
+  "count": 569,
   "contests": [
-    {
-      "id": "cd547328ad",
-      "name": "にゅうぜんフラワーロード2026フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.nyuzen.toyama.jp/flowerroad/5951.html",
-      "deadline": "2026-05-05",
-      "deadlineText": "2026年5月5日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "1fae8eb832",
-      "name": "第20回志賀高原ナイス！フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8813"
-        },
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.smartcross.jp/shigakogen-photocon2026",
-      "deadline": "2026-05-06",
-      "deadlineText": "2026年5月6日",
-      "prize": "5万円",
-      "notes": null
-    },
     {
       "id": "9ac22aff7c",
       "name": "パンダフォトコンテスト",
@@ -124,6 +90,21 @@
       "deadline": "2026-05-06",
       "deadlineText": "2026年5月6日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "324f791e37",
+      "name": "第20回 志賀高原 ナイス！フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.smartcross.jp/shigakogen-photocon2026/",
+      "deadline": "2026-05-06",
+      "deadlineText": "2026年5月6日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -8278,21 +8259,6 @@
       "notes": null
     },
     {
-      "id": "6f84624abf",
-      "name": "イヌトミィ モデル犬フォトコンテスト Spring2026",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8914"
-        }
-      ],
-      "entryUrl": "https://www.inutome.jp/photocon/pccontest",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "6f438a0ddd",
       "name": "ガーデニングフォトコンテスト2026",
       "sources": [
@@ -8392,21 +8358,6 @@
         }
       ],
       "entryUrl": "https://contest.doubutukikin.or.jp/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4cf62e782d",
-      "name": "パンダフォトコンテストー写真で未来へ届ける、ありがとうー",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8895"
-        }
-      ],
-      "entryUrl": "https://panda-contest.com/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
