@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-05-08T03:31:12Z",
-  "count": 570,
+  "updatedAt": "2026-05-09T03:30:29Z",
+  "count": 572,
   "contests": [
-    {
-      "id": "66a7fb11db",
-      "name": "江の島アートフェス2026 写真公募展 作品募集(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DWTQenOCRoL/",
-      "deadline": "2026-05-08",
-      "deadlineText": "2026年5月8日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "2b6ff954be",
-      "name": "西南戦争150年戦跡の四季 玉東町フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.gyokuto.kumamoto.jp/kiji0031684/index.html",
-      "deadline": "2026-05-08",
-      "deadlineText": "2026年5月8日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "dca6993b9d",
       "name": "丸沼高原冬のフォトコンテスト2026(Instagram)",
@@ -3293,6 +3263,25 @@
       "notes": null
     },
     {
+      "id": "c50931638b",
+      "name": "あびらの菜の花Instagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8935"
+        },
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.abikan.jp/photocontest2026_nanohana/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "cde358d47f",
       "name": "バイクの神様フォトコンテスト2026(前期)",
       "sources": [
@@ -3399,21 +3388,6 @@
       "deadline": "2026-06-30",
       "deadlineText": "2026年6月30日",
       "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c50931638b",
-      "name": "あびらの菜の花Instagramフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://abikan.jp/photocontest2026_nanohana/",
-      "deadline": "2026-06-30",
-      "deadlineText": "2026年6月30日",
-      "prize": "5,000円",
       "notes": null
     },
     {
@@ -5003,6 +4977,21 @@
       "deadline": "2026-08-14",
       "deadlineText": "2026年8月14日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "f11cf88d2b",
+      "name": "沖縄県建設業協会青年部会 第18回 フォトコンテスト～島の魅力～",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "http://www.okikenkyo.or.jp/entry.php?eid=341612",
+      "deadline": "2026-08-14",
+      "deadlineText": "2026年8月14日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -6957,6 +6946,21 @@
       "notes": null
     },
     {
+      "id": "9fa78cd0bd",
+      "name": "愛媛のたなだん フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ehime-tanadan.jp/photocon/",
+      "deadline": "2026-11-10",
+      "deadlineText": "2026年11月10日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a919fcadf3",
       "name": "2027年「季節の壁紙カレンダー」用写真 募集",
       "sources": [
@@ -7790,6 +7794,21 @@
       "notes": null
     },
     {
+      "id": "0ece320508",
+      "name": "越谷総合公園フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://sougoukouen.kosi-kanri.com/202605081247/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d9159dd661",
       "name": "大磯町観光フォトコンテスト2026-2027(PDF)",
       "sources": [
@@ -8136,6 +8155,21 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年3月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "5d63ea9467",
+      "name": "花畑公園・桜花亭フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.adachiku-oukatei.jp/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/",
+      "deadline": "2027-03-31",
+      "deadlineText": "2027年3月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
