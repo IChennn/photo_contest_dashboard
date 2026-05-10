@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-05-09T03:30:29Z",
-  "count": 572,
+  "updatedAt": "2026-05-10T03:42:25Z",
+  "count": 568,
   "contests": [
-    {
-      "id": "dca6993b9d",
-      "name": "丸沼高原冬のフォトコンテスト2026(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/marunumaig/p/DVpI1vTEqDp/",
-      "deadline": "2026-05-09",
-      "deadlineText": "2026年5月9日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0344a05dda",
-      "name": "はむら花と水のまつり2026写真コンクール(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://hamura-kankou.org/wp-content/uploads/2026/03/20260316091236350.pdf",
-      "deadline": "2026-05-09",
-      "deadlineText": "2026年5月9日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "493abfe819",
       "name": "イカリさくらフォトコンテスト2026",
@@ -8443,21 +8413,6 @@
       "notes": null
     },
     {
-      "id": "ee218173e0",
-      "name": "2026春のフォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8884"
-        }
-      ],
-      "entryUrl": "https://brewery.co.jp/photocontest/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "fa346bddfd",
       "name": "【兵庫県】加東市花と緑のある風景 2026 フォトコンテスト",
       "sources": [
@@ -8482,21 +8437,6 @@
         }
       ],
       "entryUrl": "https://www.sedia-found.org/contest_photo/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0524700b8c",
-      "name": "わたしは、奈良派。飛鳥藤原フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8871"
-        }
-      ],
-      "entryUrl": "https://www.kintetsu.co.jp/senden/photocontest2026/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
