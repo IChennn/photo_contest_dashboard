@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-05-13T03:46:00Z",
-  "count": 565,
+  "updatedAt": "2026-05-14T03:45:27Z",
+  "count": 564,
   "contests": [
-    {
-      "id": "850b0e808f",
-      "name": "第37回 人と海のフォトコンテスト マリナーズ･アイ",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.jss01.jp/pages/17/",
-      "deadline": "2026-05-13",
-      "deadlineText": "2026年5月13日",
-      "prize": "200,000円",
-      "notes": null
-    },
-    {
-      "id": "b14f4f543d",
-      "name": "2026「芝桜まつり」＆「世界のあじさい・ゆりまつり」インスタグラムフォトコンテスト(芝桜まつり)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.vill.hirata.fukushima.jp/site/jupialand/4285.html",
-      "deadline": "2026-05-13",
-      "deadlineText": "2026年5月13日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "2d3045ba0f",
-      "name": "2026年 第80回 新潟県美術展覧会（県展）",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/niigata-nippo-art-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/niigata-nippo-art-2026/",
-      "deadline": "2026-05-13",
-      "deadlineText": "2026年05月13日",
-      "prize": "15万円",
-      "notes": null
-    },
-    {
-      "id": "fd384457c3",
-      "name": "第37回 人と海のフォトコンテスト「マリナーズ・アイ」",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/mariners-eye-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/mariners-eye-2026/",
-      "deadline": "2026-05-13",
-      "deadlineText": "2026年05月13日",
-      "prize": "20万円",
-      "notes": null
-    },
     {
       "id": "d5322d06f1",
       "name": "第3回 Webikeフォトコンテスト",
@@ -2647,6 +2587,21 @@
       "notes": null
     },
     {
+      "id": "664ee451d7",
+      "name": "八王子観光カレンダー2027年版用掲載用写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hachioji.or.jp/archives/4937",
+      "deadline": "2026-06-15",
+      "deadlineText": "2026年6月15日",
+      "prize": "3,000円",
+      "notes": null
+    },
+    {
       "id": "d8a91e5350",
       "name": "還幸祭写真コンクール",
       "sources": [
@@ -4456,6 +4411,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/hiroshima-photo-2026/"
         }
       ],
       "entryUrl": "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1021732/1043578.html",
@@ -6570,6 +6529,21 @@
       "notes": null
     },
     {
+      "id": "009e896382",
+      "name": "宗谷ふれあい公園 第12回 ふれあいフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://soyafureaikoen.com/news/event/13948",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "3c6a59ea51",
       "name": "第13回 藤田弘基写真コンテスト",
       "sources": [
@@ -6870,6 +6844,21 @@
       "entryUrl": "https://www.instagram.com/holy_yoshinoyama/p/DVhw5ZbCUey/",
       "deadline": "2026-11-25",
       "deadlineText": "2026年11月25日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "d0c8115a25",
+      "name": "みんなでつくろう「2027年度みなみくカレンダー」写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.sapporo.jp/minami/shinko/scenic/calendar2027.html",
+      "deadline": "2026-11-27",
+      "deadlineText": "2026年11月27日",
       "prize": null,
       "notes": null
     },
