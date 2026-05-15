@@ -1,41 +1,7 @@
 {
-  "updatedAt": "2026-05-14T03:45:27Z",
-  "count": 564,
+  "updatedAt": "2026-05-15T03:51:41Z",
+  "count": 570,
   "contests": [
-    {
-      "id": "d5322d06f1",
-      "name": "第3回 Webikeフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.webike.net/special/community/photo-contest/",
-      "deadline": "2026-05-14",
-      "deadlineText": "2026年5月14日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "38c32ef653",
-      "name": "第24回御殿場桜まつり　写真コンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8902"
-        },
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://gotembatourism.jp/post-4294/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "1万円",
-      "notes": null
-    },
     {
       "id": "cee95a12e8",
       "name": "BicCamera Photo World 2026 フォトコンテスト",
@@ -98,6 +64,21 @@
       "deadline": "2026-05-15",
       "deadlineText": "2026年5月15日",
       "prize": "3,000円",
+      "notes": null
+    },
+    {
+      "id": "615f0cf2b5",
+      "name": "第24回 御殿場 桜まつり 写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://gotembatourism.jp/post-4294/",
+      "deadline": "2026-05-15",
+      "deadlineText": "2026年5月15日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -2309,6 +2290,25 @@
       "notes": null
     },
     {
+      "id": "0621d7e26d",
+      "name": "「8月4日は栄養の日」コンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8939"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/dietitian-photo-senryu-2026/"
+        }
+      ],
+      "entryUrl": "https://www.dietitian.or.jp/84/2026/2.html",
+      "deadline": "2026-06-10",
+      "deadlineText": "2026年06月10日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "9dc956b2bb",
       "name": "第15回 大阪川の日フォトコンテスト",
       "sources": [
@@ -2768,6 +2768,21 @@
       "deadline": "2026-06-19",
       "deadlineText": "2026年6月19日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "bf7f73a59b",
+      "name": "第61回福生ほたる祭 写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mitte-x-pre.istsw.jp/fussa-contest/index.html?cn=224",
+      "deadline": "2026-06-21",
+      "deadlineText": "2026年6月21日",
+      "prize": "20,000円",
       "notes": null
     },
     {
@@ -4048,6 +4063,21 @@
       "notes": null
     },
     {
+      "id": "3829449727",
+      "name": "第57回 湘南ひらつか観光風景写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.hiratsuka-kankou.com/event-list/57photo.html",
+      "deadline": "2026-07-22",
+      "deadlineText": "2026年7月22日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "04c93359c6",
       "name": "第3回とよなか景観フォトコンテスト「第3回豊中まちなみ市民賞」",
       "sources": [
@@ -4383,6 +4413,36 @@
       "deadline": "2026-07-31",
       "deadlineText": "2026年7月31日",
       "prize": "13,000円",
+      "notes": null
+    },
+    {
+      "id": "e162d66f40",
+      "name": "2026 可睡ゆりの園フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yurien.jp/contest/",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": "30万円",
+      "notes": null
+    },
+    {
+      "id": "9a1b81e655",
+      "name": "可睡ゆりの園 インスタフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yurien.jp/instaphotocon/",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -6214,6 +6274,21 @@
       "notes": null
     },
     {
+      "id": "32dad4ea85",
+      "name": "第10回 おおとしフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ootoshi-comm.info/fotokon.html",
+      "deadline": "2026-10-02",
+      "deadlineText": "2026年10月2日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "56cb708ef9",
       "name": "ビワイチ・フォトコン",
       "sources": [
@@ -6743,6 +6818,21 @@
       "notes": null
     },
     {
+      "id": "03faab9cf9",
+      "name": "ベストショット in こがわ SNSフォトコンテスト2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DYBL-33E9C5/?img_index=1",
+      "deadline": "2026-11-11",
+      "deadlineText": "2026年11月11日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "a919fcadf3",
       "name": "2027年「季節の壁紙カレンダー」用写真 募集",
       "sources": [
@@ -7070,6 +7160,21 @@
       "deadline": "2026-12-11",
       "deadlineText": "2026年12月11日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "8c630f043b",
+      "name": "山と溪谷フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yamakei-online.com/journal/detail.php?id=8401",
+      "deadline": "2026-12-15",
+      "deadlineText": "2026年12月15日",
+      "prize": "10万円",
       "notes": null
     },
     {
@@ -8088,21 +8193,6 @@
         }
       ],
       "entryUrl": "https://nagai.yokosuka-kanko.com/news/%e7%ac%ac%ef%bc%95%e5%9b%9e%e8%a5%bf%e5%9c%b0%e5%8c%ba%e8%a6%b3%e5%85%89%e5%86%99%e7%9c%9f%e3%82%b3%e3%83%b3%e3%82%af%e3%83%bc%e3%83%ab%e3%81%ae%e9%96%8b%e5%82%ac%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0621d7e26d",
-      "name": "「8月4日は栄養の日」コンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8939"
-        }
-      ],
-      "entryUrl": "https://www.dietitian.or.jp/84/2026/2.html",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
