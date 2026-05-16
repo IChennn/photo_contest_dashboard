@@ -1,176 +1,7 @@
 {
-  "updatedAt": "2026-05-15T03:51:41Z",
-  "count": 570,
+  "updatedAt": "2026-05-16T03:34:40Z",
+  "count": 562,
   "contests": [
-    {
-      "id": "cee95a12e8",
-      "name": "BicCamera Photo World 2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.biccamera.com/bc/c/camera/photoworld2026/index.jsp",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "100万円",
-      "notes": null
-    },
-    {
-      "id": "e91478ced8",
-      "name": "第8回「水のある暮らし」フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        },
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/mizunoarukurashi-2026/"
-        }
-      ],
-      "entryUrl": "https://sanitary-net-annex.com/contest/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "4f7018a022",
-      "name": "第15回ＮＨＫ「福島の桜フォトコンテスト」",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.event.nhk.or.jp/e-portal/detail.html?id=3669",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "528fddd724",
-      "name": "濃姫まつりフォトコンテスト2026(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/kichofestival/p/DV-6zrLlZsb/?img_index=1",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "3,000円",
-      "notes": null
-    },
-    {
-      "id": "615f0cf2b5",
-      "name": "第24回 御殿場 桜まつり 写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://gotembatourism.jp/post-4294/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "75058a3d71",
-      "name": "第10回 九州川の風景フォトコンテスト 冬・春部門",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kyu-river-photo.com/entry/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "60b00ae1ba",
-      "name": "芝ざくらまつり写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.ichikai.tochigi.jp/info/1420",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "00e52bf41a",
-      "name": "令和8年 宇倍神社フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.ubejinja.or.jp/new-news/507/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "2万円",
-      "notes": null
-    },
-    {
-      "id": "4d2722bcb8",
-      "name": "チューリップフェア2026 ちゅうりっぷフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://yasugi.shoko-shimane.or.jp/2026/04/03/2334/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年5月15日",
-      "prize": "30,000円",
-      "notes": null
-    },
-    {
-      "id": "12db2bc9ac",
-      "name": "BicCamera Photo World 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/biccamera-photo-world-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/biccamera-photo-world-2026/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年05月15日",
-      "prize": "600万円",
-      "notes": null
-    },
-    {
-      "id": "27da800463",
-      "name": "第32回 酒田市土門拳文化賞",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/domonken-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/domonken-photo-2026/",
-      "deadline": "2026-05-15",
-      "deadlineText": "2026年05月15日",
-      "prize": "50万円",
-      "notes": null
-    },
     {
       "id": "be2738f801",
       "name": "山の写真フォトコンテスト2026春",
@@ -2197,6 +2028,21 @@
       "deadline": "2026-06-05",
       "deadlineText": "2026年6月5日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "02f2579839",
+      "name": "ばら公園いこいの広場フォトコンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.godo.gifu.jp/event/pdf/event33_photo16.pdf",
+      "deadline": "2026-06-05",
+      "deadlineText": "2026年6月5日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -4446,6 +4292,21 @@
       "notes": null
     },
     {
+      "id": "9d3f61ee0b",
+      "name": "第25回 亀山青空お茶まつりフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kameyama.mie.jp/kosodate_yuyu/news/2026042700461/",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "28915a54a5",
       "name": "2026「しまねの森林」フォトコンテスト",
       "sources": [
@@ -4699,6 +4560,21 @@
       "deadline": "2026-08-14",
       "deadlineText": "2026年8月14日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "106e013867",
+      "name": "第5回 ナチカツフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nachikan.jp/news/9597/",
+      "deadline": "2026-08-14",
+      "deadlineText": "2026年8月14日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -7377,6 +7253,25 @@
       "notes": null
     },
     {
+      "id": "250429169d",
+      "name": "星谷橋のある風景フォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8869"
+        },
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://forms.gle/zFSUhUgz36ryZm6Z6",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "7a70c4d68a",
       "name": "新ひだか町20周年記念フォトコンテスト",
       "sources": [
@@ -8463,21 +8358,6 @@
         }
       ],
       "entryUrl": "https://www.sedia-found.org/contest_photo/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "250429169d",
-      "name": "星谷橋のある風景フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8869"
-        }
-      ],
-      "entryUrl": "https://forms.gle/zFSUhUgz36ryZm6Z6",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
