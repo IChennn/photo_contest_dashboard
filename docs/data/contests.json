@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T03:34:40Z",
-  "count": 562,
+  "updatedAt": "2026-05-17T03:51:04Z",
+  "count": 567,
   "contests": [
     {
       "id": "be2738f801",
@@ -2076,6 +2076,21 @@
       "notes": null
     },
     {
+      "id": "13ac0ac6d9",
+      "name": "りんデジフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.rindo.co.jp/news/284",
+      "deadline": "2026-06-07",
+      "deadlineText": "2026年6月7日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "1ab5e471d5",
       "name": "第1回 Instagram佐倉草ぶえの丘フォトコンテスト",
       "sources": [
@@ -2520,6 +2535,21 @@
       "deadline": "2026-06-15",
       "deadlineText": "2026年06月15日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "26a047c29b",
+      "name": "第42回 仙台・青葉まつり 写真コンクール(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.aoba-matsuri.com/wp-content/uploads/2026/04/guideline_photo2026.pdf",
+      "deadline": "2026-06-17",
+      "deadlineText": "2026年6月17日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -5471,6 +5501,21 @@
       "notes": null
     },
     {
+      "id": "88fe9964a3",
+      "name": "第34回 やまがた農村フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sanae.or.jp/land/p-02782",
+      "deadline": "2026-09-04",
+      "deadlineText": "2026年9月4日",
+      "prize": "50,000円",
+      "notes": null
+    },
+    {
       "id": "cf70d2078b",
       "name": "第39回 四季の山古志写真コンテスト",
       "sources": [
@@ -5486,6 +5531,21 @@
       "notes": null
     },
     {
+      "id": "6fca37ed79",
+      "name": "三宅島フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.miyakejima.gr.jp/info/mykphoto_contest_2026/",
+      "deadline": "2026-09-06",
+      "deadlineText": "2026年9月6日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "a7a76957af",
       "name": "第41回 馬の絵と写真コンクール",
       "sources": [
@@ -5498,6 +5558,21 @@
       "deadline": "2026-09-06",
       "deadlineText": "2026年09月06日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "e665d9fc91",
+      "name": "第69回 葛飾区観光写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.katsushika-kanko.com/news/2085.html",
+      "deadline": "2026-09-10",
+      "deadlineText": "2026年9月10日",
+      "prize": null,
       "notes": null
     },
     {
