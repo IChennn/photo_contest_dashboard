@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-05-19T03:58:01Z",
-  "count": 578,
+  "updatedAt": "2026-05-20T03:56:46Z",
+  "count": 583,
   "contests": [
-    {
-      "id": "169622a78d",
-      "name": "2026年 第3回 キヤノン マンスリーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://personal.canon.jp/event/photocontest/monthly",
-      "deadline": "2026-05-19",
-      "deadlineText": "2026年5月19日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "c4a058e907",
       "name": "第45回 釧路町 桜まつりフォトコンテスト",
@@ -2624,6 +2609,21 @@
       "notes": null
     },
     {
+      "id": "90914c1deb",
+      "name": "新潟医療福祉大学 第1回 高校生ポスターコンテスト《高校生、学生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/nuhw-highschool-poster-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/nuhw-highschool-poster-2026/",
+      "deadline": "2026-06-22",
+      "deadlineText": "2026年06月22日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "a941738e84",
       "name": "第12回 津沢夜高あんどん祭りフォトコンテストin TSUZAWA",
       "sources": [
@@ -4117,6 +4117,21 @@
         }
       ],
       "entryUrl": "https://www.ja-saitama.or.jp/wp/?p=13865",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "a16e65324c",
+      "name": "第23回 秩父鉄道写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://chichitetsu.info/photos/",
       "deadline": "2026-07-31",
       "deadlineText": "2026年7月31日",
       "prize": "30,000円",
@@ -6780,6 +6795,21 @@
       "notes": null
     },
     {
+      "id": "f4d0195ae5",
+      "name": "鳥取県立むきばんだ史跡公園 写真コンクール2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.mukibanda.jp/archives/xo_event/photo-competition2026",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "cc0b5b3754",
       "name": "隠岐汽船カレンダーフォトコンテスト",
       "sources": [
@@ -7077,6 +7107,21 @@
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": "8万円",
+      "notes": null
+    },
+    {
+      "id": "70e7019e04",
+      "name": "JAPAN TRAILフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ganref.jp/common/photo_contests/japantrail2026/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "50万円",
       "notes": null
     },
     {
@@ -8282,6 +8327,36 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年3月31日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "25b12c92ee",
+      "name": "第63回宮城県芸術祭 フォトサミット in Sendai 2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8950"
+        }
+      ],
+      "entryUrl": "https://miyagiart.com/photosummit/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a8be145d38",
+      "name": "昭文堂カレンダーフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8949"
+        }
+      ],
+      "entryUrl": "https://www.shobundo.co.jp/intame/lp/2026calendar/form.html",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
       "notes": null
     },
     {
