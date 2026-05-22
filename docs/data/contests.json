@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-05-21T04:05:49Z",
-  "count": 587,
+  "updatedAt": "2026-05-22T04:01:03Z",
+  "count": 591,
   "contests": [
-    {
-      "id": "af1fd4c0de",
-      "name": "いさわ水の郷さくらまつり2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.oshu.iwate.jp/kanko/event/1/12656.html",
-      "deadline": "2026-05-21",
-      "deadlineText": "2026年5月21日",
-      "prize": "1万円",
-      "notes": null
-    },
     {
       "id": "62d1131e17",
       "name": "グランドパーク小樽 春のフォトコンテスト",
@@ -1475,21 +1460,6 @@
       "notes": null
     },
     {
-      "id": "77a3d835b1",
-      "name": "2026年(令和8年)分おじゃったもんせ！クーポンカレンダーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kobayashi-cci.jp/2026%E5%B9%B4%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B4%EF%BC%89%E5%88%86%E3%80%8C%E3%81%8A%E3%81%98%E3%82%83%E3%81%A3%E3%81%9F%E3%82%82%E3%82%93%E3%81%9B%EF%BC%81%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/",
-      "deadline": "2026-05-31",
-      "deadlineText": "2026年5月31日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
       "id": "01b2aad100",
       "name": "かごしま春祭大ハンヤ 2026 フォトコンテスト(PDF)",
       "sources": [
@@ -1858,6 +1828,21 @@
       "notes": null
     },
     {
+      "id": "731e1a1ace",
+      "name": "第41回 東京都障害者総合美術展 ～美のなかにふれあいがある～",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tokyo-fukushi-art-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tokyo-fukushi-art-2026/",
+      "deadline": "2026-06-05",
+      "deadlineText": "2026年06月05日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "5c058914e5",
       "name": "たきのチューリップフォトコンテスト2026",
       "sources": [
@@ -2221,6 +2206,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/akiyama-shotaro-hana-photo-2026/"
         }
       ],
       "entryUrl": "http://akiyama-shotaro.com/hanacon-sppage.html",
@@ -2501,6 +2490,21 @@
       "deadline": "2026-06-19",
       "deadlineText": "2026年6月19日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "48cc8c92ae",
+      "name": "「#みんなの奥河内」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://okukawachi-link.jp/contest/",
+      "deadline": "2026-06-20",
+      "deadlineText": "2026年6月20日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -4739,6 +4743,21 @@
       "notes": null
     },
     {
+      "id": "c3740786d2",
+      "name": "2027年版『日本遺産の里～人吉球磨』観光カレンダー写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hitoyoshionsen.net/2026/05/19/%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%97%E5%B9%B4%E7%89%88%E3%80%8E%E6%97%A5%E6%9C%AC%E9%81%BA%E7%94%A3%E3%81%AE%E9%87%8C%EF%BD%9E%E4%BA%BA%E5%90%89%E7%90%83%E7%A3%A8%E3%80%8F%E8%A6%B3%E5%85%89%E3%82%AB/",
+      "deadline": "2026-08-16",
+      "deadlineText": "2026年8月16日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "8ba2054b25",
       "name": "第4回 健康をめざすアート公募展",
       "sources": [
@@ -4751,6 +4770,21 @@
       "deadline": "2026-08-16",
       "deadlineText": "2026年08月16日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "6cf203d3b7",
+      "name": "JBF全日本鳥フォトコンテスト2026(BIRD-1グランプリ)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.birdfesta.net/jbf/b1.html",
+      "deadline": "2026-08-17",
+      "deadlineText": "2026年8月17日",
+      "prize": "4万円",
       "notes": null
     },
     {
@@ -5786,6 +5820,21 @@
       "notes": null
     },
     {
+      "id": "0a43b01780",
+      "name": "第16回 田村市写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mazasse.com/2026/05/20/%E7%94%B0%E6%9D%91%E5%B8%82%E5%86%99%E7%9C%9F%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB%E4%BD%9C%E5%93%81%E5%8B%9F%E9%9B%86%EF%BC%88%E7%B7%A0%E5%88%879-14%EF%BC%89/",
+      "deadline": "2026-09-14",
+      "deadlineText": "2026年9月14日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "dde86fc323",
       "name": "令和8年 富岡八幡宮 八幡祭り写真コンテスト",
       "sources": [
@@ -6282,6 +6331,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "cfdad16f62",
+      "name": "ながさき県民の森フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://n-kenmori.jp/2026/05/20/%e3%80%90%e9%96%8b%e5%82%ac%e6%b1%ba%e5%ae%9a%e3%80%91%e3%80%8c%e3%81%aa%e3%81%8c%e3%81%95%e3%81%8d%e7%9c%8c%e6%b0%91%e3%81%ae%e6%a3%ae%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "30,000円",
       "notes": null
     },
     {
