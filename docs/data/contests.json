@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-23T03:37:48Z",
-  "count": 601,
+  "updatedAt": "2026-05-24T03:59:54Z",
+  "count": 604,
   "contests": [
     {
       "id": "e31b278c62",
@@ -2134,6 +2134,21 @@
         }
       ],
       "entryUrl": "https://nangouri.main.jp/2026/02/14/photocon3/",
+      "deadline": "2026-06-14",
+      "deadlineText": "2026年6月14日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "66a1c63d75",
+      "name": "宮地嶽神社 菖蒲まつりInstagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.miyajidake.or.jp/news/topics/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE-%E8%8F%96%E8%92%B2%E3%81%BE%E3%81%A4%E3%82%8Ainstagram%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026",
       "deadline": "2026-06-14",
       "deadlineText": "2026年6月14日",
       "prize": null,
@@ -6938,6 +6953,21 @@
       "notes": null
     },
     {
+      "id": "2966b0b550",
+      "name": "東北みなとフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pa.thr.mlit.go.jp/minato-oasis/999/2026052001/20260520161040.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "3c6a59ea51",
       "name": "第13回 藤田弘基写真コンテスト",
       "sources": [
@@ -8549,6 +8579,21 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年3月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "0981bfbc07",
+      "name": "鬼首フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.welcome-naruko.jp/event/%E9%AC%BC%E9%A6%96%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026",
+      "deadline": "2027-03-31",
+      "deadlineText": "2027年3月31日",
+      "prize": "2万円",
       "notes": null
     },
     {
