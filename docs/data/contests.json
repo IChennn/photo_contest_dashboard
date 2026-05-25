@@ -1,112 +1,7 @@
 {
-  "updatedAt": "2026-05-24T03:59:54Z",
-  "count": 604,
+  "updatedAt": "2026-05-25T04:11:35Z",
+  "count": 603,
   "contests": [
-    {
-      "id": "e31b278c62",
-      "name": "tamaのカレンダープロジェクト「とびきり、かわいい！」猫のお写真大募集",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.tamaone.jp/ext/magazine/2026/04/calendar-project202604.html",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": "2,222円",
-      "notes": null
-    },
-    {
-      "id": "c2efc87a37",
-      "name": "#小笠原ポスター2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.visitogasawara.com/campaign/ogasawara-poster2026/",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": "3000円",
-      "notes": null
-    },
-    {
-      "id": "7e83fa1048",
-      "name": "2026美濃竹鼻ふじまつり・竹鼻まつりフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://hashimakanko.jp/2026/04/02/%e3%80%902026%e7%be%8e%e6%bf%83%e7%ab%b9%e9%bc%bb%e3%81%b5%e3%81%98%e3%81%be%e3%81%a4%e3%82%8a%e3%83%bb%e7%ab%b9%e9%bc%bb%e3%81%be%e3%81%a4%e3%82%8a%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3/",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "714ef12204",
-      "name": "碧南海浜水族館フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.hekinan.lg.jp/aquarium/event_guide/photo_contest/23772.html",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "7f26d4a83d",
-      "name": "堀川フラワーフェスティバル デジタルフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "http://horikawa.flower-festival.com/2026/photo/",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0983534eeb",
-      "name": "三豊市フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.mitoyo-kanko.com/photocontest2026-2/",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "626520bfdd",
-      "name": "薬木薬草園 フォトコンテスト～2026春～",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://nakatomi-museum.or.jp/event/4868/",
-      "deadline": "2026-05-24",
-      "deadlineText": "2026年5月24日",
-      "prize": "3,000円",
-      "notes": null
-    },
     {
       "id": "d5a694e2f8",
       "name": "桜川市春のお祭りフォトコンテスト2026",
@@ -2493,6 +2388,21 @@
       "notes": null
     },
     {
+      "id": "948d5570af",
+      "name": "吹上花しょうぶまつりフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.ome.tokyo.jp/site/omekanko/119089.html",
+      "deadline": "2026-06-21",
+      "deadlineText": "2026年6月21日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a1a1e316a8",
       "name": "バラを美しく撮るデジタルフォトコンテスト",
       "sources": [
@@ -2937,6 +2847,21 @@
       "deadline": "2026-06-30",
       "deadlineText": "2026年6月30日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "4151b06a93",
+      "name": "第10回 那須ステンドグラス美術館フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://sgm-nasu.com/blog/photocon2026/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -3846,6 +3771,21 @@
       "deadline": "2026-07-18",
       "deadlineText": "2026年7月18日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "3f745fff19",
+      "name": "第40回 粟井あじさい祭り写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kanonji.kagawa.jp/soshiki/21/11519.html",
+      "deadline": "2026-07-18",
+      "deadlineText": "2026年7月18日",
+      "prize": null,
       "notes": null
     },
     {
@@ -4939,6 +4879,21 @@
       "deadline": "2026-08-20",
       "deadlineText": "2026年08月20日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "caf730b73c",
+      "name": "2026漁港漁場漁村海岸写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://gyokou.or.jp/news/post925.html",
+      "deadline": "2026-08-21",
+      "deadlineText": "2026年8月21日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6740,6 +6695,21 @@
       "deadline": "2026-10-15",
       "deadlineText": "2026年10月15日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "ece50b9125",
+      "name": "神奈川県美術展 2027 作品募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kanagawa-kenbiten-27-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/kanagawa-kenbiten-27-2026/",
+      "deadline": "2026-10-16",
+      "deadlineText": "2026年10月16日",
+      "prize": "100万円",
       "notes": null
     },
     {
@@ -8951,6 +8921,21 @@
         }
       ],
       "entryUrl": "https://www.town.kuriyama.hokkaido.jp/soshiki/48/663.html",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "082bbaa25a",
+      "name": "やわたはま国際MTBレース2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8886"
+        }
+      ],
+      "entryUrl": "https://sites.google.com/view/mtb-yawatahama-mtb-org/2026",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
