@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-26T03:57:23Z",
-  "count": 613,
+  "updatedAt": "2026-05-27T04:10:43Z",
+  "count": 621,
   "contests": [
     {
       "id": "1cf3fcde5c",
@@ -3548,6 +3548,21 @@
       "notes": null
     },
     {
+      "id": "3dd6998382",
+      "name": "第72回 小金井の四季の観光写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://koganei-kanko.jp/event/14471/",
+      "deadline": "2026-07-10",
+      "deadlineText": "2026年7月10日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "6061fcbc3f",
       "name": "2026熱海フォトコンテスト",
       "sources": [
@@ -3638,15 +3653,15 @@
       "notes": null
     },
     {
-      "id": "e48c7b70aa",
-      "name": "新居浜の四季 2027カレンダー フォトコンテスト(Instagram)",
+      "id": "087e5e2c64",
+      "name": "新居浜の四季 2027カレンダー フォトコンテスト",
       "sources": [
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
         }
       ],
-      "entryUrl": "https://www.instagram.com/p/DXJLH89mokh/?img_index=1",
+      "entryUrl": "https://niihama.info/news/article/222",
       "deadline": "2026-07-14",
       "deadlineText": "2026年7月14日",
       "prize": "3万円",
@@ -4281,6 +4296,21 @@
       "notes": null
     },
     {
+      "id": "1580757ecd",
+      "name": "伊豆箱根鉄道カレンダー写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.izuhakone.co.jp/sunzudaiyu/sunzudaiyu-info/p010261.html",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e22fff39a1",
       "name": "近江鉄道カレンダー2027 フォトコンテスト",
       "sources": [
@@ -4590,6 +4620,21 @@
       "deadline": "2026-08-06",
       "deadlineText": "2026年8月6日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "72ea010b66",
+      "name": "NCAD高校生・中学生フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ncadnet.jp/blog/63273/",
+      "deadline": "2026-08-07",
+      "deadlineText": "2026年8月7日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -4958,6 +5003,25 @@
       "deadline": "2026-08-21",
       "deadlineText": "2026年8月21日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "c937318369",
+      "name": "第12回石のある生活フォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8936"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/sekistone-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://www.hellostone.jp/",
+      "deadline": "2026-08-23",
+      "deadlineText": "2026年08月23日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -5836,6 +5900,36 @@
       "deadline": "2026-09-06",
       "deadlineText": "2026年09月06日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "04fdafcb64",
+      "name": "2026 第49回鉄道ファン／キヤノンフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://personal.canon.jp/event/photocontest/railwayfan-49",
+      "deadline": "2026-09-07",
+      "deadlineText": "2026年9月7日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "dee468118e",
+      "name": "第2回 愛媛県議会 高校生フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.ehime.jp/site/gikai/147103.html",
+      "deadline": "2026-09-08",
+      "deadlineText": "2026年9月8日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6816,6 +6910,21 @@
         }
       ],
       "entryUrl": "https://toyamap.or.jp/shizen/event/post/?post_id=3183",
+      "deadline": "2026-10-20",
+      "deadlineText": "2026年10月20日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "19bbdfd420",
+      "name": "第8回 VIVy草刈りフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/vivy-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/vivy-photo-2026/",
       "deadline": "2026-10-20",
       "deadlineText": "2026年10月20日",
       "prize": null,
@@ -8004,6 +8113,21 @@
       "notes": null
     },
     {
+      "id": "26c4eb3734",
+      "name": "NOSAI宮崎 Instagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://note.com/nosai_miyazaki/n/n51575f322454",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
       "id": "3078d026e7",
       "name": "そお農景色フォトコンテスト",
       "sources": [
@@ -8369,6 +8493,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "baf4ff576a",
+      "name": "南伊豆町フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://minamiizuphoto.mitte-x.istsw.jp/index.html?cn=226",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "7万円",
       "notes": null
     },
     {
@@ -8880,21 +9019,6 @@
         }
       ],
       "entryUrl": "https://withdog.iconia.co.jp/articles/1564",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c937318369",
-      "name": "第12回石のある生活フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8936"
-        }
-      ],
-      "entryUrl": "https://www.hellostone.jp/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
