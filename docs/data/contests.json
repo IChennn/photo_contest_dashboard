@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-05-28T03:58:59Z",
-  "count": 628,
+  "updatedAt": "2026-05-29T04:01:10Z",
+  "count": 632,
   "contests": [
-    {
-      "id": "58be9bbf45",
-      "name": "TOP OF 7 フォトコンテスト ～さあ、行こう！海外へ～",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://tokyocameraclub.com/topof7/contest2025/",
-      "deadline": "2026-05-28",
-      "deadlineText": "2026年5月28日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "856ce7643c",
       "name": "横浜町 2026菜の花フォトコンテスト",
@@ -2636,6 +2621,21 @@
       "notes": null
     },
     {
+      "id": "45d9475cc9",
+      "name": "ピカチュウジェットBC フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.skymark.co.jp/ja/campaign/flying-pikachu/photocontest.html",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "49e0f77183",
       "name": "令和8年度 北斗市フォトコンテスト",
       "sources": [
@@ -3440,6 +3440,21 @@
       "deadline": "2026-07-03",
       "deadlineText": "2026年7月3日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "80d3299506",
+      "name": "令和8年度「富はええとこじゃ」写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www5.hp-ez.com/hp/siraga/",
+      "deadline": "2026-07-03",
+      "deadlineText": "2026年7月3日",
+      "prize": "12,000円",
       "notes": null
     },
     {
@@ -4347,6 +4362,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/fujisan-kkb-insta-photo-2026/"
         }
       ],
       "entryUrl": "https://www.fujisan-kkb.jp/event/detail.html?CN=379692",
@@ -5813,6 +5832,21 @@
       "notes": null
     },
     {
+      "id": "d546bc180b",
+      "name": "令和9年版カレンダー「ふるさと日立」掲載写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.civic.jp/event.php?mode=detail&f=3&code=259",
+      "deadline": "2026-09-01",
+      "deadlineText": "2026年9月1日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b307e72c1e",
       "name": "令和8年 幸手観光写真コンクール",
       "sources": [
@@ -6291,6 +6325,21 @@
         }
       ],
       "entryUrl": "https://soft-cream.mitte-x.istsw.jp/index.html?cn=218",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "57b474e2fc",
+      "name": "令和8年度 山地災害防止 標語・写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shinrinkagaku.jp/photo/index.html",
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "3万円",
@@ -8278,6 +8327,21 @@
       "notes": null
     },
     {
+      "id": "f2b914a0bf",
+      "name": "第8回「立川の農」写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tachikawa.lg.jp/sangyo/nogyo/1004070/1025015.html",
+      "deadline": "2027-01-06",
+      "deadlineText": "2027年1月6日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "13ab94ec12",
       "name": "令和8年度 知立市フォトコンテスト（知立弘法山部門、ここ推し知立！Instagram部門）",
       "sources": [
@@ -8459,6 +8523,21 @@
       "deadline": "2027-01-20",
       "deadlineText": "2027年1月20日",
       "prize": "3,000円",
+      "notes": null
+    },
+    {
+      "id": "96356710ba",
+      "name": "しがのフォトコン!!2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shigaphotocon.biwako-visitors.jp/",
+      "deadline": "2027-01-27",
+      "deadlineText": "2027年1月27日",
+      "prize": null,
       "notes": null
     },
     {
@@ -9139,21 +9218,6 @@
         }
       ],
       "entryUrl": "https://www.fujisan-kkb.jp/event/detail.html?CN=379692",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "235d5c95a1",
-      "name": "John's Blend フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8925"
-        }
-      ],
-      "entryUrl": "https://www.johns-blend.com/f/car-lifestyle-photo-contest_01?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnq-qdawrr6njQ9uUghDQu7Rg2CNqaJB13-qXrDDCNaCwaupkoJ-nBiX4q4MQ_aem_n1KwQO4hLSfSW",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
