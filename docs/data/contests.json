@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-06-03T04:30:31Z",
-  "count": 594,
+  "updatedAt": "2026-06-04T04:24:58Z",
+  "count": 598,
   "contests": [
-    {
-      "id": "faf74d8728",
-      "name": "第4回 GRAPHGATE 写真・映像作家 発掘オーディション",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://personal.canon.jp/event/audition/graphgate",
-      "deadline": "2026-06-03",
-      "deadlineText": "2026年6月3日",
-      "prize": "100万円",
-      "notes": null
-    },
-    {
-      "id": "bb51b0c61c",
-      "name": "白い恋人パーク30周年思い出フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.shiroikoibitopark.jp/event/2026/30_9.html",
-      "deadline": "2026-06-03",
-      "deadlineText": "2026年6月3日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "62e826bc77",
-      "name": "第4回 写真・映像作家発掘オーディション「GRAPHGATE」",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/canon-graphgate-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/canon-graphgate-2026/",
-      "deadline": "2026-06-03",
-      "deadlineText": "2026年06月03日",
-      "prize": "100万円",
-      "notes": null
-    },
     {
       "id": "a37b2b4b1b",
       "name": "東京カメラ部３×３組写真コンテスト2026",
@@ -4211,6 +4166,21 @@
       "notes": null
     },
     {
+      "id": "79630dd7b1",
+      "name": "第2回 中禅寺湖遊覧船 フォトコンテスト2026夏(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://chuzenjiko-cruise.com/images/news/2026_photocon.pdf",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b78fc0211e",
       "name": "白子町フォトコンテスト season4",
       "sources": [
@@ -4388,6 +4358,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "adbaa43440",
+      "name": "JAとぴあ浜松 カレンダー写真大募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://jatopia.ja-shizuoka.or.jp/archives/38172",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -5513,6 +5498,21 @@
       "notes": null
     },
     {
+      "id": "f26c0679dc",
+      "name": "第14回 彩の国 農業・農村景観フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.saidoren.or.jp/activities/pr/photo/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "7ad2f6da5a",
       "name": "第18回 成田四季彩祭写真コンテスト2026～2027(夏の部)",
       "sources": [
@@ -6039,6 +6039,21 @@
       "deadline": "2026-10-12",
       "deadlineText": "2026年10月12日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "fbdc997edb",
+      "name": "令和8年度 大津・観光写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ootsu.yokosuka-kanko.com/news/otsuphotconr8/",
+      "deadline": "2026-10-13",
+      "deadlineText": "2026年10月13日",
+      "prize": null,
       "notes": null
     },
     {
@@ -7111,6 +7126,21 @@
       "notes": null
     },
     {
+      "id": "82a31d3271",
+      "name": "第6回 長生橋を愛する会主催 長生橋フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nkyod.org/cooperation/332123",
+      "deadline": "2026-12-10",
+      "deadlineText": "2026年12月10日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "c00548a22b",
       "name": "第3回 花の島淡路インスタグラムフォトコンテスト(秋部門)",
       "sources": [
@@ -7723,6 +7753,21 @@
       "notes": null
     },
     {
+      "id": "ef99403c24",
+      "name": "第60回 伸びゆく日野写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shinsenhino.com/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/%e3%80%8c%e4%bc%b8%e3%81%b3%e3%82%86%e3%81%8f%e6%97%a5%e9%87%8e%e5%86%99%e7%9c%9f%e3%82%b3%e3%83%b3%e3%82%af%e3%83%bc%e3%83%ab%e3%80%8d%e4%bb%8a%e5%b9%b4%e3%81%af60%e5%9b%9e%e8%a8%98%e5%bf%b5%e3%81%a7.php",
+      "deadline": "2027-01-11",
+      "deadlineText": "2027年1月11日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "b5e6615184",
       "name": "第3回 伝えたい東京のみどり写真コンテスト ～東京都のみどりの魅力や活動風景を伝えよう～",
       "sources": [
@@ -8302,6 +8347,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "b29f9004c5",
+      "name": "第4回 Mr. & Mrs. Abe Arts & Culture Prize 作品募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/mr-mrs-abe-arts-culture-prize-2027/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/mr-mrs-abe-arts-culture-prize-2027/",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年02月28日",
+      "prize": null,
       "notes": null
     },
     {
