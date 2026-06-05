@@ -1,30 +1,11 @@
 {
-  "updatedAt": "2026-06-04T04:24:58Z",
-  "count": 598,
+  "updatedAt": "2026-06-05T04:08:22Z",
+  "count": 603,
   "contests": [
     {
-      "id": "a37b2b4b1b",
-      "name": "東京カメラ部３×３組写真コンテスト2026",
+      "id": "70cd6f2296",
+      "name": "第12回 ファーレ立川アート写真コンテスト",
       "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://tokyocameraclub.com/special/photoseriescontest2026/",
-      "deadline": "2026-06-04",
-      "deadlineText": "2026年6月4日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "a61ee166d6",
-      "name": "第12回　ファーレ立川アート写真コンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8898"
-        },
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
@@ -1517,6 +1498,21 @@
       "notes": null
     },
     {
+      "id": "f6cf8f6c9e",
+      "name": "海津市「月見の森」あじさい祭フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kaizu.lg.jp/kanko/0000004612.html",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "737fd7bd0b",
       "name": "2027年版 富士山静岡空港公式カレンダー フォトコンテスト",
       "sources": [
@@ -1877,6 +1873,21 @@
       "notes": null
     },
     {
+      "id": "79c9c50be7",
+      "name": "未来のミルク画像投稿キャンペーン 2026",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/metagri-labo-world-milk-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/metagri-labo-world-milk-2026/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年06月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "222e32ded3",
       "name": "京成カレンダー2027フォト作品募集",
       "sources": [
@@ -2061,6 +2072,21 @@
       "notes": null
     },
     {
+      "id": "e0361df981",
+      "name": "デジタルクリエイティブフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ganref.jp/common/photo_contests/dcp2606/",
+      "deadline": "2026-07-08",
+      "deadlineText": "2026年7月8日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "8395b690c5",
       "name": "Brillia Art Award Wall 2026",
       "sources": [
@@ -2160,6 +2186,21 @@
         }
       ],
       "entryUrl": "https://www.listel-inawashiro.jp/information/1725?c=4&y=&m=",
+      "deadline": "2026-07-12",
+      "deadlineText": "2026年7月12日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4e4e011c66",
+      "name": "まきばの館 ラベンダーフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.okayama.jp/site/1173/1036773.html",
       "deadline": "2026-07-12",
       "deadlineText": "2026年7月12日",
       "prize": null,
@@ -5070,6 +5111,21 @@
       "notes": null
     },
     {
+      "id": "08fee8934b",
+      "name": "第16回『撮』っておきのみしま町フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yuruibata.jp/news/2026/post-9252/",
+      "deadline": "2026-09-13",
+      "deadlineText": "2026年9月13日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "54e29b204a",
       "name": "国際湿地都市 NIIGATA Instagramフォトコンテスト（春・夏）",
       "sources": [
@@ -5510,6 +5566,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "c5af590fdf",
+      "name": "みんなの見沼たんぼ！デジタルフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.minumatanbo-saitama.jp/topics/3679/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
       "notes": null
     },
     {
