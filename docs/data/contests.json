@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T03:52:59Z",
-  "count": 609,
+  "updatedAt": "2026-06-07T04:18:35Z",
+  "count": 618,
   "contests": [
     {
       "id": "5c058914e5",
@@ -2512,6 +2512,21 @@
       "notes": null
     },
     {
+      "id": "f0d60b57b4",
+      "name": "神奈川県立観音崎公園みんなのいいね！miniフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kanagawakouen-photocon.mitte-x.istsw.jp/index.html?cn=237",
+      "deadline": "2026-07-26",
+      "deadlineText": "2026年7月26日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "fd233bfa7f",
       "name": "いばらき建設フォトコンテスト2026",
       "sources": [
@@ -3242,6 +3257,21 @@
       "deadline": "2026-07-31",
       "deadlineText": "2026年07月31日",
       "prize": "1000万円",
+      "notes": null
+    },
+    {
+      "id": "1bf9f57869",
+      "name": "第9回 うちわ祭フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tiara21.co.jp/event/item_eventnews.jsp?id=70",
+      "deadline": "2026-08-02",
+      "deadlineText": "2026年8月2日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -4023,6 +4053,21 @@
       "notes": null
     },
     {
+      "id": "46c30d05d7",
+      "name": "星の降る里あしべつフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ashibetsu-cci.or.jp/photo-contest/photo-contest2026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "07399fa833",
       "name": "岩木山フォトコンテスト2026",
       "sources": [
@@ -4470,6 +4515,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "9235a1afbf",
+      "name": "第17回 阪急ええはがきコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.hankyu.co.jp/area_info/eehagaki/index.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -5820,6 +5880,21 @@
       "notes": null
     },
     {
+      "id": "21d558c590",
+      "name": "70周年記念よしのフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.yoshino.nara.jp/soshiki/tyoutyoukoushitsu/yoshinochouchousei70syuunenjigyou/70syunenkinenevent/1988.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "2f3f084fdb",
       "name": "西ノ島カレンダー2027フォトコンテスト(Instagram)",
       "sources": [
@@ -5986,6 +6061,21 @@
       "deadline": "2026-10-02",
       "deadlineText": "2026年10月2日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "2a8c4b7ab4",
+      "name": "第18回 富山市北商工会フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://r.goope.jp/srb-16-43/info/6791025",
+      "deadline": "2026-10-02",
+      "deadlineText": "2026年10月2日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -7238,6 +7328,21 @@
       "notes": null
     },
     {
+      "id": "2d514a7a8c",
+      "name": "愛媛県観光写真大賞2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tsukaretara-ehime.jp/post.html",
+      "deadline": "2026-12-06",
+      "deadlineText": "2026年12月6日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "38eddd6ebb",
       "name": "第26回 かがわの農村・ふるさと景観写真コンテスト",
       "sources": [
@@ -8083,6 +8188,36 @@
       "notes": null
     },
     {
+      "id": "547bd61ece",
+      "name": "第5回 ぴっぷ町フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.pippu.hokkaido.jp/cms/section/soumu/pippuchophotocontest.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "7330819bca",
+      "name": "令和8年度 第13回洗心庵写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.gakushubunka.jp/senshin-an/2026/04/22/post-5248/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "035b9733fb",
       "name": "令和8年度 古殿町フォトコンテスト",
       "sources": [
@@ -8320,6 +8455,21 @@
       "deadline": "2027-02-05",
       "deadlineText": "2027年2月5日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "a86476062a",
+      "name": "びわ湖高島アウトドアフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://takashima-kanko.jp/bluegreen/photocon/",
+      "deadline": "2027-02-07",
+      "deadlineText": "2027年2月7日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8850,21 +9000,6 @@
         }
       ],
       "entryUrl": "https://cooljapan-videos.com/jp/campaigns/photo_contest_202605?photo202605=005",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8eb6faad6a",
-      "name": "JICA地球ひろば20周年イベント特別企画　フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8943"
-        }
-      ],
-      "entryUrl": "https://jica-globalplaza20th.com/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
