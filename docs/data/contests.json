@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T04:22:55Z",
-  "count": 617,
+  "updatedAt": "2026-06-09T03:54:10Z",
+  "count": 624,
   "contests": [
     {
       "id": "0621d7e26d",
@@ -1828,6 +1828,21 @@
       "notes": null
     },
     {
+      "id": "a076b51f74",
+      "name": "2026年 第25回 国際鉄道模型コンベンション フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kokusaitetsudoumokei-convention.jp/photo2026/",
+      "deadline": "2026-07-05",
+      "deadlineText": "2026年7月5日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "d97efe0e42",
       "name": "＼博物館スタッフが選ぶ／　あじさいフォトコンテスト",
       "sources": [
@@ -3118,6 +3133,21 @@
       "notes": null
     },
     {
+      "id": "92b2eb9e89",
+      "name": "御田祭フォトコンテスト2026(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.miyazaki-misato.lg.jp/kiji003857/3_857_up_bg1dxrtt.pdf",
+      "deadline": "2026-07-31",
+      "deadlineText": "2026年7月31日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "c82393d8b2",
       "name": "第4回 いちき串木野市Instagramフォトコンテスト",
       "sources": [
@@ -3362,12 +3392,31 @@
       "notes": null
     },
     {
+      "id": "b5251a050e",
+      "name": "第19回 秋山庄太郎記念米沢市写真文化賞",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/yonezawa-akiyama-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/yonezawa-akiyama-photo-2026/",
+      "deadline": "2026-08-07",
+      "deadlineText": "2026年08月07日",
+      "prize": "20万円",
+      "notes": null
+    },
+    {
       "id": "8f97145b42",
       "name": "びえい思い出フォトコンテスト2026",
       "sources": [
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/biei-omoide-photo-2026/"
         }
       ],
       "entryUrl": "https://biei-photo.jp/omoide2026.html",
@@ -3971,6 +4020,21 @@
       "notes": null
     },
     {
+      "id": "2cc2484270",
+      "name": "うみのフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kaijipr.or.jp/news/008085.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "50,000円",
+      "notes": null
+    },
+    {
       "id": "e34a5b6431",
       "name": "登別伊達時代村フォトコンテスト2026",
       "sources": [
@@ -3992,6 +4056,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/sapporo-nishi-sdgs-photo-2026/"
         }
       ],
       "entryUrl": "https://www.city.sapporo.jp/nishi/machizukuri/sdgs.html",
@@ -4502,6 +4570,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/nagaipark-photo-summer-2026/"
         }
       ],
       "entryUrl": "https://nagaipark.com/events/000346",
@@ -4688,6 +4760,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "09de46e0b1",
+      "name": "「親子の日」写真コンテスト 2026",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/oyakonohi-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/oyakonohi-photo-2026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年08月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -5528,6 +5615,21 @@
       "notes": null
     },
     {
+      "id": "48d00e3296",
+      "name": "路面電車の日記念フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.stsp.or.jp/event/photocontest2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "20,000円",
+      "notes": null
+    },
+    {
       "id": "666ef8560c",
       "name": "いかわフォトコンテスト2026",
       "sources": [
@@ -5975,6 +6077,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年09月30日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "190ac13655",
+      "name": "中区って「イイネ！」フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nakaku-iinephoto.mitte-x.istsw.jp/index.html?cn=236",
+      "deadline": "2026-10-01",
+      "deadlineText": "2026年10月1日",
+      "prize": null,
       "notes": null
     },
     {
