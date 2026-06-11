@@ -1,82 +1,7 @@
 {
-  "updatedAt": "2026-06-10T04:06:07Z",
-  "count": 639,
+  "updatedAt": "2026-06-11T04:19:52Z",
+  "count": 641,
   "contests": [
-    {
-      "id": "9dc956b2bb",
-      "name": "第15回 大阪川の日フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.pref.osaka.lg.jp/moyo/o130110/000013.html",
-      "deadline": "2026-06-10",
-      "deadlineText": "2026年6月10日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "5688dd735b",
-      "name": "#東区ベストショット2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.fukuoka.lg.jp/higashiku/k-shinko/miryokuibento/bestshot2026.html",
-      "deadline": "2026-06-10",
-      "deadlineText": "2026年6月10日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "44650a82a8",
-      "name": "令和8年 全国地域安全運動 全国暴力追放運動 ポスター・青パト写真・標語募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/s-bouhan-poster-hyogo-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/s-bouhan-poster-hyogo-photo-2026/",
-      "deadline": "2026-06-10",
-      "deadlineText": "2026年06月10日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0621d7e26d",
-      "name": "「8月4日は栄養の日」コンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/dietitian-photo-senryu-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/dietitian-photo-senryu-2026/",
-      "deadline": "2026-06-10",
-      "deadlineText": "2026年06月10日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "b2505995da",
-      "name": "2026 みんなのこいのぼりエピソード 作品募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/tokunagagoi-episode-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/tokunagagoi-episode-2026/",
-      "deadline": "2026-06-10",
-      "deadlineText": "2026年06月10日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "866b32ced4",
       "name": "第48回 海の写真コンクール",
@@ -2049,6 +1974,36 @@
       "notes": null
     },
     {
+      "id": "4a3975157b",
+      "name": "水戸のあじさいまつりフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mitokoumon.com/event/ajisai/ajisaiphoto/",
+      "deadline": "2026-07-12",
+      "deadlineText": "2026年7月12日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "df6e4f4c7d",
+      "name": "板取あじさいまつり2026 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.itadori-ajisai.com/",
+      "deadline": "2026-07-12",
+      "deadlineText": "2026年7月12日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "4e4e011c66",
       "name": "まきばの館 ラベンダーフォトコンテスト",
       "sources": [
@@ -3343,6 +3298,21 @@
       "notes": null
     },
     {
+      "id": "112a5e5861",
+      "name": "第12回 あいの風とやま鉄道写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ainokaze.co.jp/23436",
+      "deadline": "2026-08-05",
+      "deadlineText": "2026年8月5日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "f5aa2bb032",
       "name": "フルーティーランド フォトコンテスト(第3期)",
       "sources": [
@@ -3666,6 +3636,21 @@
       "notes": null
     },
     {
+      "id": "b60d9f15c8",
+      "name": "第11回 みんなのトキてつコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.echigo-tokimeki.co.jp/information/detail?id=2588",
+      "deadline": "2026-08-17",
+      "deadlineText": "2026年8月17日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "5916fed84b",
       "name": "豊橋祇園祭 写真コンクール2026",
       "sources": [
@@ -3692,6 +3677,21 @@
       "entryUrl": "https://static.sanyonews.jp/files/town/mairare/photo.pdf",
       "deadline": "2026-08-17",
       "deadlineText": "2026年8月17日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "c6359ee9da",
+      "name": "令和8年度 新宮市観光フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.shingu.lg.jp/Info/2981",
+      "deadline": "2026-08-18",
+      "deadlineText": "2026年8月18日",
       "prize": "5万円",
       "notes": null
     },
@@ -5498,6 +5498,21 @@
       "notes": null
     },
     {
+      "id": "3c570edf0f",
+      "name": "2027年版 奥能登絶景海道カレンダー 掲載写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://zekkei.szoo.biz/%e5%86%99%e7%9c%9f%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%88%e3%80%9cr8-9-24%ef%bc%89/",
+      "deadline": "2026-09-24",
+      "deadlineText": "2026年9月24日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e73e4f4308",
       "name": "第24回 雷写真コンテスト",
       "sources": [
@@ -6530,6 +6545,21 @@
       "notes": null
     },
     {
+      "id": "fb39ddc75a",
+      "name": "2026 雨竜町観光フォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DZJggveyv9y/",
+      "deadline": "2026-10-20",
+      "deadlineText": "2026年10月20日",
+      "prize": "50,000円",
+      "notes": null
+    },
+    {
       "id": "93627fdd8e",
       "name": "第4回 ねいの里フォトコンテスト",
       "sources": [
@@ -7354,6 +7384,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/smartcross-japantrail-photo-2026/"
         }
       ],
       "entryUrl": "https://ganref.jp/common/photo_contests/japantrail2026/",
