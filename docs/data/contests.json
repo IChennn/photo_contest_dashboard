@@ -1,56 +1,7 @@
 {
-  "updatedAt": "2026-06-11T04:19:52Z",
-  "count": 641,
+  "updatedAt": "2026-06-12T04:21:44Z",
+  "count": 642,
   "contests": [
-    {
-      "id": "866b32ced4",
-      "name": "第48回 海の写真コンクール",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        },
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/kinkikaiji-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://kinkikaiji.sakura.ne.jp/photocontest.html",
-      "deadline": "2026-06-11",
-      "deadlineText": "2026年6月11日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "c05cc0de1b",
-      "name": "TOUR de KUMANO 2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.tourdekumano.jp/2026/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E3%81%97%E3%82%89%E3%81%9B/",
-      "deadline": "2026-06-11",
-      "deadlineText": "2026年6月11日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "e6be15c54c",
-      "name": "SICF Fukuoka 2026 出展クリエイター募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/sicf-fukuoka-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/sicf-fukuoka-2026/",
-      "deadline": "2026-06-11",
-      "deadlineText": "2026年06月11日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "4223d33340",
       "name": "胎内市 第33回チューリップ写真コンテスト",
@@ -2055,6 +2006,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tokyo-suidou-photo-2026/"
         }
       ],
       "entryUrl": "https://www.waterworks.metro.tokyo.lg.jp/information/press/r8/04/2026042401",
@@ -2404,6 +2359,21 @@
       "deadline": "2026-07-22",
       "deadlineText": "2026年7月22日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "691b64528f",
+      "name": "きのくに信用金庫 2027年版カレンダーフォトコンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kinokuni-shinkin.jp/personal/topics/topics_20260610.pdf",
+      "deadline": "2026-07-24",
+      "deadlineText": "2026年7月24日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -6605,6 +6575,21 @@
       "notes": null
     },
     {
+      "id": "78af6e862f",
+      "name": "増毛町フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.mashike.hokkaido.jp/division/chomin/chominkankyo/photo/1717040586.html",
+      "deadline": "2026-10-30",
+      "deadlineText": "2026年10月30日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "4ca5ebc2dd",
       "name": "鳥海山・八幡地域 見どころ写真コンテスト2026",
       "sources": [
@@ -7435,7 +7420,7 @@
           "url": "https://photosekai.com/post/photocontestlist/"
         }
       ],
-      "entryUrl": "https://seiryu-mogamiogunigawa.jp/",
+      "entryUrl": "https://seiryu-mogamiogunigawa.jp/1244/",
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": "1万円",
@@ -7698,6 +7683,21 @@
       "deadline": "2026-12-11",
       "deadlineText": "2026年12月11日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "039281b166",
+      "name": "岐阜市観光フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.gifucvb.or.jp/contest/photo.php?eid=00033",
+      "deadline": "2026-12-11",
+      "deadlineText": "2026年12月11日",
+      "prize": "6万円",
       "notes": null
     },
     {
@@ -9200,6 +9200,21 @@
       "deadline": "2027-06-10",
       "deadlineText": "2027年6月10日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "47cd7d02da",
+      "name": "武田八幡宮フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://takedahachimanguu.com/info/r8-6-11/",
+      "deadline": "2027-06-15",
+      "deadlineText": "2027年6月15日",
+      "prize": null,
       "notes": null
     },
     {
