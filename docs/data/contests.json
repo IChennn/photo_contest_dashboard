@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-06-12T04:21:44Z",
-  "count": 642,
+  "updatedAt": "2026-06-13T04:10:34Z",
+  "count": 645,
   "contests": [
-    {
-      "id": "4223d33340",
-      "name": "胎内市 第33回チューリップ写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.tainai.niigata.jp/sangyo/nogyo/tulipfesta/syakon.html",
-      "deadline": "2026-06-12",
-      "deadlineText": "2026年6月12日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "1e135adbe1",
-      "name": "長野県議会高校生フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.pref.nagano.lg.jp/gikai/chosa/koho/photocontest/bosyuyoko2026.html",
-      "deadline": "2026-06-12",
-      "deadlineText": "2026年6月12日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "8c275074df",
-      "name": "第4回　高橋・美里・益富地区ラリーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.toyota.aichi.jp/kurashi/shogaigakushu/sports/1056090.html",
-      "deadline": "2026-06-12",
-      "deadlineText": "2026年6月12日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "6f612e0c5e",
       "name": "群馬県山岳・スポーツクライミング連盟 2027年版カレンダー掲載作品募集(PDF)",
@@ -830,6 +785,21 @@
       "deadline": "2026-06-30",
       "deadlineText": "2026年6月30日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "e775ec2198",
+      "name": "東八甲田ローズカントリーフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.shichinohe.lg.jp/gyosei/tourism-events/2026-1.html",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年6月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -3531,6 +3501,21 @@
       "notes": null
     },
     {
+      "id": "559ad3ee45",
+      "name": "ほくとサンフェスフォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.hokuto.yamanashi.jp/docs/sunflowerfes.html",
+      "deadline": "2026-08-16",
+      "deadlineText": "2026年8月16日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "3056da73bb",
       "name": "スカイパークフォトコンテスト2026(Instagram)",
       "sources": [
@@ -4591,6 +4576,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "e352b83f4b",
+      "name": "新温泉町の魅力発信！フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.shinonsen.hyogo.jp/page/?mode=detail&page_id=9271646fd63ec61142a4a9cc10176ce2",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "15,000円",
       "notes": null
     },
     {
@@ -7243,6 +7243,21 @@
       "notes": null
     },
     {
+      "id": "13de9ee8f2",
+      "name": "第11回 九州川の風景フォトコンテスト 夏・秋部門",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kyu-river-photo.com/entry/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a54de4e7ad",
       "name": "第7回 月山ダムフォトコンテスト",
       "sources": [
@@ -8069,6 +8084,21 @@
       "notes": null
     },
     {
+      "id": "09f5a4cd53",
+      "name": "第4回 城址公園フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://joshipark.com/news/%e3%80%90%e5%9f%8e%e5%9d%80%e5%85%ac%e5%9c%92%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882026%e3%80%91%e4%bd%9c%e5%93%81%e5%8b%9f%e9%9b%86%ef%bc%81/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
       "id": "c3c0fb60c2",
       "name": "しもやまフォトコンテスト#2026",
       "sources": [
@@ -8630,6 +8660,21 @@
         }
       ],
       "entryUrl": "https://mitte-x-img.istsw.jp/oisokankou/file/2026%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "4623cb25bf",
+      "name": "第26回 胎内写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tainai.info/posts/news/2026060716386/",
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": "3万円",
