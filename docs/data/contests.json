@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-06-13T04:10:34Z",
-  "count": 645,
+  "updatedAt": "2026-06-14T04:27:30Z",
+  "count": 647,
   "contests": [
-    {
-      "id": "6f612e0c5e",
-      "name": "群馬県山岳・スポーツクライミング連盟 2027年版カレンダー掲載作品募集(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.gunmaken-sangakurenmei.net/wp/wp-content/uploads/2026/04/040902PDF.pdf",
-      "deadline": "2026-06-13",
-      "deadlineText": "2026年6月13日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "7a7b07dcd7",
       "name": "川のフォトコンテスト2026",
@@ -1694,6 +1679,21 @@
         }
       ],
       "entryUrl": "https://www.fuchu-cpf.or.jp/museum/event/1000083/1006959.html",
+      "deadline": "2026-07-05",
+      "deadlineText": "2026年7月5日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "fe490ce6f4",
+      "name": "第47回 護摩堂山湯田上温泉あじさいまつり Instagram フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.tagami.niigata.jp/kankou/docs/53949.html",
       "deadline": "2026-07-05",
       "deadlineText": "2026年7月5日",
       "prize": null,
@@ -3660,6 +3660,21 @@
         }
       ],
       "entryUrl": "https://www.city.omura.nagasaki.jp/kankyouseisaku/kurashi/pet/dog-cat/photocontest2026.html",
+      "deadline": "2026-08-19",
+      "deadlineText": "2026年8月19日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a99c3ac882",
+      "name": "太平洋フェリーフォト＆ムービーコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.taiheiyo-ferry.co.jp/news/000673.html",
       "deadline": "2026-08-19",
       "deadlineText": "2026年8月19日",
       "prize": null,
@@ -8527,6 +8542,21 @@
       "notes": null
     },
     {
+      "id": "68add88f70",
+      "name": "第16回 野田市公式インスタグラムフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.noda.chiba.jp/shisei/1016739/1031871/1050924/index.html",
+      "deadline": "2027-01-29",
+      "deadlineText": "2027年1月29日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "527c6511fd",
       "name": "第38回 御所市観光フォトコンテスト",
       "sources": [
@@ -8903,6 +8933,21 @@
       "deadline": "2027-02-17",
       "deadlineText": "2027年2月17日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "adfaa3ec25",
+      "name": "OGA!男鹿！観光写真フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tokyocameraclub.com/ogacity/contest2026/",
+      "deadline": "2027-02-19",
+      "deadlineText": "2027年2月19日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -9677,21 +9722,6 @@
         }
       ],
       "entryUrl": "https://sites.google.com/view/mtb-yawatahama-mtb-org/2026",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "7a17ee3ee8",
-      "name": "川のフォトコンテスト２０２６",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8885"
-        }
-      ],
-      "entryUrl": "https://www.kensetsu.metro.tokyo.lg.jp/river/keihatsu/photo_r8",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
