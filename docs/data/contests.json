@@ -1,101 +1,7 @@
 {
-  "updatedAt": "2026-06-14T04:27:30Z",
-  "count": 647,
+  "updatedAt": "2026-06-15T04:50:31Z",
+  "count": 644,
   "contests": [
-    {
-      "id": "7a7b07dcd7",
-      "name": "川のフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        },
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/metro-tokyo-river-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://www.kensetsu.metro.tokyo.lg.jp/river/keihatsu/photo_r8",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年6月14日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "14a72983b2",
-      "name": "ガーデンネックレス横浜2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://greensnap.jp/contest/416",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年6月14日",
-      "prize": "500円",
-      "notes": null
-    },
-    {
-      "id": "0cccec31fe",
-      "name": "浜松・浜名湖だいすきネット フォトコンテスト2026 春",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://hamamatsu-daisuki.net/information/5580/",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年6月14日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "2948fe60a3",
-      "name": "第3回 ココが南郷里の推し！フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://nangouri.main.jp/2026/02/14/photocon3/",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年6月14日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "66a1c63d75",
-      "name": "宮地嶽神社 菖蒲まつりInstagramフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.miyajidake.or.jp/news/topics/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE-%E8%8F%96%E8%92%B2%E3%81%BE%E3%81%A4%E3%82%8Ainstagram%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年6月14日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "d0da103bf3",
-      "name": "ACT新企画 完全オーディエンス審査型コンペティション「える」 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/eru-act-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/eru-act-2026/",
-      "deadline": "2026-06-14",
-      "deadlineText": "2026年06月14日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "db11ff8661",
       "name": "第22回 秋山庄太郎「花」写真コンテスト",
@@ -1068,6 +974,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/hanakaido-yuri-photo-2026/"
         }
       ],
       "entryUrl": "https://note.com/141miyuki/n/ndc0b1022d41b",
@@ -2463,6 +2373,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/plazanorth-photo-2026/"
         }
       ],
       "entryUrl": "https://www.plazanorth.jp/news/2026/2025.php",
@@ -3888,6 +3802,29 @@
       "notes": null
     },
     {
+      "id": "55a3b3a813",
+      "name": "長居公園 夏のフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8952"
+        },
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/nagaipark-photo-summer-2026/"
+        }
+      ],
+      "entryUrl": "https://nagaipark.com/events/000346",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e665fc4419",
       "name": "第13回ほとけの心フォトコンテスト",
       "sources": [
@@ -4275,6 +4212,21 @@
       "notes": null
     },
     {
+      "id": "1d8db4a5bf",
+      "name": "ときがわフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tokigawa-kankou.com/news/20260612-4340/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "3,000円",
+      "notes": null
+    },
+    {
       "id": "b78fc0211e",
       "name": "白子町フォトコンテスト season4",
       "sources": [
@@ -4557,25 +4509,6 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "55a3b3a813",
-      "name": "長居公園 夏のフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        },
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/nagaipark-photo-summer-2026/"
-        }
-      ],
-      "entryUrl": "https://nagaipark.com/events/000346",
-      "deadline": "2026-08-31",
-      "deadlineText": "2026年8月31日",
-      "prize": null,
       "notes": null
     },
     {
@@ -8144,6 +8077,21 @@
       "notes": null
     },
     {
+      "id": "6443abeb4a",
+      "name": "大山隠岐国立公園フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://daisen90th.com/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "0618169aa1",
       "name": "防府天満宮 式年大祭フォトコンテスト(3期)",
       "sources": [
@@ -8156,6 +8104,21 @@
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "58ce603467",
+      "name": "第17回 豊浦WEBフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "http://www.toyoura-q.com/contest/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -8738,6 +8701,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "faa9ba8103",
+      "name": "とよおか広報フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.vill.nagano-toyooka.lg.jp/00topics/2026-0602-1510-16.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -9752,21 +9730,6 @@
         }
       ],
       "entryUrl": "https://contest.55web.jp/zoo/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4598bf8f85",
-      "name": "令和８年度写真コンテスト　職場で輝く障害者～今その瞬間～",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8857"
-        }
-      ],
-      "entryUrl": "https://www.jeed.go.jp/disability/activity/contest/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
