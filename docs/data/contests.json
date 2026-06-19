@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T04:21:00Z",
-  "count": 659,
+  "updatedAt": "2026-06-19T04:48:56Z",
+  "count": 668,
   "contests": [
     {
       "id": "0af67fcfcb",
@@ -1302,6 +1302,21 @@
       "notes": null
     },
     {
+      "id": "03e90d229d",
+      "name": "玉乃光酒造「350Xプロジェクト」共創クリエイター募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tamanohikari-350project-creator-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tamanohikari-350project-creator-2026/",
+      "deadline": "2026-06-30",
+      "deadlineText": "2026年06月30日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "222e32ded3",
       "name": "京成カレンダー2027フォト作品募集",
       "sources": [
@@ -1588,6 +1603,21 @@
       "deadline": "2026-07-10",
       "deadlineText": "2026年7月10日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "b707c173a4",
+      "name": "第24回 古代の森 小國神社写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://okunijinja.or.jp/information/4231.html/",
+      "deadline": "2026-07-10",
+      "deadlineText": "2026年7月10日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -1931,6 +1961,21 @@
       "deadline": "2026-07-17",
       "deadlineText": "2026年7月17日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "aca62653f6",
+      "name": "楽天ウォレットフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.rakuten-wallet.co.jp/campaign/shib202606/photocon/",
+      "deadline": "2026-07-17",
+      "deadlineText": "2026年7月17日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -3334,6 +3379,21 @@
         }
       ],
       "entryUrl": "https://www.inaba-petfood.co.jp/campaign/2027_calendar.html",
+      "deadline": "2026-08-16",
+      "deadlineText": "2026年8月16日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "97730e0619",
+      "name": "第10回 茨城空港フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ibaraki-airport.net/photo-contest2026/",
       "deadline": "2026-08-16",
       "deadlineText": "2026年8月16日",
       "prize": null,
@@ -5416,6 +5476,36 @@
       "notes": null
     },
     {
+      "id": "f24dc76f1e",
+      "name": "第12回 さくらおろち湖写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.unnan.shimane.jp/unnan/kankou/event/2026-0617-1700-27.html",
+      "deadline": "2026-09-18",
+      "deadlineText": "2026年9月18日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "3fad200a4a",
+      "name": "第5回 学校制服フォトコンテスト《中・高校生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kanko-gakuseifuku-uniform-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/kanko-gakuseifuku-uniform-photo-2026/",
+      "deadline": "2026-09-18",
+      "deadlineText": "2026年09月18日",
+      "prize": "20万円",
+      "notes": null
+    },
+    {
       "id": "8f4423e4ab",
       "name": "一宮町フォトコンテスト2026",
       "sources": [
@@ -6003,6 +6093,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "bf4b06fbc7",
+      "name": "第14回 伊勢湾フェリー写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.isewanferry.co.jp/publics/index/280/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -8179,6 +8284,21 @@
       "notes": null
     },
     {
+      "id": "74bc3fb231",
+      "name": "岬町フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.misaki.osaka.jp/soshiki/toshi_seibi/sangyo/kannkou/6205.html",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "8万円",
+      "notes": null
+    },
+    {
       "id": "35a1f23787",
       "name": "第13回 多可町山遊びフォトコンテスト",
       "sources": [
@@ -8465,6 +8585,21 @@
       "deadline": "2027-01-11",
       "deadlineText": "2027年1月11日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "6c086392a2",
+      "name": "#おみたまジェニック2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "http://omitan.net/news/%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%8c%e3%81%8a%e3%81%bf%e3%81%9f%e3%81%be%e3%82%b8%e3%82%a7%e3%83%8b%e3%83%83%e3%82%af2026%e3%80%8d%e9%96%8b%e5%82%ac",
+      "deadline": "2027-01-11",
+      "deadlineText": "2027年1月11日",
+      "prize": null,
       "notes": null
     },
     {
