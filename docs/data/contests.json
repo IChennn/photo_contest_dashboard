@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-06-20T04:02:55Z",
-  "count": 673,
+  "updatedAt": "2026-06-21T04:45:09Z",
+  "count": 672,
   "contests": [
-    {
-      "id": "48cc8c92ae",
-      "name": "「#みんなの奥河内」フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://okukawachi-link.jp/contest/",
-      "deadline": "2026-06-20",
-      "deadlineText": "2026年6月20日",
-      "prize": "5,000円",
-      "notes": null
-    },
     {
       "id": "bf7f73a59b",
       "name": "第61回福生ほたる祭 写真コンクール",
