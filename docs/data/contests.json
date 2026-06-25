@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-06-24T03:56:47Z",
-  "count": 692,
+  "updatedAt": "2026-06-25T03:57:43Z",
+  "count": 700,
   "contests": [
-    {
-      "id": "a941738e84",
-      "name": "第12回 津沢夜高あんどん祭りフォトコンテストin TSUZAWA",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://oyabe.info/3529/",
-      "deadline": "2026-06-24",
-      "deadlineText": "2026年6月24日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "8b86d0271f",
-      "name": "相生ペーロン祭 写真コンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://aioi-peron.jp/archives/2417",
-      "deadline": "2026-06-24",
-      "deadlineText": "2026年6月24日",
-      "prize": "5万円",
-      "notes": null
-    },
     {
       "id": "e5bf3445b4",
       "name": "いわみざわ彩花まつり フラワーフォトコンテスト2026",
@@ -4028,6 +3998,21 @@
       "notes": null
     },
     {
+      "id": "edcfe0ca7d",
+      "name": "宮城・山形3地域Instagram投稿キャンペーン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yamagata-kouiki.info/log/?l=559065",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "c730e68ef9",
       "name": "秋田空港フォトコンテスト2026 春夏",
       "sources": [
@@ -5446,6 +5431,21 @@
       "notes": null
     },
     {
+      "id": "e48944d962",
+      "name": "＃名張感動 投稿キャンペーン2026(梅雨～夏編)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.nabari.lg.jp/s078/560/20200728195623.html",
+      "deadline": "2026-09-15",
+      "deadlineText": "2026年9月15日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "056322948e",
       "name": "第21回 アイデム写真コンテスト「はたらくすがた」《小・中・高校生限定》",
       "sources": [
@@ -5995,6 +5995,21 @@
       "notes": null
     },
     {
+      "id": "56fcc7a715",
+      "name": "#花どり埼玉 フォトキャンペーン(第1回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hanadori.pref.saitama.lg.jp/#campaign",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "7ad2f6da5a",
       "name": "第18回 成田四季彩祭写真コンテスト2026～2027(夏の部)",
       "sources": [
@@ -6262,6 +6277,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "a51a8742ff",
+      "name": "令和8年度Instagram那賀まちフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.wakayama.lg.jp/prefg/130200/d00222238.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -7387,6 +7417,21 @@
       "notes": null
     },
     {
+      "id": "ff5286abfa",
+      "name": "豊富温泉開湯100周年記念 とよとみフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "710e09efce",
       "name": "フォトコンテスト モニュメントのある風景 2026",
       "sources": [
@@ -7658,6 +7703,21 @@
       "deadline": "2026-11-13",
       "deadlineText": "2026年11月13日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "77b0b14ea7",
+      "name": "戸隠そばのある風景 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://sobamatsuri.com/photo/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8050,6 +8110,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/okaeri-ehime-photo-2026-2/"
         }
       ],
       "entryUrl": "https://tsukaretara-ehime.jp/post.html",
@@ -8176,6 +8240,21 @@
       "deadline": "2026-12-15",
       "deadlineText": "2026年12月15日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "0a22df5c8b",
+      "name": "＃名張感動 投稿キャンペーン2026(秋編)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.nabari.lg.jp/s078/560/20200728195623.html",
+      "deadline": "2026-12-15",
+      "deadlineText": "2026年12月15日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -8559,6 +8638,21 @@
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "d6855dcc46",
+      "name": "叡電&三鉄 悠久の風フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://eizandensha.co.jp/event/detail2546/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8977,6 +9071,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/ohtawara-sai-photo-2027/"
         }
       ],
       "entryUrl": "https://www.city.ohtawara.tochigi.jp/docs/2025030600059/",
@@ -9273,6 +9371,21 @@
         }
       ],
       "entryUrl": "https://sougoukouen.kosi-kanri.com/202605081247/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "81e0fec0d9",
+      "name": "#花どり埼玉 フォトキャンペーン(第2回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hanadori.pref.saitama.lg.jp/#campaign",
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
@@ -9700,6 +9813,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "9992f24588",
+      "name": "＃名張感動 投稿キャンペーン2026(冬編)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.nabari.lg.jp/s078/560/20200728195623.html",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": "1万円",
       "notes": null
     },
     {
