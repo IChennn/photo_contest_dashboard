@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T03:48:26Z",
-  "count": 719,
+  "updatedAt": "2026-06-28T04:11:38Z",
+  "count": 722,
   "contests": [
     {
       "id": "94bb236bf0",
@@ -4118,6 +4118,21 @@
       "notes": null
     },
     {
+      "id": "2b79757a9c",
+      "name": "第2回 曹洞宗 位作山陽林寺 お寺フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://isakusan-yourinji.com/2026/06/27/%E9%99%BD%E6%9E%97%E5%AF%BA%E3%80%8C2026%E3%81%8A%E5%AF%BA%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%80%8D%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "832059cd34",
       "name": "英国大使館別荘記念公園　開園10周年 Instagram フォトコンテスト 2026(夏)",
       "sources": [
@@ -6580,6 +6595,21 @@
       "notes": null
     },
     {
+      "id": "aa6b353dd6",
+      "name": "第10回 ディスカバー宮崎インフラフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.mk-suishin.or.jp/photocon2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "8c2dd56fed",
       "name": "かさりフォトコン2026",
       "sources": [
@@ -8036,6 +8066,21 @@
       "notes": null
     },
     {
+      "id": "3a00a196c2",
+      "name": "IKOKAインスタグラムフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.ageo.lg.jp/page/423939.html",
+      "deadline": "2026-11-27",
+      "deadlineText": "2026年11月27日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "f67e6b163a",
       "name": "第31回 笠間観光フォトコンテスト　～笠間を写そう みんなで写そう～",
       "sources": [
@@ -8540,6 +8585,21 @@
       "deadline": "2026-12-20",
       "deadlineText": "2026年12月20日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "69906d8dbe",
+      "name": "第6回 山の辺の道「奈良道」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yamanobenara.com/%E7%AC%AC6%E5%9B%9E%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/",
+      "deadline": "2026-12-20",
+      "deadlineText": "2026年12月20日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -10733,21 +10793,6 @@
         }
       ],
       "entryUrl": "https://jhf.hangpara.or.jp/support/info/2026/20260414.html",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "391e1ab480",
-      "name": "第九回OREC「草の日」フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8921"
-        }
-      ],
-      "entryUrl": "https://www.orec.co.jp/photocontest2026/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
