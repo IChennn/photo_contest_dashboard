@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-06-28T04:11:38Z",
-  "count": 722,
+  "updatedAt": "2026-06-29T04:18:23Z",
+  "count": 719,
   "contests": [
-    {
-      "id": "94bb236bf0",
-      "name": "第九回 草の日フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.orec.co.jp/photocontest2026/",
-      "deadline": "2026-06-28",
-      "deadlineText": "2026年6月28日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "df83c59e89",
-      "name": "道の駅庄和 第4回ツバメフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kanto-michinoeki.jp/archives/17934.html",
-      "deadline": "2026-06-28",
-      "deadlineText": "2026年6月28日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "6a16822879",
-      "name": "第9回 草の日フォトコンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/orec-kusanohi-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/orec-kusanohi-2026/",
-      "deadline": "2026-06-28",
-      "deadlineText": "2026年06月28日",
-      "prize": "5万円",
-      "notes": null
-    },
     {
       "id": "5cbc7316a2",
       "name": "第五回 東部の魅力フォトコンテスト",
@@ -4908,6 +4863,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/hana-to-midori-photo-2026/"
         }
       ],
       "entryUrl": "https://www.kanagawa-park.or.jp/photocontest/contest/top.html",
