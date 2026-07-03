@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-07-02T03:55:48Z",
-  "count": 717,
+  "updatedAt": "2026-07-03T03:38:10Z",
+  "count": 719,
   "contests": [
-    {
-      "id": "6c4c707b57",
-      "name": "第53回 全日本写真展2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.photo-asahi.com/contest/4/1462/entry/",
-      "deadline": "2026-07-02",
-      "deadlineText": "2026年7月2日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "1494185bc6",
-      "name": "全日本写真展 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/asahi-zennihon-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/asahi-zennihon-photo-2026/",
-      "deadline": "2026-07-02",
-      "deadlineText": "2026年07月02日",
-      "prize": "10万円",
-      "notes": null
-    },
     {
       "id": "941adad582",
       "name": "令和8年度 共済あいちフォトコンテスト",
@@ -5358,6 +5328,36 @@
       "notes": null
     },
     {
+      "id": "99500df81d",
+      "name": "第4回 2026ニーゴ・リユース フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://25reuse.com/news/84055/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "81a953da91",
+      "name": "第2回 ねこ × 和紙フォトコンテスト「猫にあわがみ。」作品募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.awagami.or.jp/photocon/index.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "832716a078",
       "name": "水のある生活・風景 フォトコンテスト",
       "sources": [
@@ -6033,6 +6033,21 @@
       "notes": null
     },
     {
+      "id": "83135efaa6",
+      "name": "ジーーーンと四国！しこくーるフォトコンテスト(夏期)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shikoku-tourism.com/feature/shikocool_%20photo_contest/%E3%81%97%E3%81%93%E3%81%8F%E3%83%BC%E3%82%8B%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "100,000円",
+      "notes": null
+    },
+    {
       "id": "679a3d6f2a",
       "name": "第1回 香川の大名庭園フォトコンテスト",
       "sources": [
@@ -6349,6 +6364,21 @@
       "deadline": "2026-10-07",
       "deadlineText": "2026年10月7日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4a45af3e66",
+      "name": "第41回 ふくしま緑の写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.fukurin-net.jp/?p=17016",
+      "deadline": "2026-10-08",
+      "deadlineText": "2026年10月8日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -8106,6 +8136,21 @@
       "deadline": "2026-12-10",
       "deadlineText": "2026年12月10日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "1da09f9367",
+      "name": "ジーーーンと四国！しこくーるフォトコンテスト(秋期)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shikoku-tourism.com/feature/shikocool_%20photo_contest/%E3%81%97%E3%81%93%E3%81%8F%E3%83%BC%E3%82%8B%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3",
+      "deadline": "2026-12-10",
+      "deadlineText": "2026年12月10日",
+      "prize": "100,000円",
       "notes": null
     },
     {
@@ -10328,6 +10373,21 @@
       "notes": null
     },
     {
+      "id": "5ed0f06594",
+      "name": "2028年版カレンダー「ユーシンのある街」写真コンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.shinkin.co.jp/yuki/oshirase/100258/documents/100258F.pdf",
+      "deadline": "2027-06-30",
+      "deadlineText": "2027年6月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "707aa159f6",
       "name": "第17回 トマト銀行 カレンダー写真コンテスト",
       "sources": [
@@ -10397,21 +10457,6 @@
         }
       ],
       "entryUrl": "https://www.instagram.com/p/DZMlzTdErPi/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "e51fa6dc24",
-      "name": "シェアカメグルメフォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8990"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/sharecame_jp/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
@@ -10502,21 +10547,6 @@
         }
       ],
       "entryUrl": "https://www.city.sakai.lg.jp/shisei/kokusai/aseankoryu/sakai-asean/shashinten/asean-photo-contest-2026.html",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "6912c2a198",
-      "name": "日本イーライリリー　あなたの日々に、脳の健康も　  脳の健康　短歌＆フォトメッセージコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8971"
-        }
-      ],
-      "entryUrl": "https://questant.jp/q/HV0MRZOO",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
