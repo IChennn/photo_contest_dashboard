@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-07-03T03:38:10Z",
-  "count": 719,
+  "updatedAt": "2026-07-04T03:31:15Z",
+  "count": 722,
   "contests": [
-    {
-      "id": "941adad582",
-      "name": "令和8年度 共済あいちフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kyosai-aichi.or.jp/2026/04010000068787.html",
-      "deadline": "2026-07-03",
-      "deadlineText": "2026年7月3日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "5b25cc317b",
-      "name": "2026 山陽沿線写真コンクール",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.sanyo-railway.co.jp/event/topics/detail.html?topics_id=2628",
-      "deadline": "2026-07-03",
-      "deadlineText": "2026年7月3日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "80d3299506",
-      "name": "令和8年度「富はええとこじゃ」写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www5.hp-ez.com/hp/siraga/",
-      "deadline": "2026-07-03",
-      "deadlineText": "2026年7月3日",
-      "prize": "12,000円",
-      "notes": null
-    },
     {
       "id": "a076b51f74",
       "name": "2026年 第25回 国際鉄道模型コンベンション フォトコンテスト",
@@ -3795,6 +3750,21 @@
       "notes": null
     },
     {
+      "id": "cf5352f5d4",
+      "name": "第1回 奈良平和フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.nara.lg.jp/soshiki/23/268311.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b7b6c84175",
       "name": "鳥取サイクリング Instagramフォトコンテスト",
       "sources": [
@@ -4783,6 +4753,21 @@
       "deadline": "2026-09-15",
       "deadlineText": "2026年9月15日",
       "prize": "20万円",
+      "notes": null
+    },
+    {
+      "id": "a7705de891",
+      "name": "サイトロンジャパン天体写真コンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sightron.co.jp/photocon.html",
+      "deadline": "2026-09-15",
+      "deadlineText": "2026年9月15日",
+      "prize": "30万円",
       "notes": null
     },
     {
@@ -6198,6 +6183,21 @@
       "notes": null
     },
     {
+      "id": "26625fec1a",
+      "name": "第6回『無電柱化の日』フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kensetsu.metro.tokyo.lg.jp/road/kanri/chichuka",
+      "deadline": "2026-10-01",
+      "deadlineText": "2026年10月1日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "190ac13655",
       "name": "中区って「イイネ！」フォトコンテスト2026",
       "sources": [
@@ -6394,6 +6394,21 @@
       "deadline": "2026-10-09",
       "deadlineText": "2026年10月9日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "cc4cec6f08",
+      "name": "第4回 徳島県議会高校生フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.tokushima.lg.jp/gikai/information/photocontest/",
+      "deadline": "2026-10-09",
+      "deadlineText": "2026年10月9日",
+      "prize": null,
       "notes": null
     },
     {
@@ -9468,6 +9483,21 @@
       "notes": null
     },
     {
+      "id": "68316ba2ca",
+      "name": "令和8年度 みなとオアシス八代フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.yatsushiro.lg.jp/kiji00322316/index.html",
+      "deadline": "2027-01-29",
+      "deadlineText": "2027年1月29日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "fd92394247",
       "name": "あかびらまちづくりフォトコンテスト2026",
       "sources": [
@@ -11030,6 +11060,21 @@
       "deadline": null,
       "deadlineText": "要確認",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "bf3b3fcb43",
+      "name": "令和8年度 飯島町観光協会フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.iijima.lg.jp/soshikiichiran/sangyoshinkoka/shokokankokakari/kanko/1685.html",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
       "notes": null
     },
     {
