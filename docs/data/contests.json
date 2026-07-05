@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-04T03:31:15Z",
-  "count": 722,
+  "updatedAt": "2026-07-05T03:47:14Z",
+  "count": 727,
   "contests": [
     {
       "id": "a076b51f74",
@@ -1997,6 +1997,21 @@
         }
       ],
       "entryUrl": "https://biei-photo.jp/omoide2026.html",
+      "deadline": "2026-08-10",
+      "deadlineText": "2026年8月10日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a90365e53c",
+      "name": "「なつかしの国鉄倉吉線」カレンダー2027 倉吉線の写真と思い出 募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kurayoshi-kankou.jp/topics/kurayoshisen_calendar2027",
       "deadline": "2026-08-10",
       "deadlineText": "2026年8月10日",
       "prize": null,
@@ -4163,6 +4178,21 @@
       "notes": null
     },
     {
+      "id": "19fde55856",
+      "name": "大川原あじさい市 令和8年あじさいフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.vill.sanagochi.lg.jp/docs/2026070300046/",
+      "deadline": "2026-09-02",
+      "deadlineText": "2026年9月2日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e212497a15",
       "name": "西武信用金庫 カレンダーアワード 2026",
       "sources": [
@@ -4175,6 +4205,21 @@
       "deadline": "2026-09-02",
       "deadlineText": "2026年09月02日",
       "prize": "15万円",
+      "notes": null
+    },
+    {
+      "id": "93bf11cad4",
+      "name": "九電みらい財団設立10周年記念企画 第14回 Instagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kyuden-mirai.or.jp/publicrelations/detail/114",
+      "deadline": "2026-09-03",
+      "deadlineText": "2026年9月3日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -4996,6 +5041,21 @@
       "notes": null
     },
     {
+      "id": "8c9c6de71c",
+      "name": "ハーベストの丘 2026 夏のフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://farm.or.jp/event/15635",
+      "deadline": "2026-09-23",
+      "deadlineText": "2026年9月23日",
+      "prize": "15,000円",
+      "notes": null
+    },
+    {
       "id": "7c39c487b5",
       "name": "第9回 サイエンスフォトコンテスト",
       "sources": [
@@ -5718,6 +5778,21 @@
       "notes": null
     },
     {
+      "id": "6135609fa0",
+      "name": "穴水なつ旅2026！フォトコンプロジェクト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://anamizu-photocon.com/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "2f7eba78fe",
       "name": "福井市のすばらしい自然コンテスト",
       "sources": [
@@ -6012,6 +6087,21 @@
         }
       ],
       "entryUrl": "https://www.pref.yamaguchi.lg.jp/soshiki/39/351980.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "a31047d823",
+      "name": "大島大橋開通50周年記念 写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kanko.oobatake.net/events/887/",
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "10,000円",
@@ -10682,21 +10772,6 @@
         }
       ],
       "entryUrl": "https://jws-kanrikyo.or.jp/photo-submission/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "356e0bea87",
-      "name": "あじさい写真投稿キャンペーン",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8951"
-        }
-      ],
-      "entryUrl": "https://mishima-skywalk.jp/pickup/46833/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
