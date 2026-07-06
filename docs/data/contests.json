@@ -1,82 +1,7 @@
 {
-  "updatedAt": "2026-07-05T03:47:14Z",
-  "count": 727,
+  "updatedAt": "2026-07-06T03:56:21Z",
+  "count": 726,
   "contests": [
-    {
-      "id": "a076b51f74",
-      "name": "2026年 第25回 国際鉄道模型コンベンション フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kokusaitetsudoumokei-convention.jp/photo2026/",
-      "deadline": "2026-07-05",
-      "deadlineText": "2026年7月5日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "d97efe0e42",
-      "name": "＼博物館スタッフが選ぶ／　あじさいフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.fuchu-cpf.or.jp/museum/event/1000083/1006959.html",
-      "deadline": "2026-07-05",
-      "deadlineText": "2026年7月5日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "fe490ce6f4",
-      "name": "第47回 護摩堂山湯田上温泉あじさいまつり Instagram フォトコンテスト 2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.tagami.niigata.jp/kankou/docs/53949.html",
-      "deadline": "2026-07-05",
-      "deadlineText": "2026年7月5日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "a30d806e9e",
-      "name": "高校生対象芸術公募展《高校生限定》",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/artawardbunsei-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/artawardbunsei-2026/",
-      "deadline": "2026-07-05",
-      "deadlineText": "2026年07月05日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "fd2c1f1082",
-      "name": "第25回 国際鉄道模型コンベンションフォトコンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/kokusaitetsudoumokei-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/kokusaitetsudoumokei-photo-2026/",
-      "deadline": "2026-07-05",
-      "deadlineText": "2026年07月05日",
-      "prize": "10万円",
-      "notes": null
-    },
     {
       "id": "4c1f216fbc",
       "name": "第5回 函館市電 写真コンテスト",
@@ -2000,6 +1925,21 @@
       "deadline": "2026-08-10",
       "deadlineText": "2026年8月10日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "e3dc1141b7",
+      "name": "第15回 いわて花巻空港フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.hna-terminal.co.jp/news/detail.php?id=454",
+      "deadline": "2026-08-10",
+      "deadlineText": "2026年8月10日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -4017,6 +3957,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年08月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "41fb643747",
+      "name": "第79回 新聞週間　第33回 日本専門新聞写真コンクール",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/senmonshinbun-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/senmonshinbun-photo-2026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年08月31日",
+      "prize": "10万円",
       "notes": null
     },
     {
@@ -8469,6 +8424,21 @@
       "notes": null
     },
     {
+      "id": "04757fe5f1",
+      "name": "第35回 のいち動物公園 写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://noichizoo.or.jp/event/entry-1676.html",
+      "deadline": "2026-12-20",
+      "deadlineText": "2026年12月20日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "a8bd86fad0",
       "name": "#千代田で映え旅 フォトコンテスト2026",
       "sources": [
@@ -10122,6 +10092,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "752dee901c",
+      "name": "#セリオンフォトコン2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.selion-akita.com/news2/11544",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": null,
       "notes": null
     },
     {
