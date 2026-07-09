@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-07-08T03:00:35Z",
-  "count": 757,
+  "updatedAt": "2026-07-09T03:39:15Z",
+  "count": 758,
   "contests": [
-    {
-      "id": "e0361df981",
-      "name": "デジタルクリエイティブフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://ganref.jp/common/photo_contests/dcp2606/",
-      "deadline": "2026-07-08",
-      "deadlineText": "2026年7月8日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8395b690c5",
-      "name": "Brillia Art Award Wall 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/brillia-art-award-wall-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/brillia-art-award-wall-2026/",
-      "deadline": "2026-07-08",
-      "deadlineText": "2026年07月08日",
-      "prize": "20万円",
-      "notes": null
-    },
-    {
-      "id": "f7a6144f48",
-      "name": "第7回 ぎふ美術展",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/gifu-art-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/gifu-art-2026/",
-      "deadline": "2026-07-08",
-      "deadlineText": "2026年07月08日",
-      "prize": "10万円",
-      "notes": null
-    },
     {
       "id": "d1c4e7bf5b",
       "name": "FDA 2027 カレンダーフォトコンテスト",
@@ -2247,6 +2202,21 @@
       "notes": null
     },
     {
+      "id": "5cf2edceef",
+      "name": "西表島フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.iriomote.or.jp/post/%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E8%A5%BF%E8%A1%A8%E5%B3%B6%E3%81%8C%E5%A5%BD%E3%81%8D%EF%BC%81%E8%A5%BF%E8%A1%A8%E5%B3%B6%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99",
+      "deadline": "2026-08-16",
+      "deadlineText": "2026年8月16日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "8ba2054b25",
       "name": "第4回 健康をめざすアート公募展",
       "sources": [
@@ -2515,6 +2485,21 @@
         }
       ],
       "entryUrl": "https://www.yurihama.jp/site/matsuri/2305.html",
+      "deadline": "2026-08-21",
+      "deadlineText": "2026年8月21日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "94b5423676",
+      "name": "＃内子笹まつり2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://moritei.jp/event/26956/",
       "deadline": "2026-08-21",
       "deadlineText": "2026年8月21日",
       "prize": null,
@@ -5087,6 +5072,21 @@
       "deadline": "2026-09-18",
       "deadlineText": "2026年09月18日",
       "prize": "20万円",
+      "notes": null
+    },
+    {
+      "id": "8080584c1f",
+      "name": "令和8年度（第37回）丸森町観光写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://marumori.jp/blog/fkxfekv/",
+      "deadline": "2026-09-20",
+      "deadlineText": "2026年9月20日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -8054,7 +8054,7 @@
       "sources": [
         {
           "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9002"
+          "url": "https://picru.jp/portals/detail/9004"
         },
         {
           "name": "フォトセカイ",
@@ -8128,6 +8128,21 @@
       "notes": null
     },
     {
+      "id": "b532e41e71",
+      "name": "第30回 三郷市観光写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://misato-city.com/?program=%E4%B8%89%E9%83%B7%E5%B8%82%E8%A6%B3%E5%85%89%E5%86%99%E7%9C%9F%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88",
+      "deadline": "2026-11-27",
+      "deadlineText": "2026年11月27日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "f67e6b163a",
       "name": "第31回 笠間観光フォトコンテスト　～笠間を写そう みんなで写そう～",
       "sources": [
@@ -8153,6 +8168,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/yamaguchi-photo-2026/"
         }
       ],
       "entryUrl": "https://yamadoren.or.jp/information/photo-contest/202606192697.html",
