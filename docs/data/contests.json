@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T03:39:15Z",
-  "count": 758,
+  "updatedAt": "2026-07-10T03:41:17Z",
+  "count": 765,
   "contests": [
     {
       "id": "d1c4e7bf5b",
@@ -2540,6 +2540,21 @@
       "notes": null
     },
     {
+      "id": "5d00522b3b",
+      "name": "大井川鐵道 写真コンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://daitetsu.jp/archives/319264",
+      "deadline": "2026-08-23",
+      "deadlineText": "2026年8月23日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "87c30b6075",
       "name": "第5回 長与よかとこ写真コンテスト",
       "sources": [
@@ -2986,6 +3001,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "14f865b3e7",
+      "name": "JAめむろフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ja-memuro.or.jp/info/3297/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -3619,6 +3649,21 @@
       "notes": null
     },
     {
+      "id": "3789320802",
+      "name": "掛川城フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://note.com/kakegawa_castle/n/nd3cfe21e26b8",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "161522b266",
       "name": "2027年版 JAあいち中央オリジナルカレンダー 掲載写真・絵手紙コンテスト",
       "sources": [
@@ -4051,6 +4096,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年08月31日",
       "prize": "30万円",
+      "notes": null
+    },
+    {
+      "id": "9e70b58aa3",
+      "name": "奇天烈大博覧会 作品募集",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kiteretsu-arita-expo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/kiteretsu-arita-expo-2026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年08月31日",
+      "prize": "10万円",
       "notes": null
     },
     {
@@ -5715,6 +5775,21 @@
       "notes": null
     },
     {
+      "id": "f0d956443a",
+      "name": "令和8年度「泉区写真コンクール」",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.sendai.jp/izumi-katsudo/izumiku/machizukuri/event/contest/bosyu/r8.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "7,000円",
+      "notes": null
+    },
+    {
       "id": "666ef8560c",
       "name": "いかわフォトコンテスト2026",
       "sources": [
@@ -6571,6 +6646,21 @@
       "deadline": "2026-10-02",
       "deadlineText": "2026年10月2日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "0091132107",
+      "name": "JAMCA PRIZE 2026 フォトコンテスト 絵画／イラストコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/jamca-prize-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/jamca-prize-2026/",
+      "deadline": "2026-10-02",
+      "deadlineText": "2026年10月02日",
+      "prize": "10万円",
       "notes": null
     },
     {
@@ -8532,6 +8622,21 @@
         }
       ],
       "entryUrl": "https://www.pref.kagawa.lg.jp/nosonseibi/furusatohozen/photo_contest.html",
+      "deadline": "2026-12-07",
+      "deadlineText": "2026年12月7日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "dd83fc7971",
+      "name": "第32回 えひめの森林・林業写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.emk.jp/photo/",
       "deadline": "2026-12-07",
       "deadlineText": "2026年12月7日",
       "prize": "5万円",
