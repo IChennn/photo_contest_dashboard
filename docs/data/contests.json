@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11T02:56:08Z",
-  "count": 768,
+  "updatedAt": "2026-07-12T03:20:42Z",
+  "count": 775,
   "contests": [
     {
       "id": "eb2537bf78",
@@ -2480,6 +2480,21 @@
       "notes": null
     },
     {
+      "id": "9262342264",
+      "name": "二色の浜公園Instagram写真コンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DamXFGHExwp/?img_index=1",
+      "deadline": "2026-08-23",
+      "deadlineText": "2026年8月23日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "87c30b6075",
       "name": "第5回 長与よかとこ写真コンテスト",
       "sources": [
@@ -3631,6 +3646,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "807a5910e4",
+      "name": "デンパーク デジタルフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://denpark.jp/post-detail.php?id=25",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "3,000円",
       "notes": null
     },
     {
@@ -5610,6 +5640,21 @@
       "notes": null
     },
     {
+      "id": "10f94a8129",
+      "name": "創味食品 3歳からクッキング キッズフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.somi.co.jp/special/3years_cooking_2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "832716a078",
       "name": "水のある生活・風景 フォトコンテスト",
       "sources": [
@@ -6646,6 +6691,21 @@
       "deadline": "2026-10-02",
       "deadlineText": "2026年10月2日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a591543dad",
+      "name": "第9回「きやまの魅力」デジタルフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.kiyama.lg.jp/kiji0035242/index.html",
+      "deadline": "2026-10-02",
+      "deadlineText": "2026年10月2日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -8320,6 +8380,21 @@
       "notes": null
     },
     {
+      "id": "08ca15ba9c",
+      "name": "日本の国立公園フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nationalparksjp-photocontest.com/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b743118816",
       "name": "第十一回 東北お遍路 写真コンテスト(PDF)",
       "sources": [
@@ -8643,6 +8718,21 @@
       "notes": null
     },
     {
+      "id": "0cdd345c35",
+      "name": "やまぐちローカル線Instagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://y-local-ic.jp/",
+      "deadline": "2026-12-06",
+      "deadlineText": "2026年12月6日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "38eddd6ebb",
       "name": "第26回 かがわの農村・ふるさと景観写真コンテスト",
       "sources": [
@@ -8868,6 +8958,21 @@
       "notes": null
     },
     {
+      "id": "ca137eb3d1",
+      "name": "第13回 常陸太田市フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kanko-hitachiota.com/page/page002104.html",
+      "deadline": "2026-12-18",
+      "deadlineText": "2026年12月18日",
+      "prize": "40,000円",
+      "notes": null
+    },
+    {
       "id": "a923e86533",
       "name": "信州佐久市観光フォトコンテスト2026",
       "sources": [
@@ -9015,6 +9120,21 @@
       "deadline": "2026-12-25",
       "deadlineText": "2026年12月25日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "763b5b0f1c",
+      "name": "第45回「やいたの四季」観光写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.yaita.tochigi.jp/site/kankou/photo-contest2026.html",
+      "deadline": "2026-12-25",
+      "deadlineText": "2026年12月25日",
+      "prize": "50,000円",
       "notes": null
     },
     {
@@ -11216,21 +11336,6 @@
         }
       ],
       "entryUrl": "http://kitamoto-cultural-center.com/hallevent/2026/05/11th-kitamotophoto-gakusei.html",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "135823420b",
-      "name": "自慢したいわんにゃんフォト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8991"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DZMlzTdErPi/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
