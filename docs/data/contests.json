@@ -1,82 +1,7 @@
 {
-  "updatedAt": "2026-07-12T03:20:42Z",
-  "count": 775,
+  "updatedAt": "2026-07-13T03:23:50Z",
+  "count": 771,
   "contests": [
-    {
-      "id": "eb2537bf78",
-      "name": "猪苗代ハーブ園 フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.listel-inawashiro.jp/information/1725?c=4&y=&m=",
-      "deadline": "2026-07-12",
-      "deadlineText": "2026年7月12日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4a3975157b",
-      "name": "水戸のあじさいまつりフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://mitokoumon.com/event/ajisai/ajisaiphoto/",
-      "deadline": "2026-07-12",
-      "deadlineText": "2026年7月12日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "df6e4f4c7d",
-      "name": "板取あじさいまつり2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.itadori-ajisai.com/",
-      "deadline": "2026-07-12",
-      "deadlineText": "2026年7月12日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4e4e011c66",
-      "name": "まきばの館 ラベンダーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.pref.okayama.jp/site/1173/1036773.html",
-      "deadline": "2026-07-12",
-      "deadlineText": "2026年7月12日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "26161417cc",
-      "name": "#わたしの琵琶湖システム フォトコンテスト(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DYEmb-fku5b/?img_index=1",
-      "deadline": "2026-07-12",
-      "deadlineText": "2026年7月12日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "b9fe158950",
       "name": "東京カメラ部テーマ10選フォトコンテスト2026",
@@ -4099,6 +4024,25 @@
       "notes": null
     },
     {
+      "id": "9beb2caa32",
+      "name": "「来て。」ポスターフォトコンテスト -2026-",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/8982"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/fuku-official-posters-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://fuku-official-posters.jp/contest/",
+      "deadline": "2026-09-01",
+      "deadlineText": "2026年09月01日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "9c38d8f616",
       "name": "第19回 タムロン鉄道風景コンテスト",
       "sources": [
@@ -4689,6 +4633,21 @@
       "deadline": "2026-09-10",
       "deadlineText": "2026年9月10日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "f2124379ba",
+      "name": "第27回 富士山写真大賞",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kawaguchiko-art-fujisan-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/kawaguchiko-art-fujisan-photo-2026/",
+      "deadline": "2026-09-10",
+      "deadlineText": "2026年09月10日",
+      "prize": "20万円",
       "notes": null
     },
     {
@@ -11381,21 +11340,6 @@
         }
       ],
       "entryUrl": "https://www.shonan-monorail.co.jp/form/2027callender/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "9beb2caa32",
-      "name": "「来て。」ポスターフォトコンテスト -2026-",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8982"
-        }
-      ],
-      "entryUrl": "https://fuku-official-posters.jp/contest/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
