@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-07-18T02:47:32Z",
-  "count": 817,
+  "updatedAt": "2026-07-19T03:17:52Z",
+  "count": 821,
   "contests": [
-    {
-      "id": "f04c19c3cc",
-      "name": "ビクセンオリジナル天体カレンダー掲載作品募集",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.vixen.co.jp/post/260518k/",
-      "deadline": "2026-07-18",
-      "deadlineText": "2026年7月18日",
-      "prize": "2万円",
-      "notes": null
-    },
-    {
-      "id": "3f745fff19",
-      "name": "第40回 粟井あじさい祭り写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.kanonji.kagawa.jp/soshiki/21/11519.html",
-      "deadline": "2026-07-18",
-      "deadlineText": "2026年7月18日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "48c8a27f86",
       "name": "2026年 第5回 キヤノン マンスリーフォトコンテスト",
@@ -1401,6 +1371,21 @@
       "notes": null
     },
     {
+      "id": "d43b08494f",
+      "name": "桑名水郷花火大会2026 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kuwana-hanabi.com/news/kuwanahanabi2026/",
+      "deadline": "2026-08-08",
+      "deadlineText": "2026年8月8日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "8f97145b42",
       "name": "びえい思い出フォトコンテスト2026",
       "sources": [
@@ -2209,6 +2194,21 @@
       "deadline": "2026-08-23",
       "deadlineText": "2026年8月23日",
       "prize": "8万円",
+      "notes": null
+    },
+    {
+      "id": "afdb6c285c",
+      "name": "海のフォトコンテスト「うみふぉと26」",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://wwwtb.mlit.go.jp/tohoku/00001_00598.html",
+      "deadline": "2026-08-23",
+      "deadlineText": "2026年8月23日",
+      "prize": null,
       "notes": null
     },
     {
@@ -4489,6 +4489,21 @@
       "deadline": "2026-09-05",
       "deadlineText": "2026年9月5日",
       "prize": "100,000円",
+      "notes": null
+    },
+    {
+      "id": "52deb6615b",
+      "name": "東武トップツアーズ 夏のフォトコンテスト2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/Da5LGdJEkAB/?img_index=1",
+      "deadline": "2026-09-06",
+      "deadlineText": "2026年9月6日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -8468,6 +8483,21 @@
       "notes": null
     },
     {
+      "id": "9827476206",
+      "name": "秋田市公式Instagram 魅力発見コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.myakitacity.jp/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "77b0b14ea7",
       "name": "戸隠そばのある風景 フォトコンテスト",
       "sources": [
@@ -9111,6 +9141,21 @@
       "deadline": "2026-12-01",
       "deadlineText": "2026年12月1日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a1a1b5bd9e",
+      "name": "令和8年度 好古園フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.himeji-machishin.jp/ryokka/kokoen/contest/index.html",
+      "deadline": "2026-12-03",
+      "deadlineText": "2026年12月3日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -11570,6 +11615,21 @@
       "deadline": "2027-03-14",
       "deadlineText": "2027年3月14日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "e6a8d03229",
+      "name": "BE:CYCLE PHOTO CONTEST 2026-2027",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001120/1068339.html",
+      "deadline": "2027-03-14",
+      "deadlineText": "2027年3月14日",
+      "prize": null,
       "notes": null
     },
     {
