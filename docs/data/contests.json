@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-07-19T03:17:52Z",
-  "count": 821,
+  "updatedAt": "2026-07-20T03:31:19Z",
+  "count": 823,
   "contests": [
-    {
-      "id": "48c8a27f86",
-      "name": "2026年 第5回 キヤノン マンスリーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://personal.canon.jp/event/photocontest/monthly",
-      "deadline": "2026-07-19",
-      "deadlineText": "2026年7月19日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "4af60cc6bb",
       "name": "八戸未来フォトコンテスト2026",
@@ -1643,6 +1628,21 @@
         }
       ],
       "entryUrl": "https://washington-hotels.jp/yokohama/page/sns_photocontest/",
+      "deadline": "2026-08-15",
+      "deadlineText": "2026年8月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "c5fe1cfb0e",
+      "name": "高岡七夕まつり2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.takaoka.or.jp/feature/detail_239.html",
       "deadline": "2026-08-15",
       "deadlineText": "2026年8月15日",
       "prize": null,
@@ -8859,6 +8859,21 @@
       "notes": null
     },
     {
+      "id": "82f09268a6",
+      "name": "きたかたInstagramフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kitakata-kanko.jp/?news=%F0%9F%93%B7%E3%81%8D%E3%81%9F%E3%81%8B%E3%81%9Finstagram%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882026%F0%9F%93%B7",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "dbe52321a1",
       "name": "第1回 石墨棚田フォトコンテスト",
       "sources": [
@@ -8991,6 +9006,21 @@
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "be01adf86e",
+      "name": "あきなだとびしま2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.hprc.or.jp/photo-contest/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "3万円",
       "notes": null
     },
     {
