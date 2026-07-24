@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T03:17:06Z",
-  "count": 837,
+  "updatedAt": "2026-07-24T02:56:57Z",
+  "count": 844,
   "contests": [
     {
       "id": "691b64528f",
@@ -66,6 +66,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/ibaraki-const-photo-2026/"
         }
       ],
       "entryUrl": "https://www.ibarakikensetsuphoto.com/",
@@ -1262,6 +1266,21 @@
       "notes": null
     },
     {
+      "id": "637350a004",
+      "name": "AFAF AWARD powered by E.SUN BANK",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/artfair-asia-afaf-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/artfair-asia-afaf-2026/",
+      "deadline": "2026-08-09",
+      "deadlineText": "2026年08月09日",
+      "prize": "30万円",
+      "notes": null
+    },
+    {
       "id": "8f97145b42",
       "name": "びえい思い出フォトコンテスト2026",
       "sources": [
@@ -2024,6 +2043,21 @@
       "notes": null
     },
     {
+      "id": "585ebafdad",
+      "name": "2026盛岡花火の祭典 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ccimorioka.or.jp/hanabi/",
+      "deadline": "2026-08-21",
+      "deadlineText": "2026年8月21日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "b3cbe457f0",
       "name": "「しらたかの四季」カレンダー2027 写真募集",
       "sources": [
@@ -2146,6 +2180,21 @@
         }
       ],
       "entryUrl": "https://hokuryu-himawari-photo.info/",
+      "deadline": "2026-08-23",
+      "deadlineText": "2026年8月23日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "2cce6ec8b3",
+      "name": "ほくてつカレンダー2027 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www2.hokutetsu.co.jp/campaign/photocalendar2027/index.html",
       "deadline": "2026-08-23",
       "deadlineText": "2026年8月23日",
       "prize": null,
@@ -2356,6 +2405,21 @@
         }
       ],
       "entryUrl": "https://www.tambara.co.jp/lavenderpark/contest/",
+      "deadline": "2026-08-30",
+      "deadlineText": "2026年8月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "72be5f7efc",
+      "name": "静鉄電車フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://train.shizutetsu.co.jp/news/20260723/6677",
       "deadline": "2026-08-30",
       "deadlineText": "2026年8月30日",
       "prize": "10,000円",
@@ -3301,6 +3365,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/shonan-monorail-calendar-photo-2026/"
         }
       ],
       "entryUrl": "https://www.shonan-monorail.co.jp/form/2027callender/",
@@ -4624,6 +4692,21 @@
       "deadline": "2026-09-08",
       "deadlineText": "2026年09月08日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "f7fd795f9f",
+      "name": "小学生SDGsコンテスト 2026《小学生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/teu-sdgs-idea-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/teu-sdgs-idea-2026/",
+      "deadline": "2026-09-09",
+      "deadlineText": "2026年09月09日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -6956,6 +7039,21 @@
       "notes": null
     },
     {
+      "id": "f28dc40be1",
+      "name": "第4回 児島湾岸 人と自然の写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.hayashima.lg.jp/soshiki/syogai_gakusyu/bosyu/event/5740.html",
+      "deadline": "2026-10-02",
+      "deadlineText": "2026年10月2日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "32dad4ea85",
       "name": "第10回 おおとしフォトコンテスト",
       "sources": [
@@ -7516,6 +7614,21 @@
       "deadline": "2026-10-28",
       "deadlineText": "2026年10月28日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "25763eeeb2",
+      "name": "東京カメラ部10選U-22フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nikkor.tokyocameraclub.com/u22contest2026/",
+      "deadline": "2026-10-29",
+      "deadlineText": "2026年10月29日",
+      "prize": null,
       "notes": null
     },
     {
