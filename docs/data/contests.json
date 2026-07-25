@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-07-24T02:56:57Z",
-  "count": 844,
+  "updatedAt": "2026-07-25T02:55:58Z",
+  "count": 855,
   "contests": [
-    {
-      "id": "691b64528f",
-      "name": "きのくに信用金庫 2027年版カレンダーフォトコンテスト(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kinokuni-shinkin.jp/personal/topics/topics_20260610.pdf",
-      "deadline": "2026-07-24",
-      "deadlineText": "2026年7月24日",
-      "prize": "5万円",
-      "notes": null
-    },
     {
       "id": "f0d60b57b4",
       "name": "神奈川県立観音崎公園みんなのいいね！miniフォトコンテスト2026",
@@ -2996,6 +2981,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "2a671ce091",
+      "name": "蓮の花フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.akitacci.or.jp/local/night_tourism/sensyuhasumatsuri/photo_contest/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -6435,6 +6435,21 @@
       "notes": null
     },
     {
+      "id": "41c24b7e9d",
+      "name": "第18回 本巣市観光写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.motosukankou.gr.jp/07_contest/index.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "c245673426",
       "name": "第12回 静岡県農村の魅力フォトコンテスト(夏の部)",
       "sources": [
@@ -7189,6 +7204,21 @@
       "notes": null
     },
     {
+      "id": "434295db85",
+      "name": "苫東フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tomatoh.co.jp/news/2026/07/24/3472/",
+      "deadline": "2026-10-09",
+      "deadlineText": "2026年10月9日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "67dd4e7434",
       "name": "郷づくりまるやま 第8回フラワー✿フォトコンテスト",
       "sources": [
@@ -7262,6 +7292,21 @@
         }
       ],
       "entryUrl": "https://www.hapi-line.co.jp/news/archives/286",
+      "deadline": "2026-10-12",
+      "deadlineText": "2026年10月12日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "b6dde61674",
+      "name": "令和8年度 恵那市フォト＆ムービーコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.ena.lg.jp/kanko_sangyo_business/kankosite/21033.html",
       "deadline": "2026-10-12",
       "deadlineText": "2026年10月12日",
       "prize": null,
@@ -7539,6 +7584,21 @@
       "deadline": "2026-10-20",
       "deadlineText": "2026年10月20日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "c65cf5467e",
+      "name": "あがのフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://agano-spot.com/archives/2794",
+      "deadline": "2026-10-20",
+      "deadlineText": "2026年10月20日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -8229,6 +8289,21 @@
       "notes": null
     },
     {
+      "id": "889a833357",
+      "name": "第20回 インスタフォトコンテスト 公園で出会った、最高の瞬間",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.aichi-koen.com/photo-contest/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
       "id": "5eeec9fa92",
       "name": "竜王町インスタグラムフォトコンテスト2026",
       "sources": [
@@ -8739,6 +8814,21 @@
       "entryUrl": "https://www.thr.mlit.go.jp/gassan/photocontest.html",
       "deadline": "2026-11-16",
       "deadlineText": "2026年11月16日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "2f241ec6e4",
+      "name": "#秋の舟川べり2026 Instagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.asahi-tabi.com/2026/07/23/7332/",
+      "deadline": "2026-11-20",
+      "deadlineText": "2026年11月20日",
       "prize": null,
       "notes": null
     },
@@ -10057,6 +10147,21 @@
       "notes": null
     },
     {
+      "id": "b838d5a9be",
+      "name": "市川市観光PRコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ichikawa-kankou.jp/news/%E5%B8%82%E5%B7%9D%E5%B8%82%E8%A6%B3%E5%85%89pr%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81/",
+      "deadline": "2026-12-28",
+      "deadlineText": "2026年12月28日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "2b394c47b1",
       "name": "2026観音寺市オールシーズンフォトコンテスト",
       "sources": [
@@ -10410,6 +10515,21 @@
       "notes": null
     },
     {
+      "id": "503d16a232",
+      "name": "熊本城フォトコンテスト2026下期",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://castle.kumamoto-guide.jp/photocontest/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "26c4eb3734",
       "name": "NOSAI宮崎 Instagramフォトコンテスト2026",
       "sources": [
@@ -10692,6 +10812,21 @@
       "deadline": "2027-01-10",
       "deadlineText": "2027年1月10日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "29c895a6cb",
+      "name": "海南市公式インスタグラムフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kainan.lg.jp/kakubusho/soumubu/citypromotion/kohokochogakari_torikumi/instagram_kainan_1/8237.html",
+      "deadline": "2027-01-10",
+      "deadlineText": "2027年1月10日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -11379,6 +11514,21 @@
       "notes": null
     },
     {
+      "id": "ac80024cae",
+      "name": "令和8年度 山陰海岸ジオパークフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://web.pref.hyogo.lg.jp/tjk04/press/20260724.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "f662938cd4",
       "name": "飛び地の村 北山村 Instagramフォトコンテスト2026",
       "sources": [
@@ -11391,6 +11541,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": "10000円",
+      "notes": null
+    },
+    {
+      "id": "b2475a5498",
+      "name": "国引きフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kunibiki-geopark.jp/news/photocontest/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
       "notes": null
     },
     {
