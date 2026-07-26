@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-07-25T02:55:58Z",
-  "count": 855,
+  "updatedAt": "2026-07-26T03:21:05Z",
+  "count": 872,
   "contests": [
     {
       "id": "f0d60b57b4",
       "name": "神奈川県立観音崎公園みんなのいいね！miniフォトコンテスト2026",
       "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8977"
-        },
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
@@ -26,15 +22,11 @@
       "name": "第3回とよなか景観フォトコンテスト「第3回豊中まちなみ市民賞」",
       "sources": [
         {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8845"
-        },
-        {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
         }
       ],
-      "entryUrl": "https://www.city.toyonaka.osaka.jp/machi/toshikeikan/hyosho_jigyo/design10_simin03/machinamishimin3.html",
+      "entryUrl": "https://keikan.city.toyonaka.osaka.jp/frontend/index.html",
       "deadline": "2026-07-26",
       "deadlineText": "2026年7月26日",
       "prize": null,
@@ -1829,6 +1821,21 @@
       "notes": null
     },
     {
+      "id": "c9aedbb3ad",
+      "name": "やまがたペット写真コンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.yamagata.jp/020071/kenfuku/doubutsuaigo/aigo/photor3.html",
+      "deadline": "2026-08-18",
+      "deadlineText": "2026年8月18日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "c6359ee9da",
       "name": "令和8年度 新宮市観光フォトコンテスト",
       "sources": [
@@ -1841,6 +1848,21 @@
       "deadline": "2026-08-18",
       "deadlineText": "2026年8月18日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "4cf034b093",
+      "name": "令和8年度ペット写真コンテスト（諫早市）",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.isahaya.nagasaki.jp/soshiki/38/26129.html",
+      "deadline": "2026-08-18",
+      "deadlineText": "2026年8月18日",
+      "prize": null,
       "notes": null
     },
     {
@@ -2318,6 +2340,21 @@
       "deadline": "2026-08-28",
       "deadlineText": "2026年8月28日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "dbe5d2f193",
+      "name": "川崎シニアフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kawasaki.jp/350/page/0000188992.html",
+      "deadline": "2026-08-28",
+      "deadlineText": "2026年8月28日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -2999,6 +3036,21 @@
       "notes": null
     },
     {
+      "id": "96328e69fc",
+      "name": "一日市盆踊りInstagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.hachirogata.akita.jp/chosei/1001525/1002905/1004607.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "46fe954410",
       "name": "第52回 つるしん写真コンク－ル(PDF)",
       "sources": [
@@ -3468,6 +3520,21 @@
       "notes": null
     },
     {
+      "id": "d544ce029d",
+      "name": "越前市サマーフォトコン2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DbLUZ0ylGgr/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "50,000円",
+      "notes": null
+    },
+    {
       "id": "59033861ea",
       "name": "富士河口湖ふるさと振興財団 Instagramフォトコンテスト 2026 前期",
       "sources": [
@@ -3495,6 +3562,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "adfe5337b5",
+      "name": "山県市観光協会主催 第2回 Instagramフォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DbFDss1GSBV/?img_index=1",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -3855,6 +3937,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "50fb93af47",
+      "name": "令和8年度 ひまわり写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.hagi.lg.jp/site/furusatodayori/h72037.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -5277,6 +5374,21 @@
       "notes": null
     },
     {
+      "id": "fe8c1982f9",
+      "name": "出雲崎インスタストーリーズコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.izumozaki.net/%E5%87%BA%E9%9B%B2%E5%B4%8E%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E9%96%8B%E5%82%AC%E2%80%BC/",
+      "deadline": "2026-09-18",
+      "deadlineText": "2026年9月18日",
+      "prize": "2,000円",
+      "notes": null
+    },
+    {
       "id": "f24dc76f1e",
       "name": "第12回 さくらおろち湖写真コンテスト",
       "sources": [
@@ -5319,6 +5431,21 @@
       "deadline": "2026-09-20",
       "deadlineText": "2026年9月20日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "8f95aadee7",
+      "name": "やまがた家族のしあわせ フォト＆エピソードコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yamagata-family-photo.com/",
+      "deadline": "2026-09-20",
+      "deadlineText": "2026年9月20日",
+      "prize": null,
       "notes": null
     },
     {
@@ -5503,6 +5630,21 @@
       "deadline": "2026-09-25",
       "deadlineText": "2026年9月25日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "c4c30923f2",
+      "name": "天使の寝顔フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sukusuku-otofuke.jp/info/6655/",
+      "deadline": "2026-09-25",
+      "deadlineText": "2026年9月25日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -6780,6 +6922,21 @@
       "notes": null
     },
     {
+      "id": "af97348c25",
+      "name": "風早フォトコンテスト 第2シーズン(第1回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hojo-kazahaya.jp/kazahaya-photocon/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "b4c67c1df5",
       "name": "第4回 ちっとええぜよ 汗見川 SNSフォトコンテスト",
       "sources": [
@@ -7512,6 +7669,21 @@
       "notes": null
     },
     {
+      "id": "1493d21f0d",
+      "name": "令和8年度男女共同参画推進事業 第12回フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.shimotsuma.lg.jp/shisei/torikumi/danjokyodo/photocontest/page004075.html",
+      "deadline": "2026-10-16",
+      "deadlineText": "2026年10月16日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "6f21962f93",
       "name": "棚田県にいがたフォトコンテスト2026",
       "sources": [
@@ -7539,6 +7711,21 @@
       "deadline": "2026-10-16",
       "deadlineText": "2026年10月16日",
       "prize": "100万円",
+      "notes": null
+    },
+    {
+      "id": "d5c9704c63",
+      "name": "田瀬うらうらフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.hanamaki.iwate.jp/shisei/chiiki/1008205/1025723.html",
+      "deadline": "2026-10-17",
+      "deadlineText": "2026年10月17日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -9772,6 +9959,21 @@
       "notes": null
     },
     {
+      "id": "75a9a16f19",
+      "name": "第3回 和邇フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://gj-gj.com/posts/744a2b31-2fd5-427d-bd78-6ca11d4be4c0",
+      "deadline": "2026-12-15",
+      "deadlineText": "2026年12月15日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "768cf24a0a",
       "name": "三好市フォトコンテスト2026",
       "sources": [
@@ -10497,6 +10699,21 @@
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "30444523da",
+      "name": "風早フォトコンテスト 第2シーズン(第2回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hojo-kazahaya.jp/kazahaya-photocon/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -12175,6 +12392,21 @@
       "notes": null
     },
     {
+      "id": "7da774daa0",
+      "name": "風早フォトコンテスト 第2シーズン(第3回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hojo-kazahaya.jp/kazahaya-photocon/",
+      "deadline": "2027-03-31",
+      "deadlineText": "2027年3月31日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "a9897fe1f1",
       "name": "第25回 あいちの森林・林業フォトコンテスト",
       "sources": [
@@ -12262,6 +12494,21 @@
       "deadline": "2027-06-30",
       "deadlineText": "2027年6月30日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "61142e05e2",
+      "name": "風早フォトコンテスト 第2シーズン(第4回)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hojo-kazahaya.jp/kazahaya-photocon/",
+      "deadline": "2027-06-30",
+      "deadlineText": "2027年6月30日",
+      "prize": "5,000円",
       "notes": null
     },
     {
