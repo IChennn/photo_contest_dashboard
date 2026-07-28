@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-27T03:31:15Z",
-  "count": 876,
+  "updatedAt": "2026-07-28T02:47:58Z",
+  "count": 887,
   "contests": [
     {
       "id": "fd233bfa7f",
@@ -2317,6 +2317,21 @@
       "notes": null
     },
     {
+      "id": "63de446ff4",
+      "name": "万灯みたま祭フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.miegokoku.org/saiten/mitamasai/",
+      "deadline": "2026-08-25",
+      "deadlineText": "2026年8月25日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "b065a6c6a5",
       "name": "みふね川精霊流し フォトコンテスト2026",
       "sources": [
@@ -3265,6 +3280,21 @@
       "notes": null
     },
     {
+      "id": "0cac29b452",
+      "name": "ライトライン 2026 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.miyarail.co.jp/photo-contest-2026",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "1d8db4a5bf",
       "name": "ときがわフォトコンテスト2026",
       "sources": [
@@ -3461,6 +3491,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "6ab65e4d76",
+      "name": "夏！MORI MORIフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sagamiko-resort.jp/pickup/photocon.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -5318,6 +5363,21 @@
       "notes": null
     },
     {
+      "id": "297d91e743",
+      "name": "第13回 中学生・高校生フォトコンテスト「身近な自然史」《中・高校生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tokyo-fujiwara-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tokyo-fujiwara-2026/",
+      "deadline": "2026-09-15",
+      "deadlineText": "2026年09月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "300927e444",
       "name": "第2回 千葉の祭り写真コンテスト",
       "sources": [
@@ -6203,6 +6263,21 @@
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "765e3217c2",
+      "name": "白い恋人 50周年記念フォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DbR2F4JABgN/?img_index=1",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -7136,6 +7211,21 @@
       "notes": null
     },
     {
+      "id": "e992d6c504",
+      "name": "第10回 鉄道写真詩コンテスト 2026",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/ecotran-photo-poem-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/ecotran-photo-poem-2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年09月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "0468bb5d17",
       "name": "～森村誠一記念～ 第15回 くまがや「写真俳句」コンテスト",
       "sources": [
@@ -7775,6 +7865,21 @@
       "deadline": "2026-10-17",
       "deadlineText": "2026年10月17日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "b1828c349e",
+      "name": "自慢の「うちの子」ペットフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.fujifilm.com/jp/ja/consumer/events/14783",
+      "deadline": "2026-10-18",
+      "deadlineText": "2026年10月18日",
+      "prize": null,
       "notes": null
     },
     {
@@ -9460,6 +9565,21 @@
       "notes": null
     },
     {
+      "id": "68ae9138eb",
+      "name": "#かな花フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kanagawa-kankou.or.jp/features/kanahanaphotocontest2026",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a4ce9d3ed4",
       "name": "瀬波・あつみ温泉・笹川流れフォトコンテスト 2026",
       "sources": [
@@ -9870,6 +9990,21 @@
       "deadline": "2026-12-10",
       "deadlineText": "2026年12月10日",
       "prize": "100,000円",
+      "notes": null
+    },
+    {
+      "id": "3067c7c567",
+      "name": "第44回 藤岡市観光フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.fujioka.gunma.jp/soshiki/keizaibu/shokokanko/2/2/1676.html",
+      "deadline": "2026-12-11",
+      "deadlineText": "2026年12月11日",
+      "prize": "50,000円",
       "notes": null
     },
     {
@@ -11506,6 +11641,21 @@
       "notes": null
     },
     {
+      "id": "85fd403e3d",
+      "name": "“推し仁木”フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://niki-kanko.com/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
       "id": "0a17a34242",
       "name": "2026 みちのく潮風トレイル フォトコンテスト",
       "sources": [
@@ -12573,6 +12723,21 @@
       "deadline": "2027-06-30",
       "deadlineText": "2027年6月30日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "6c6277452d",
+      "name": "東京アクアシンフォニーフォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9024"
+        }
+      ],
+      "entryUrl": "https://tokyoaquasymphony.jp/news/721/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
       "notes": null
     },
     {
