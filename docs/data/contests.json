@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T03:19:53Z",
-  "count": 871,
+  "updatedAt": "2026-08-02T03:20:05Z",
+  "count": 880,
   "contests": [
     {
       "id": "54ba42abb9",
@@ -1943,6 +1943,21 @@
       "notes": null
     },
     {
+      "id": "22d9d607c2",
+      "name": "思い出の花火フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www2.myjcom.jp/special/jch/matsuri_hanabi/campaign/202608/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "e34a5b6431",
       "name": "登別伊達時代村フォトコンテスト2026",
       "sources": [
@@ -2570,6 +2585,21 @@
       "deadline": "2026-08-31",
       "deadlineText": "2026年8月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a735aa8908",
+      "name": "北区花火会 思い出フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hanabi-kita.com/photocon2026/",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -5110,6 +5140,21 @@
       "notes": null
     },
     {
+      "id": "459d51576f",
+      "name": "福岡ウエストコースト フォトコンテスト2026 ～西海岸の魅力再発見～",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yokanavi.com/events/274519",
+      "deadline": "2026-09-27",
+      "deadlineText": "2026年9月27日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "1b53d02ac2",
       "name": "宮崎カーフェリー Instagram フォトコンテスト 2026",
       "sources": [
@@ -6157,6 +6202,21 @@
         }
       ],
       "entryUrl": "https://www.city.nagoya.jp/chikusa/miryoku/1019354/1041338/1019425/1048314.html",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a3e2176a82",
+      "name": "第1回 豊根フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.toyonemura-kanko.jp/event/detail/1376/",
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": null,
@@ -7957,6 +8017,21 @@
       "notes": null
     },
     {
+      "id": "7ac5aba693",
+      "name": "きたかみフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/toshibrandsenryakukakari/1_1/kitakamiphotocontest/29930.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "eea982af05",
       "name": "きたあきたフォトコン2026",
       "sources": [
@@ -8032,6 +8107,21 @@
       "notes": null
     },
     {
+      "id": "6220996303",
+      "name": "ぶどうと一緒にハイチーズ！所沢ぶどうフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tokorozawa.saitama.jp/kurashi/shigotojyoho/nogyo/shimin/grape.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "0c5e106e7e",
       "name": "ふなばしアンデルセン公園 開園30周年記念 Instagram フォトコンテスト",
       "sources": [
@@ -8104,6 +8194,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "7bbc7dbca6",
+      "name": "2026#子どもの記憶に残したい浜松の風景 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.hamamatsu-pippi.net/photo/page/123085.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -8667,6 +8772,21 @@
       "deadline": "2026-11-15",
       "deadlineText": "2026年11月15日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "2f052006e2",
+      "name": "「手のひらで南さつまを」フォトコンキャンペーン2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kanko-minamisatsuma.jp/feature/18071/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -10788,6 +10908,21 @@
       "deadline": "2027-01-08",
       "deadlineText": "2027年1月8日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "e20aef674f",
+      "name": "2026「射水の自慢」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.imizu-kanko.jp/topics/about-photo-contest/",
+      "deadline": "2027-01-08",
+      "deadlineText": "2027年1月8日",
+      "prize": "5万円",
       "notes": null
     },
     {
