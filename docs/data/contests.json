@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-08-05T02:48:40Z",
-  "count": 926,
+  "updatedAt": "2026-08-06T02:51:13Z",
+  "count": 930,
   "contests": [
-    {
-      "id": "522097c0fe",
-      "name": "第39回 おくのほそ道天童紅花まつり 紅花写真コンテスト(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.tendo.yamagata.jp/tourism/event/01_R8photo.pdf",
-      "deadline": "2026-08-05",
-      "deadlineText": "2026年8月5日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "112a5e5861",
-      "name": "第12回 あいの風とやま鉄道写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://ainokaze.co.jp/23436",
-      "deadline": "2026-08-05",
-      "deadlineText": "2026年8月5日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "58613cf043",
-      "name": "第53回 鳥栖の「まつり」写真コンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.tosucci.or.jp/citizen/news/%e9%b3%a5%e6%a0%96%e3%81%ae%e3%80%8c%e3%81%be%e3%81%a4%e3%82%8a%e3%80%8d%e5%86%99%e7%9c%9f%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882026%e9%96%8b%e5%82%ac%ef%bc%81/",
-      "deadline": "2026-08-05",
-      "deadlineText": "2026年8月5日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "f5aa2bb032",
       "name": "フルーティーランド フォトコンテスト(第3期)",
@@ -578,6 +533,21 @@
       "deadline": "2026-08-16",
       "deadlineText": "2026年8月16日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "48283c8a98",
+      "name": "#Wpcと夏の伊香保旅 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ikaho-kankou.com/wpc_photocontest/",
+      "deadline": "2026-08-16",
+      "deadlineText": "2026年8月16日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -8322,6 +8292,21 @@
       "notes": null
     },
     {
+      "id": "ec42c55355",
+      "name": "わたしが見つけた！みやぎの消防団フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.miyagi.jp/soshiki/syoubou/syouboudan-photo.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "eea982af05",
       "name": "きたあきたフォトコン2026",
       "sources": [
@@ -8394,6 +8379,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "25f63d8272",
+      "name": "草津温泉 YUKATA フォトコンテスト 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://932-onsen.smartcontest.digital/contest/index/1/ja",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -10358,6 +10358,21 @@
       "deadline": "2026-12-15",
       "deadlineText": "2026年12月15日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "0c1a62f8d3",
+      "name": "第25回 霞ヶ浦帆引き船フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kasumigaura-kankou.jp/page/page000970.html",
+      "deadline": "2026-12-15",
+      "deadlineText": "2026年12月15日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -12467,6 +12482,21 @@
       "notes": null
     },
     {
+      "id": "01a880e70f",
+      "name": "新進アーティスト作品展 vol.25　Art Generation 2027",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/rose-theatre-art-generation-2027/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/rose-theatre-art-generation-2027/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年01月31日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "27480aef56",
       "name": "第16回 ふるさと春日フォトコンテスト",
       "sources": [
@@ -12618,6 +12648,21 @@
       "deadline": "2027-02-19",
       "deadlineText": "2027年2月19日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4574c0dea6",
+      "name": "第9回 玉村町フォトコン",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tamamura-photo-2027/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tamamura-photo-2027/",
+      "deadline": "2027-02-19",
+      "deadlineText": "2027年02月19日",
+      "prize": "10万円",
       "notes": null
     },
     {
@@ -13572,6 +13617,21 @@
         }
       ],
       "entryUrl": "https://www.veltra.com/jp/promotion/summer-contest-2026/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "5c7f363216",
+      "name": "#内子笹まつり2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9006"
+        }
+      ],
+      "entryUrl": "https://moritei.jp/event/26956/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
