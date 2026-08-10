@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-08-09T02:00:24Z",
-  "count": 954,
+  "updatedAt": "2026-08-10T02:04:54Z",
+  "count": 956,
   "contests": [
-    {
-      "id": "637350a004",
-      "name": "AFAF AWARD powered by E.SUN BANK",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/artfair-asia-afaf-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/artfair-asia-afaf-2026/",
-      "deadline": "2026-08-09",
-      "deadlineText": "2026年08月09日",
-      "prize": "30万円",
-      "notes": null
-    },
     {
       "id": "8f97145b42",
       "name": "びえい思い出フォトコンテスト2026",
@@ -4724,6 +4709,21 @@
       "entryUrl": "https://compe.japandesign.ne.jp/satofull-photo-movie-2026/",
       "deadline": "2026-09-15",
       "deadlineText": "2026年09月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "7559684622",
+      "name": "令和8年度 気仙沼市民写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kesennuma.miyagi.jp/sec/s025/010/010/030/20260728101453.html",
+      "deadline": "2026-09-16",
+      "deadlineText": "2026年9月16日",
       "prize": null,
       "notes": null
     },
@@ -10316,6 +10316,21 @@
       "notes": null
     },
     {
+      "id": "674ed37907",
+      "name": "第30回 みずの森フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.seibu-la.co.jp/mizunomori/event/2026080815495915326.html",
+      "deadline": "2026-12-01",
+      "deadlineText": "2026年12月1日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a1a1b5bd9e",
       "name": "令和8年度 好古園フォトコンテスト",
       "sources": [
@@ -11859,6 +11874,21 @@
       "deadline": "2027-01-09",
       "deadlineText": "2027年1月9日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "dfe3017846",
+      "name": "会津美里フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://misatono.jp/blog/diary/76943",
+      "deadline": "2027-01-10",
+      "deadlineText": "2027年1月10日",
+      "prize": null,
       "notes": null
     },
     {
@@ -13691,21 +13721,6 @@
       "notes": null
     },
     {
-      "id": "2b1ae1f366",
-      "name": "AFAF AWARD PHOTO",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9032"
-        }
-      ],
-      "entryUrl": "https://artfair.asia/photo/?utm_source=picru&utm_medium=referral&utm_campaign=afaf_award_photo_2026",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "3fbd582fac",
       "name": "第17回「高校生デジタルフォトコンテスト」",
       "sources": [
@@ -14570,6 +14585,21 @@
         }
       ],
       "entryUrl": "https://www.instagram.com/p/DZM966VH3tE/?img_index=1",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "f448b9975a",
+      "name": "関空泉大津ワシントンホテル 夕陽フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kanku-izumiotsu-wh.com/news/20260802_2074/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
