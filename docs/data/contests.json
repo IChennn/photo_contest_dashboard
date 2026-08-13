@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-12T02:12:58Z",
-  "count": 977,
+  "updatedAt": "2026-08-13T02:15:00Z",
+  "count": 975,
   "contests": [
-    {
-      "id": "e44e5195fd",
-      "name": "「海の日」記念第29回フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.hakodate.hokkaido.jp/docs/2024060700029/",
-      "deadline": "2026-08-12",
-      "deadlineText": "2026年8月12日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "037528f7f5",
-      "name": "第65回 滋賀県写真展覧会 作品募集",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.pref.shiga.lg.jp/kensei/koho/e-shinbun/oshirase/351014.html",
-      "deadline": "2026-08-12",
-      "deadlineText": "2026年8月12日",
-      "prize": "700円",
-      "notes": null
-    },
     {
       "id": "a9686d7411",
       "name": "ＪＡいしのまきフォトコンテスト2026",
