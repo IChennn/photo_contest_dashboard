@@ -1,97 +1,7 @@
 {
-  "updatedAt": "2026-08-14T02:13:23Z",
+  "updatedAt": "2026-08-15T01:26:32Z",
   "count": 983,
   "contests": [
-    {
-      "id": "1613154221",
-      "name": "第33回 環境フォト・コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.president.co.jp/photocon/themes/",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年8月14日",
-      "prize": "30万円",
-      "notes": null
-    },
-    {
-      "id": "08fcc5a3dc",
-      "name": "令和8年度 串本町観光フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.kushimoto.wakayama.jp/kanko/photocontest/photocon_r2.html",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年8月14日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "106e013867",
-      "name": "第5回 ナチカツフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://nachikan.jp/news/9597/",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年8月14日",
-      "prize": "2万円",
-      "notes": null
-    },
-    {
-      "id": "5b1f756cf0",
-      "name": "平池緑地公園 蓮フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.kinokawa.lg.jp/037/2026-0601-1556-92.html",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年8月14日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "f11cf88d2b",
-      "name": "沖縄県建設業協会青年部会 第18回 フォトコンテスト～島の魅力～",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "http://www.okikenkyo.or.jp/entry.php?eid=341612",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年8月14日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "2ce8c50c07",
-      "name": "第33回 環境フォト・コンテスト 2027",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/president-kankyo-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/president-kankyo-photo-2026/",
-      "deadline": "2026-08-14",
-      "deadlineText": "2026年08月14日",
-      "prize": "30万円",
-      "notes": null
-    },
     {
       "id": "5aa309c675",
       "name": "カメラのキタムラ フォトコンテスト 2026 春夏",
@@ -2239,6 +2149,21 @@
       "notes": null
     },
     {
+      "id": "e531f4ebc1",
+      "name": "令和8年 ふじみ野市観光協会写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://fujiminokanko.jp/contest2026.html",
+      "deadline": "2026-08-31",
+      "deadlineText": "2026年8月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "b78fc0211e",
       "name": "白子町フォトコンテスト season4",
       "sources": [
@@ -3861,6 +3786,21 @@
       "deadline": "2026-09-06",
       "deadlineText": "2026年9月6日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "f84bf132ac",
+      "name": "あわら湯のまち三薬師・よるもうで フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yorumoude-awara.com/photocontest/",
+      "deadline": "2026-09-06",
+      "deadlineText": "2026年9月6日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -5569,6 +5509,21 @@
         }
       ],
       "entryUrl": "https://www.neec.ac.jp/project/contest/photo/2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年9月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "8ace51f9b6",
+      "name": "阪急交通社e-very25周年記念 フォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/Db2mw4Ijwxg/?img_index=1",
       "deadline": "2026-09-30",
       "deadlineText": "2026年9月30日",
       "prize": null,
@@ -8758,6 +8713,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "ae46b544a3",
+      "name": "令和8年度 親子で再発見！所沢郷土かるた写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tokorozawa.saitama.jp/kosodatekyouiku/kosodateoshirase/karutasyasin.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -12786,6 +12756,21 @@
       "notes": null
     },
     {
+      "id": "30344934cf",
+      "name": "明治安田しあわせフォトコン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.my-happiness.com/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "547bd61ece",
       "name": "第5回 ぴっぷ町フォトコンテスト",
       "sources": [
@@ -13027,6 +13012,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "a2b4a21c79",
+      "name": "第53回 度ふるさと根羽村フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://neba-nagano.com/?p=2192",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "50,000円",
       "notes": null
     },
     {
