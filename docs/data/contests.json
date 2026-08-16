@@ -1,97 +1,7 @@
 {
-  "updatedAt": "2026-08-15T01:26:32Z",
-  "count": 983,
+  "updatedAt": "2026-08-16T01:31:43Z",
+  "count": 980,
   "contests": [
-    {
-      "id": "5aa309c675",
-      "name": "カメラのキタムラ フォトコンテスト 2026 春夏",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kitamura.jp/contest/info/2026/SpringSummer/",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": "30万円",
-      "notes": null
-    },
-    {
-      "id": "fdfc86167f",
-      "name": "しょさんべつ天文台フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.vill.shosanbetsu.lg.jp/kankoumiryoku/tenmondai/photocontest/index.html",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "dedfc4cb4b",
-      "name": "＼SNSで繋がろう／夏をめぐる、2つのベイエリア横浜＆東京ベイ有明スペシャルフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://washington-hotels.jp/yokohama/page/sns_photocontest/",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c5fe1cfb0e",
-      "name": "高岡七夕まつり2026フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.takaoka.or.jp/feature/detail_239.html",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8c0920f33f",
-      "name": "第57回東海まつり花火大会フォトコン2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.tokaikanko.com/news/news_ooikepark/%E7%AC%AC57%E5%9B%9E%E6%9D%B1%E6%B5%B7%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B32026%E9%96%8B%E5%82%AC%EF%BC%81%EF%BC%81/",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": "3,000円",
-      "notes": null
-    },
-    {
-      "id": "7b39f1db9c",
-      "name": "第61回 天草ほんどハイヤ祭り インスタグラムフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://haiya.org/2026haiya/2026photoconinsta/",
-      "deadline": "2026-08-15",
-      "deadlineText": "2026年8月15日",
-      "prize": "1万円",
-      "notes": null
-    },
     {
       "id": "a0fe0500cb",
       "name": "2027年カレンダー 猫ちゃん＆ワンちゃん写真 募集キャンペーン",
@@ -3999,6 +3909,25 @@
       "notes": null
     },
     {
+      "id": "f2124379ba",
+      "name": "第27回 富士山写真大賞",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kawaguchiko-art-fujisan-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://www.fkchannel.jp/fuji-award",
+      "deadline": "2026-09-10",
+      "deadlineText": "2026年9月10日",
+      "prize": "20万円",
+      "notes": null
+    },
+    {
       "id": "e665d9fc91",
       "name": "第69回 葛飾区観光写真コンクール",
       "sources": [
@@ -4071,21 +4000,6 @@
       "deadline": "2026-09-10",
       "deadlineText": "2026年9月10日",
       "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "f2124379ba",
-      "name": "第27回 富士山写真大賞",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/kawaguchiko-art-fujisan-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/kawaguchiko-art-fujisan-photo-2026/",
-      "deadline": "2026-09-10",
-      "deadlineText": "2026年09月10日",
-      "prize": "20万円",
       "notes": null
     },
     {
@@ -7669,6 +7583,21 @@
       "notes": null
     },
     {
+      "id": "5ce355545f",
+      "name": "2026年 六甲高山植物園 写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.rokkosan.com/top/season_event/art/14413/",
+      "deadline": "2026-10-15",
+      "deadlineText": "2026年10月15日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "bfab6feeea",
       "name": "第2回 宮島ファンフォトコンテスト",
       "sources": [
@@ -7771,6 +7700,21 @@
       "deadline": "2026-10-16",
       "deadlineText": "2026年10月16日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "36d042cefd",
+      "name": "第29回 かしま伝承芸能フェスティバル フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://saga-kashima-kankou.com/news/34346",
+      "deadline": "2026-10-16",
+      "deadlineText": "2026年10月16日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -10699,6 +10643,21 @@
       "notes": null
     },
     {
+      "id": "7960a5371f",
+      "name": "第14回 福島市水林自然林フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://f-kenpokusinrin.or.jp/%E7%AC%AC14%E5%9B%9E-%E6%B0%B4%E6%9E%97%E3%83%95%E3%82%A9%E3%83%88%E3%82%B3%E3%83%B32026",
+      "deadline": "2026-12-10",
+      "deadlineText": "2026年12月10日",
+      "prize": "20,000円",
+      "notes": null
+    },
+    {
       "id": "82a31d3271",
       "name": "第6回 長生橋を愛する会主催 長生橋フォトコンテスト",
       "sources": [
@@ -11251,6 +11210,21 @@
       "deadline": "2026-12-25",
       "deadlineText": "2026年12月25日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "52560b5745",
+      "name": "そらはくフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sorahaku.net/event/photo_contest_2026/",
+      "deadline": "2026-12-25",
+      "deadlineText": "2026年12月25日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -13458,6 +13432,21 @@
       "notes": null
     },
     {
+      "id": "5e31c5627c",
+      "name": "阿寒湖フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://sbw946.com/scenic/photocon/2026/index.html",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "752dee901c",
       "name": "#セリオンフォトコン2026",
       "sources": [
@@ -14036,21 +14025,6 @@
       "notes": null
     },
     {
-      "id": "737611326b",
-      "name": "伊香保温泉×Wpc.「#Wpcと夏の伊香保旅 フォトコンテスト」",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9045"
-        }
-      ],
-      "entryUrl": "https://www.ikaho-kankou.com/wpc_photocontest/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "ba9425ac27",
       "name": "ビコムカレンダー2027鉄道写真募集",
       "sources": [
@@ -14510,21 +14484,6 @@
         }
       ],
       "entryUrl": "https://shifta.jp/article-detail/1065/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "793b6d1c5c",
-      "name": "第25回フィエスタ・メヒカーナ2026 in お台場 Tokyo「MEXICO写真コンテスト」",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8995"
-        }
-      ],
-      "entryUrl": "https://www.fiestamexicana-tokyo.com/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
