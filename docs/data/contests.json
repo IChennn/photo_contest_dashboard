@@ -1,15 +1,11 @@
 {
-  "updatedAt": "2026-08-22T01:25:21Z",
-  "count": 984,
+  "updatedAt": "2026-08-23T01:38:57Z",
+  "count": 982,
   "contests": [
     {
       "id": "04fde9c611",
       "name": "お盆っていいなフォトコンテスト2026",
       "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9043"
-        },
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
@@ -30,28 +26,20 @@
       "name": "海のフォトコンテスト「うみふぉと26」",
       "sources": [
         {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9018"
-        },
-        {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
         }
       ],
-      "entryUrl": "http://wwwtb.mlit.go.jp/tohoku/00001_00598.html",
+      "entryUrl": "https://wwwtb.mlit.go.jp/tohoku/00001_00598.html",
       "deadline": "2026-08-23",
       "deadlineText": "2026年8月23日",
       "prize": null,
       "notes": null
     },
     {
-      "id": "c937318369",
-      "name": "第12回石のある生活フォトコンテスト",
+      "id": "a02bbde1c3",
+      "name": "第12回　石のある生活フォトコンテスト",
       "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8936"
-        },
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
@@ -61,7 +49,7 @@
           "url": "https://compe.japandesign.ne.jp/sekistone-photo-2026/"
         }
       ],
-      "entryUrl": "https://www.hellostone.jp/",
+      "entryUrl": "https://www.sekistone.com/news/50518/",
       "deadline": "2026-08-23",
       "deadlineText": "2026年8月23日",
       "prize": "5万円",
@@ -14094,21 +14082,6 @@
       "notes": null
     },
     {
-      "id": "8ed9c8942b",
-      "name": "塩バナナを試そう！キャンペーン",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9050"
-        }
-      ],
-      "entryUrl": "https://www.hakatanoshio.co.jp/topics/shiobanana2026_08/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "42f6233807",
       "name": "あがのフォトコン",
       "sources": [
@@ -14553,21 +14526,6 @@
         }
       ],
       "entryUrl": "https://nasushiobara-kanko.jp/reports/3293/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "a0580c15c6",
-      "name": "SHIFTA presents \"フォトコンテスト\"",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8997"
-        }
-      ],
-      "entryUrl": "https://shifta.jp/article-detail/1065/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
