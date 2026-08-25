@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-24T01:30:12Z",
-  "count": 977,
+  "updatedAt": "2026-08-25T01:32:25Z",
+  "count": 984,
   "contests": [
-    {
-      "id": "a5536a071d",
-      "name": "2026年 青森ねぶた祭 写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.nebuta.jp/info/boshu/photo.html",
-      "deadline": "2026-08-24",
-      "deadlineText": "2026年8月24日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "4094ee1e7e",
-      "name": "第21回 セントレアフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.centrair.jp/event/enjoy/photo-contest/entry/entry.html",
-      "deadline": "2026-08-24",
-      "deadlineText": "2026年8月24日",
-      "prize": "2万円",
-      "notes": null
-    },
     {
       "id": "63de446ff4",
       "name": "万灯みたま祭フォトコンテスト",
@@ -4334,6 +4304,21 @@
       "notes": null
     },
     {
+      "id": "fab77d9744",
+      "name": "第11回 全国折り句コンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/oriku-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/oriku-2026/",
+      "deadline": "2026-09-25",
+      "deadlineText": "2026年09月25日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "f75d222d96",
       "name": "第29回 熊谷元一写真賞コンクール　テーマ部門",
       "sources": [
@@ -6329,6 +6314,21 @@
       "notes": null
     },
     {
+      "id": "da85f5eccb",
+      "name": "第17回 高校生デジタルフォトコンテスト《高校生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/highschool-digital-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/highschool-digital-photo-2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年09月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "0468bb5d17",
       "name": "～森村誠一記念～ 第15回 くまがや「写真俳句」コンテスト",
       "sources": [
@@ -7084,6 +7084,21 @@
       "notes": null
     },
     {
+      "id": "aa464800db",
+      "name": "令和8年度 写真コンクール「尾張横須賀・大田まつり」",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tokaikanko.com/news/news_info/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E3%80%80%E5%86%99%E7%9C%9F%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB%E3%80%8C%E5%B0%BE%E5%BC%B5%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%BB%E5%A4%A7%E7%94%B0%E3%81%BE/",
+      "deadline": "2026-10-15",
+      "deadlineText": "2026年10月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "944712f7e7",
       "name": "第38回 日野観光写真コンクール",
       "sources": [
@@ -7775,6 +7790,21 @@
       "deadline": "2026-10-30",
       "deadlineText": "2026年10月30日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "15f29d405e",
+      "name": "第68回 宝塚市展",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/",
+      "deadline": "2026-10-30",
+      "deadlineText": "2026年10月30日",
+      "prize": "7万円",
       "notes": null
     },
     {
@@ -8661,6 +8691,21 @@
       "notes": null
     },
     {
+      "id": "6c90a847af",
+      "name": "鞆の浦deARTフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tomonoura.com/tomodeart2024-photocontest/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "2803d01c06",
       "name": "広島ピースツーリズムフォトコンテスト",
       "sources": [
@@ -8703,6 +8748,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "328617f8df",
+      "name": "令和8年度 荒尾市男女共同参画フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.arao.lg.jp/oshirase/shisei/shisaku/danjyo-kyodo/7172.html",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -8974,6 +9034,21 @@
         }
       ],
       "entryUrl": "https://www.iwatochi.com/home%E7%94%A8/information/%E5%86%99%E7%9C%9F%E3%83%BB%E7%B5%B5%E7%94%BB%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB/photography-painting-competition/",
+      "deadline": "2026-11-06",
+      "deadlineText": "2026年11月6日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "8498ddaaf2",
+      "name": "横浜港客船フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.yokohama.lg.jp/kanko-bunka/minato/kyakusen/contest/cruisephoto2026.html",
       "deadline": "2026-11-06",
       "deadlineText": "2026年11月6日",
       "prize": null,
@@ -10437,6 +10512,21 @@
       "entryUrl": "https://www.emk.jp/photo/",
       "deadline": "2026-12-07",
       "deadlineText": "2026年12月7日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "e85b173037",
+      "name": "第7回 高野山麓いと楽しフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ito-tanoshi.com/event/contest/",
+      "deadline": "2026-12-09",
+      "deadlineText": "2026年12月9日",
       "prize": "5万円",
       "notes": null
     },
@@ -13204,6 +13294,21 @@
       "deadline": "2027-02-05",
       "deadlineText": "2027年2月5日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "b23f274381",
+      "name": "桜川市フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kankou-sakuragawa.jp/page/page001415.html",
+      "deadline": "2027-02-07",
+      "deadlineText": "2027年2月7日",
+      "prize": "2万円",
       "notes": null
     },
     {
