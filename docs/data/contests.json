@@ -1,41 +1,7 @@
 {
-  "updatedAt": "2026-09-05T03:40:30Z",
-  "count": 893,
+  "updatedAt": "2026-09-06T03:42:00Z",
+  "count": 890,
   "contests": [
-    {
-      "id": "cf70d2078b",
-      "name": "第39回 四季の山古志写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://nagaoka-navi.or.jp/event/42062",
-      "deadline": "2026-09-05",
-      "deadlineText": "2026年9月5日",
-      "prize": "100,000円",
-      "notes": null
-    },
-    {
-      "id": "6c6277452d",
-      "name": "東京アクアシンフォニーフォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9024"
-        },
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/tokyoaquasymphony-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://tokyoaquasymphony.jp/news/721/",
-      "deadline": "2026-09-06",
-      "deadlineText": "2026年09月06日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "52deb6615b",
       "name": "東武トップツアーズ 夏のフォトコンテスト2026(Instagram)",
@@ -124,6 +90,21 @@
       "deadline": "2026-09-06",
       "deadlineText": "2026年09月06日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "6c6277452d",
+      "name": "東京アクアシンフォニーフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tokyoaquasymphony-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tokyoaquasymphony-photo-2026/",
+      "deadline": "2026-09-06",
+      "deadlineText": "2026年09月06日",
+      "prize": null,
       "notes": null
     },
     {
@@ -13124,21 +13105,6 @@
       "notes": null
     },
     {
-      "id": "96a1fb63cd",
-      "name": "【東武トップツアーズ】夏のフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9029"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/Da5LGdJEkAB/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
       "id": "1c6988cb72",
       "name": "第6回 亜細亜大学 高校生アジアフォトコンテスト",
       "sources": [
@@ -13523,21 +13489,6 @@
         }
       ],
       "entryUrl": "https://norypeace.wixsite.com/heartbeat",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "5732a72036",
-      "name": "第9回 学生短編映画祭 FFF-S",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/8928"
-        }
-      ],
-      "entryUrl": "https://www.fellow-s.co.jp/fff-s/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
