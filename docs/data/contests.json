@@ -1,127 +1,7 @@
 {
-  "updatedAt": "2026-09-13T03:59:13Z",
-  "count": 909,
+  "updatedAt": "2026-09-14T04:06:38Z",
+  "count": 903,
   "contests": [
-    {
-      "id": "36dcfc1ccc",
-      "name": "こんなところにも電気の設備 フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.ieiej.or.jp/news/20260424111709.html",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "08fee8934b",
-      "name": "第16回『撮』っておきのみしま町フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.yuruibata.jp/news/2026/post-9252/",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "4fba936c10",
-      "name": "むさしの村大好きっ子フォトコンテスト2026夏",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.musashinomura.co.jp/events/photocontest/",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "54e29b204a",
-      "name": "国際湿地都市 NIIGATA Instagramフォトコンテスト（春・夏）",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.niigata-satokata.com/info/event/20325/",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "dcb145f9da",
-      "name": "第1回 師崎港観光センター フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://morozakikou.com/event/photocontest/",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": "3,000円",
-      "notes": null
-    },
-    {
-      "id": "a95b4cab0b",
-      "name": "第5回 関西サイクルスポーツセンターフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.kcsc.or.jp/event/detail/64",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": "30,000円",
-      "notes": null
-    },
-    {
-      "id": "d16d7ac541",
-      "name": "念仏踊りフォトコンテスト2026inGOTO",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.goto.nagasaki.jp/geopark/200/020/nenbutsuodoriphotokon.html",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年9月13日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "a65943a257",
-      "name": "第2回 つるおか恋する一句 フォト＆川柳募集",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/tsuruoka-koisuru-photo-senryu-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/tsuruoka-koisuru-photo-senryu-2026/",
-      "deadline": "2026-09-13",
-      "deadlineText": "2026年09月13日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "bdff3238d6",
       "name": "第5回 TAMRON フォトコンテスト 2026",
@@ -3310,6 +3190,21 @@
       "notes": null
     },
     {
+      "id": "88e217516b",
+      "name": "#私のトッ韓国 フォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tto-korea-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/tto-korea-photo-2026/",
+      "deadline": "2026-09-30",
+      "deadlineText": "2026年09月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "0468bb5d17",
       "name": "～森村誠一記念～ 第15回 くまがや「写真俳句」コンテスト",
       "sources": [
@@ -4794,6 +4689,21 @@
       "deadline": "2026-10-21",
       "deadlineText": "2026年10月21日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "d223babd78",
+      "name": "第40回 ふれあいフォトコンクール",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/aichi-fukushi-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/aichi-fukushi-photo-2026/",
+      "deadline": "2026-10-23",
+      "deadlineText": "2026年10月23日",
+      "prize": "5万円",
       "notes": null
     },
     {
