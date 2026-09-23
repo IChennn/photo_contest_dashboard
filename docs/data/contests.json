@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T04:02:45Z",
-  "count": 919,
+  "updatedAt": "2026-09-23T04:00:18Z",
+  "count": 926,
   "contests": [
     {
       "id": "964a75c70e",
@@ -5506,6 +5506,21 @@
       "notes": null
     },
     {
+      "id": "49e6b57e09",
+      "name": "津屋川のひがん花まつりフォトコンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kaizu.lg.jp/kanko/cmsfiles/contents/0000000/478/foto.pdf",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "2f329d4232",
       "name": "Port of Shimizu フォトコンテスト2026",
       "sources": [
@@ -6493,6 +6508,21 @@
       "notes": null
     },
     {
+      "id": "078a50606d",
+      "name": "第18回 ふなばし三番瀬海浜公園フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sambanze.jp/competition/index.html",
+      "deadline": "2026-11-10",
+      "deadlineText": "2026年11月10日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "801451eca8",
       "name": "奥飛騨温泉郷フォトコンテスト 2026年度(第1回 秋回)",
       "sources": [
@@ -6778,6 +6808,21 @@
       "notes": null
     },
     {
+      "id": "2db33295f0",
+      "name": "鶴舞公園 SNS投稿キャンペーン秋まつり2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tsurumapark.info/news/3603/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "13de9ee8f2",
       "name": "第11回 九州川の風景フォトコンテスト 夏・秋部門",
       "sources": [
@@ -7034,6 +7079,21 @@
       "deadline": "2026-11-23",
       "deadlineText": "2026年11月23日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "fef953c9dd",
+      "name": "秋の宮城・山形3地域Instagram投稿キャンペーン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yamagata-kouiki.info/log/?l=560597",
+      "deadline": "2026-11-23",
+      "deadlineText": "2026年11月23日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -7891,6 +7951,21 @@
       "notes": null
     },
     {
+      "id": "463b55d69d",
+      "name": "#四日市には港がある2026 Instagramフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yokkaichi-port.or.jp/photoR8.html",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "82bcb34dee",
       "name": "第6回 長浜鉄道スクエア 鉄道写真コンテスト",
       "sources": [
@@ -8668,6 +8743,21 @@
       "notes": null
     },
     {
+      "id": "2a2d25a8b4",
+      "name": "天童秋まつりフォトコンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tendo.yamagata.jp/tourism/event/R8_photo_omote.pdf",
+      "deadline": "2026-12-07",
+      "deadlineText": "2026年12月7日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "a5852e603d",
       "name": "第11回 いなべ市観光写真コンテスト",
       "sources": [
@@ -8924,6 +9014,21 @@
       "deadline": "2026-12-11",
       "deadlineText": "2026年12月11日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "8957f23f29",
+      "name": "中山道鵜沼宿まつり フォトコンテスト(PDF)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/028/479/8fotokonnoubo.pdf",
+      "deadline": "2026-12-12",
+      "deadlineText": "2026年12月12日",
+      "prize": null,
       "notes": null
     },
     {
@@ -13139,6 +13244,21 @@
       "notes": null
     },
     {
+      "id": "26bb677017",
+      "name": "第14回 大宮八幡宮 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ohmiya-hachimangu.or.jp/4224",
+      "deadline": "2027-07-31",
+      "deadlineText": "2027年7月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "9f15ef9cb8",
       "name": "JAみなみ信州 2028オリジナルカレンダー 写真コンテスト",
       "sources": [
@@ -13628,21 +13748,6 @@
         }
       ],
       "entryUrl": "https://www.neec.ac.jp/project/contest/photo/2026/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "1c6988cb72",
-      "name": "第6回 亜細亜大学 高校生アジアフォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9028"
-        }
-      ],
-      "entryUrl": "https://www.asia-u.ac.jp/contribution/learning_opportunity/photocon/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
