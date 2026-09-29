@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-09-28T04:29:56Z",
-  "count": 927,
+  "updatedAt": "2026-09-29T04:59:30Z",
+  "count": 933,
   "contests": [
-    {
-      "id": "9c8757723a",
-      "name": "しまうま出版 野鳥フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://publish.n-pri.jp/campaign/20260901_photo_contest",
-      "deadline": "2026-09-28",
-      "deadlineText": "2026年9月28日",
-      "prize": "10,000円",
-      "notes": null
-    },
-    {
-      "id": "853d768e97",
-      "name": "日本鱗翅学会 チョウとガ フォトコンテスト／イラスト・アートコンテスト 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/lepi-jp-photo-illust-art-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/lepi-jp-photo-illust-art-2026/",
-      "deadline": "2026-09-28",
-      "deadlineText": "2026年09月28日",
-      "prize": "2万円",
-      "notes": null
-    },
     {
       "id": "5d8729d3ef",
       "name": "コスモスフォトコンテスト",
@@ -3673,6 +3643,21 @@
       "notes": null
     },
     {
+      "id": "64fd32b00b",
+      "name": "ふれあいフェスタ2026 新宿フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shinjuku-fureai2026.smartcontest.digital/contest/index/1",
+      "deadline": "2026-10-18",
+      "deadlineText": "2026年10月18日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d02a4304c3",
       "name": "西肥バスフォトコンテスト",
       "sources": [
@@ -6776,6 +6761,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/saitama-trust-photo-movie-2026/"
         }
       ],
       "entryUrl": "https://www.pref.saitama.lg.jp/a0508/27trust.html",
@@ -7919,6 +7908,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/tobiseiban-instagram-photo-2026/"
         }
       ],
       "entryUrl": "https://tobiseiban.mypl.net/conference_toubiseiban/?cmd=photocontest_r8_1",
@@ -9257,6 +9250,21 @@
       "notes": null
     },
     {
+      "id": "bdb331b3e9",
+      "name": "藤枝市景観写真コンクール2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.fujieda.shizuoka.jp/soshiki/toshikensetsu/toshiseisaku/gyomu/keikan/1539739651098.html",
+      "deadline": "2026-12-18",
+      "deadlineText": "2026年12月18日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "8d417d9f34",
       "name": "国府よいとこ観光キャンペーン2026フォトコンテスト",
       "sources": [
@@ -9452,6 +9460,21 @@
       "notes": null
     },
     {
+      "id": "df46b71b40",
+      "name": "MIKI CHO PHOTO CONTEST 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mikicho-kanko.com/topics/4886.html",
+      "deadline": "2026-12-21",
+      "deadlineText": "2026年12月21日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "f53efae031",
       "name": "第18回 にっこり写真コンクール",
       "sources": [
@@ -9509,6 +9532,36 @@
       "deadline": "2026-12-25",
       "deadlineText": "2026年12月25日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "366a9b9c00",
+      "name": "第13回 土浦の花火フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tsuchiura-hanabi.jp/page/page000318.html",
+      "deadline": "2026-12-25",
+      "deadlineText": "2026年12月25日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "5868b49f4f",
+      "name": "第13回 土浦の花火フォトコンテスト（エキシビジョン［データ提出］部門）",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tsuchiura-hanabi.jp/page/page000318.html",
+      "deadline": "2026-12-25",
+      "deadlineText": "2026年12月25日",
+      "prize": null,
       "notes": null
     },
     {
@@ -12129,6 +12182,21 @@
       "notes": null
     },
     {
+      "id": "ed68e51bfe",
+      "name": "「未来へ残したい湖国・滋賀」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.shiga.lg.jp/sc00/press-release/33262.html",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "1a9c5cd6ed",
       "name": "令和8年度 あやべ観光デジタルフォトコンクール",
       "sources": [
@@ -12246,6 +12314,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "c23149480a",
+      "name": "小豆島フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shodoshima.or.jp/news/detail.php?id=765",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -13121,6 +13204,21 @@
       "deadline": "2027-04-30",
       "deadlineText": "2027年4月30日",
       "prize": "8万円",
+      "notes": null
+    },
+    {
+      "id": "307e8bdcbb",
+      "name": "第3回 美和町フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://miwa-kankou.com/?p=1160",
+      "deadline": "2027-04-30",
+      "deadlineText": "2027年4月30日",
+      "prize": "1万円",
       "notes": null
     },
     {
