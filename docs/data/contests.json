@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T04:30:17Z",
-  "count": 806,
+  "updatedAt": "2026-10-04T05:02:12Z",
+  "count": 816,
   "contests": [
     {
       "id": "fb36bdae3e",
@@ -2208,6 +2208,21 @@
       "notes": null
     },
     {
+      "id": "77513ff0fe",
+      "name": "第17回 顔フォト！コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kao-photo.jimdofree.com/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d870712667",
       "name": "愛犬とお出かけ北海道 フォトコンテスト",
       "sources": [
@@ -3075,6 +3090,21 @@
       "notes": null
     },
     {
+      "id": "7d052c50ee",
+      "name": "北房コスモスフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.maniwa.or.jp/web/?c=event-2&pk=670",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "eabadeb06d",
       "name": "呉フォトコンテスト2026",
       "sources": [
@@ -3117,6 +3147,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "aed43f40fd",
+      "name": "はつかいちフォトコン2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://761.jp/hatsukaichi-photo-contest2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "16,390円",
       "notes": null
     },
     {
@@ -3773,6 +3818,21 @@
       "notes": null
     },
     {
+      "id": "d4ae60bab6",
+      "name": "南陽の菊まつりフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nanyo-kiku.jp/topics/%e3%80%90%e5%8d%97%e9%99%bd%e3%81%ae%e8%8f%8a%e3%81%be%e3%81%a4%e3%82%8a%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%91/",
+      "deadline": "2026-11-08",
+      "deadlineText": "2026年11月8日",
+      "prize": "10,000円",
+      "notes": null
+    },
+    {
       "id": "2fdf89353f",
       "name": "ピンクリボンライトアップ2026 inかながわ フォトコンテスト",
       "sources": [
@@ -4115,6 +4175,21 @@
       "deadline": "2026-11-13",
       "deadlineText": "2026年11月13日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "3020cfc8d7",
+      "name": "ダイアベティス フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://diabetes-blue.com/",
+      "deadline": "2026-11-14",
+      "deadlineText": "2026年11月14日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -4509,6 +4584,21 @@
       "deadline": "2026-11-20",
       "deadlineText": "2026年11月20日",
       "prize": "4万円",
+      "notes": null
+    },
+    {
+      "id": "a08c6fa31f",
+      "name": "野付半島フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://notsuke.jp/information/7272",
+      "deadline": "2026-11-21",
+      "deadlineText": "2026年11月21日",
+      "prize": null,
       "notes": null
     },
     {
@@ -5003,6 +5093,36 @@
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "a6a8b5b5b6",
+      "name": "暮らしとくるまテラスフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kurashi-kuruma.com/article/2026100133777",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "7万円",
+      "notes": null
+    },
+    {
+      "id": "c43c5cbf10",
+      "name": "AUTUMN PHOTO CONTEST",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.every-photo.com/html/2026_autumn/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6560,6 +6680,21 @@
       "notes": null
     },
     {
+      "id": "79c7d3ae02",
+      "name": "箕面公園 #R8もみじまつり写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://minohkankou.net/information/momiji-matsuri/",
+      "deadline": "2026-12-06",
+      "deadlineText": "2026年12月6日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "0cdd345c35",
       "name": "やまぐちローカル線Instagramフォトコンテスト",
       "sources": [
@@ -7270,6 +7405,21 @@
       "deadline": "2026-12-18",
       "deadlineText": "2026年12月18日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "ce2e7b4362",
+      "name": "GR PHOTO FESTIVAL 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ricoh-imaging.com/jp/grphotofestival/2026/",
+      "deadline": "2026-12-20",
+      "deadlineText": "2026年12月20日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8013,6 +8163,21 @@
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "9a7d52bcd5",
+      "name": "第15回 あげお良いとこ探しフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ageo-photocontest.mitte-x.istsw.jp/index.html?cn=252",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -11959,21 +12124,6 @@
         }
       ],
       "entryUrl": "https://agano-spot.com/archives/2794",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "ba9425ac27",
-      "name": "ビコムカレンダー2027鉄道写真募集",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9044"
-        }
-      ],
-      "entryUrl": "https://www.vicom.co.jp/ex/202612/calendar/",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
