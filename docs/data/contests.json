@@ -1,82 +1,7 @@
 {
-  "updatedAt": "2026-10-04T05:02:12Z",
-  "count": 816,
+  "updatedAt": "2026-10-05T04:49:32Z",
+  "count": 812,
   "contests": [
-    {
-      "id": "fb36bdae3e",
-      "name": "ラリー北海道フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.rally-hokkaido.com/jp/?page_id=16526",
-      "deadline": "2026-10-04",
-      "deadlineText": "2026年10月4日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "48ed269482",
-      "name": "埼玉は川イイ！フォト＆動画コンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://saitama-riversupporters.pref.saitama.lg.jp/news/photovideocontest2026/",
-      "deadline": "2026-10-04",
-      "deadlineText": "2026年10月4日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "56cb708ef9",
-      "name": "ビワイチ・フォトコン",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.pref.shiga.lg.jp/ippan/shigotosangyou/kanko/biwaichiphoto.html",
-      "deadline": "2026-10-04",
-      "deadlineText": "2026年10月4日",
-      "prize": "3万円",
-      "notes": null
-    },
-    {
-      "id": "2eb0af820f",
-      "name": "令和8年度 第45回塩尻写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://tokimeguri.jp/photo/r8-siojiriphoto/",
-      "deadline": "2026-10-04",
-      "deadlineText": "2026年10月4日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "83cc5de0ac",
-      "name": "2026年そばの花フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kayabukinosato.jp/news/11443/",
-      "deadline": "2026-10-04",
-      "deadlineText": "2026年10月4日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "a6dda26601",
       "name": "第12回 安房地域ふるさと農山漁村写真コンクール",
@@ -1069,6 +994,21 @@
       "notes": null
     },
     {
+      "id": "b945dd43b6",
+      "name": "品川区民作品展 2026 「しながわ みんなの展覧会」",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/shinagawa-sakuhinten-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/shinagawa-sakuhinten-2026/",
+      "deadline": "2026-10-16",
+      "deadlineText": "2026年10月16日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "ece50b9125",
       "name": "神奈川県美術展 2027 作品募集",
       "sources": [
@@ -1966,21 +1906,6 @@
       "notes": null
     },
     {
-      "id": "15f29d405e",
-      "name": "第68回 宝塚市展",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/",
-      "deadline": "2026-10-30",
-      "deadlineText": "2026年10月30日",
-      "prize": "7万円",
-      "notes": null
-    },
-    {
       "id": "aff0c9349e",
       "name": "第10回 クルマのある風景 フォトコンテスト《小学生限定》",
       "sources": [
@@ -1993,6 +1918,21 @@
       "deadline": "2026-10-30",
       "deadlineText": "2026年10月30日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "15f29d405e",
+      "name": "第68回 宝塚市展",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/takarazuka-c-shiten-2026/",
+      "deadline": "2026-10-30",
+      "deadlineText": "2026年10月30日",
+      "prize": "7万円",
       "notes": null
     },
     {
