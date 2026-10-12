@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T04:51:31Z",
-  "count": 830,
+  "updatedAt": "2026-10-12T05:07:36Z",
+  "count": 837,
   "contests": [
     {
       "id": "46ea73a1df",
@@ -2958,6 +2958,21 @@
       "notes": null
     },
     {
+      "id": "fa888a0171",
+      "name": "TOUCH & GO タッチアンドゴー フォトコンテスト(第1弾)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shimojishima-coralhotel.com/touch-and-go-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "20,000円",
+      "notes": null
+    },
+    {
       "id": "075f9f0fca",
       "name": "令和8年度 応用地質フォトコンテスト",
       "sources": [
@@ -3893,6 +3908,21 @@
       "deadline": "2026-11-13",
       "deadlineText": "2026年11月13日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "227ad76be5",
+      "name": "第18回 たどつ写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.tadotsu.kagawa.jp/soshikikarasagasu/sangyoka/kanko/2808.html",
+      "deadline": "2026-11-13",
+      "deadlineText": "2026年11月13日",
+      "prize": "20,000円",
       "notes": null
     },
     {
@@ -6229,6 +6259,21 @@
       "notes": null
     },
     {
+      "id": "a019ce887c",
+      "name": "TOUCH & GO タッチアンドゴー フォトコンテスト(第2弾)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shimojishima-coralhotel.com/touch-and-go-2026/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "20,000円",
+      "notes": null
+    },
+    {
       "id": "e8dc8870db",
       "name": "8th All Japan Art Competition（第8回 全日本芸術公募展）",
       "sources": [
@@ -6346,6 +6391,21 @@
       "deadline": "2026-12-01",
       "deadlineText": "2026年12月1日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "0306793898",
+      "name": "エプソンジャパン協賛フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ganref.jp/common/photo_contests/epson2610/",
+      "deadline": "2026-12-01",
+      "deadlineText": "2026年12月1日",
+      "prize": "3万円",
       "notes": null
     },
     {
@@ -9205,6 +9265,21 @@
       "notes": null
     },
     {
+      "id": "25bd646255",
+      "name": "第24回 港区観光フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://visit-minato.mitte-x.istsw.jp/index.html?cn=255",
+      "deadline": "2027-01-11",
+      "deadlineText": "2027年1月11日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "b811707a61",
       "name": "Instagramフォトコンテスト「SNAP ENSHU NEO（スナップエンシュウ ネオ）」",
       "sources": [
@@ -9356,6 +9431,21 @@
       "deadline": "2027-01-12",
       "deadlineText": "2027年1月12日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "67317a1cb4",
+      "name": "令和8年 城南市民センター写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://jonan-c.net/events/event/8868/",
+      "deadline": "2027-01-12",
+      "deadlineText": "2027年1月12日",
+      "prize": null,
       "notes": null
     },
     {
@@ -10790,6 +10880,21 @@
       "notes": null
     },
     {
+      "id": "0e5bd2f59c",
+      "name": "TOUCH & GO タッチアンドゴー フォトコンテスト(第3弾)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://shimojishima-coralhotel.com/touch-and-go-2026/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "20,000円",
+      "notes": null
+    },
+    {
       "id": "01a880e70f",
       "name": "新進アーティスト作品展 vol.25　Art Generation 2027",
       "sources": [
@@ -11725,6 +11830,21 @@
       "notes": null
     },
     {
+      "id": "bc7d196e00",
+      "name": "京王線・井の頭線 沿線風景 2026-2027 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.keio.co.jp/area/event/photo-contest/",
+      "deadline": "2027-06-15",
+      "deadlineText": "2027年6月15日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "47cd7d02da",
       "name": "武田八幡宮フォトコンテスト",
       "sources": [
@@ -12394,21 +12514,6 @@
         }
       ],
       "entryUrl": "https://ito-tanoshi.com/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "c305e15bcd",
-      "name": "第５回「静岡の海」フォトコンテスト",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9025"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/Da_tcKElKxe/?img_index=1",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
