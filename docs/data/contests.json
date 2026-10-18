@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-10-17T03:38:26Z",
-  "count": 813,
+  "updatedAt": "2026-10-18T03:45:00Z",
+  "count": 811,
   "contests": [
-    {
-      "id": "d5c9704c63",
-      "name": "田瀬うらうらフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.hanamaki.iwate.jp/shisei/chiiki/1008205/1025723.html",
-      "deadline": "2026-10-17",
-      "deadlineText": "2026年10月17日",
-      "prize": "1万円",
-      "notes": null
-    },
     {
       "id": "b1828c349e",
       "name": "自慢の「うちの子」ペットフォトコンテスト2026",
@@ -11843,21 +11828,6 @@
         }
       ],
       "entryUrl": "https://gun-sousei.com/1544/",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "480a9621b7",
-      "name": "伯方の塩チャレンジキャンペーン",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9085"
-        }
-      ],
-      "entryUrl": "https://x.com/hakataengyo/status/2100783023893725366",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
