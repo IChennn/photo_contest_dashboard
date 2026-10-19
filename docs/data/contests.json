@@ -1,112 +1,7 @@
 {
-  "updatedAt": "2026-10-18T03:45:00Z",
-  "count": 811,
+  "updatedAt": "2026-10-19T03:55:23Z",
+  "count": 814,
   "contests": [
-    {
-      "id": "b1828c349e",
-      "name": "自慢の「うちの子」ペットフォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.fujifilm.com/jp/ja/consumer/events/14783",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8afd550eea",
-      "name": "会津若松市北地区 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://note.com/eiwa_wellbeing/n/n8d8f2119e1b9",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "734e961215",
-      "name": "秩父の四季探訪 2026写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.chichibu-cci.or.jp/category.php?id=115",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8dc7413750",
-      "name": "四季の香ローズガーデン2026 Instagramフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.shikinokaori-rose-garden.com/event/10832/",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "64fd32b00b",
-      "name": "ふれあいフェスタ2026 新宿フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://shinjuku-fureai2026.smartcontest.digital/contest/index/1",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "d02a4304c3",
-      "name": "西肥バスフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.bus.saihigroup.co.jp/information/49746.html",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "023a0c5e6f",
-      "name": "「わたしの知名町」フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.china.lg.jp/soshiki/1002/13/1/3198.html",
-      "deadline": "2026-10-18",
-      "deadlineText": "2026年10月18日",
-      "prize": "2万円",
-      "notes": null
-    },
     {
       "id": "36986e947a",
       "name": "2026年 第8回 キヤノン マンスリーフォトコンテスト",
@@ -874,21 +769,6 @@
       "notes": null
     },
     {
-      "id": "aff0c9349e",
-      "name": "第10回 クルマのある風景 フォトコンテスト《小学生限定》",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/kkc-kuruma-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/kkc-kuruma-photo-2026/",
-      "deadline": "2026-10-30",
-      "deadlineText": "2026年10月30日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
       "id": "15f29d405e",
       "name": "第68回 宝塚市展",
       "sources": [
@@ -901,6 +781,21 @@
       "deadline": "2026-10-30",
       "deadlineText": "2026年10月30日",
       "prize": "7万円",
+      "notes": null
+    },
+    {
+      "id": "aff0c9349e",
+      "name": "第10回 クルマのある風景 フォトコンテスト《小学生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/kkc-kuruma-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/kkc-kuruma-photo-2026/",
+      "deadline": "2026-10-30",
+      "deadlineText": "2026年10月30日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -2283,33 +2178,18 @@
       "notes": null
     },
     {
-      "id": "ebe7cc39aa",
-      "name": "2026 韓国訪問写真コンテスト",
+      "id": "075f9f0fca",
+      "name": "令和8年度 応用地質フォトコンテスト",
       "sources": [
         {
           "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/mofa-korea-photo-2026/"
+          "url": "https://compe.japandesign.ne.jp/jseg-photo-2026/"
         }
       ],
-      "entryUrl": "https://compe.japandesign.ne.jp/mofa-korea-photo-2026/",
+      "entryUrl": "https://compe.japandesign.ne.jp/jseg-photo-2026/",
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "fb807bc690",
-      "name": "青山フラワーマーケット　AFMAC アートコンペ 2027 SPRING",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/aoyamaflowermarket-ac-spr-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/aoyamaflowermarket-ac-spr-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "10万円",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -2328,81 +2208,6 @@
       "notes": null
     },
     {
-      "id": "db8b9d1f36",
-      "name": "JMA MAKEUP PHOTO CONTEST 2026《学生限定》",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/jma-makeup-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/jma-makeup-photo-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "075f9f0fca",
-      "name": "令和8年度 応用地質フォトコンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/jseg-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/jseg-photo-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "2万円",
-      "notes": null
-    },
-    {
-      "id": "ff5286abfa",
-      "name": "豊富温泉開湯100周年記念 とよとみフォトコンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "710e09efce",
-      "name": "フォトコンテスト モニュメントのある風景 2026",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/monumentfactory-hokkai-photo-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/monumentfactory-hokkai-photo-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "f6e17cbe04",
-      "name": "第48回 よみうり写真大賞　中高生フォト部門《中・高校生限定》",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/",
-      "deadline": "2026-10-31",
-      "deadlineText": "2026年10月31日",
-      "prize": "15万円",
-      "notes": null
-    },
-    {
       "id": "6705c586e9",
       "name": "なないろ備前フォトコンテスト －備前を彩る、七つの町の景色－",
       "sources": [
@@ -2415,6 +2220,21 @@
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "bbd445134f",
+      "name": "未来をひらく若手写真家のための舞台「Limelight 2026」",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/fotopus-limelight-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/fotopus-limelight-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
       "notes": null
     },
     {
@@ -2433,6 +2253,51 @@
       "notes": null
     },
     {
+      "id": "fb807bc690",
+      "name": "青山フラワーマーケット　AFMAC アートコンペ 2027 SPRING",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/aoyamaflowermarket-ac-spr-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/aoyamaflowermarket-ac-spr-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "db8b9d1f36",
+      "name": "JMA MAKEUP PHOTO CONTEST 2026《学生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/jma-makeup-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/jma-makeup-photo-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "ebe7cc39aa",
+      "name": "2026 韓国訪問写真コンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/mofa-korea-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/mofa-korea-photo-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d3b00e63fb",
       "name": "むしむし写真コンテスト 2026",
       "sources": [
@@ -2448,18 +2313,48 @@
       "notes": null
     },
     {
-      "id": "bbd445134f",
-      "name": "未来をひらく若手写真家のための舞台「Limelight 2026」",
+      "id": "f6e17cbe04",
+      "name": "第48回 よみうり写真大賞　中高生フォト部門《中・高校生限定》",
       "sources": [
         {
           "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/fotopus-limelight-2026/"
+          "url": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/"
         }
       ],
-      "entryUrl": "https://compe.japandesign.ne.jp/fotopus-limelight-2026/",
+      "entryUrl": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/",
       "deadline": "2026-10-31",
       "deadlineText": "2026年10月31日",
-      "prize": null,
+      "prize": "15万円",
+      "notes": null
+    },
+    {
+      "id": "710e09efce",
+      "name": "フォトコンテスト モニュメントのある風景 2026",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/monumentfactory-hokkai-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/monumentfactory-hokkai-photo-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "ff5286abfa",
+      "name": "豊富温泉開湯100周年記念 とよとみフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/toyotomi-onsen-100th-photo-2026/",
+      "deadline": "2026-10-31",
+      "deadlineText": "2026年10月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -2978,6 +2873,21 @@
       "deadline": "2026-11-08",
       "deadlineText": "2026年11月8日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "ade258cad8",
+      "name": "たけはら町並み竹灯り 憧憬の路フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yamawaki.co.jp/takeharashoukeinomichi/",
+      "deadline": "2026-11-08",
+      "deadlineText": "2026年11月8日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -3589,6 +3499,10 @@
       "name": "いっしょにえほん 写真コンテスト2026",
       "sources": [
         {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9081"
+        },
+        {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
         }
@@ -3642,6 +3556,21 @@
       "deadline": "2026-11-16",
       "deadlineText": "2026年11月16日",
       "prize": "13,000円",
+      "notes": null
+    },
+    {
+      "id": "d38c17cbf3",
+      "name": "あなたの好きな日南を撮ろう フォトキャンペーン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://nichinan-photo.jp/",
+      "deadline": "2026-11-16",
+      "deadlineText": "2026年11月16日",
+      "prize": null,
       "notes": null
     },
     {
@@ -3788,21 +3717,6 @@
       "notes": null
     },
     {
-      "id": "490940f092",
-      "name": "「こんなところに！セラミックス」 静止画・動画コンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/ceramic-stillimage-movie-2026-2/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/ceramic-stillimage-movie-2026-2/",
-      "deadline": "2026-11-20",
-      "deadlineText": "2026年11月20日",
-      "prize": "4万円",
-      "notes": null
-    },
-    {
       "id": "539dcc0738",
       "name": "サイレントフィルム基金（作品制作資金助成） 対象者募集",
       "sources": [
@@ -3818,6 +3732,21 @@
       "notes": null
     },
     {
+      "id": "490940f092",
+      "name": "「こんなところに！セラミックス」 静止画・動画コンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/ceramic-stillimage-movie-2026-2/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/ceramic-stillimage-movie-2026-2/",
+      "deadline": "2026-11-20",
+      "deadlineText": "2026年11月20日",
+      "prize": "4万円",
+      "notes": null
+    },
+    {
       "id": "a08c6fa31f",
       "name": "野付半島フォトコンテスト2026",
       "sources": [
@@ -3827,6 +3756,21 @@
         }
       ],
       "entryUrl": "https://notsuke.jp/information/7272",
+      "deadline": "2026-11-21",
+      "deadlineText": "2026年11月21日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "0c9916c3c9",
+      "name": "2026（第12回）長野県木祖村 紅葉のフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kisotourism.com/photo/2026%ef%bc%88%e7%ac%ac12%e5%9b%9e%ef%bc%89%e9%95%b7%e9%87%8e%e7%9c%8c%e6%9c%a8%e7%a5%96%e6%9d%91%e3%80%80%e7%b4%85%e8%91%89%e3%81%ae%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/",
       "deadline": "2026-11-21",
       "deadlineText": "2026年11月21日",
       "prize": null,
@@ -4595,6 +4539,21 @@
         }
       ],
       "entryUrl": "https://chuzenjiko-cruise.com/images/news/2026_photocon_autumn.pdf",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "cd3c275a05",
+      "name": "奥日光フォトコン2026秋(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/discover_okunikko/p/Dduk1htkwmC/?img_index=1",
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": null,
@@ -5783,6 +5742,21 @@
       "notes": null
     },
     {
+      "id": "a6e68ef2b6",
+      "name": "第18回 藤原ナチュラルヒストリーフォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/fujiwara-nh-photo-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/fujiwara-nh-photo-2026/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "5万円",
+      "notes": null
+    },
+    {
       "id": "2c4e0a77ac",
       "name": "これぞ、やまなし写真・動画コンテスト",
       "sources": [
@@ -5795,36 +5769,6 @@
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": "10万円",
-      "notes": null
-    },
-    {
-      "id": "3e8d5aa17d",
-      "name": "第41回 東北建築フォーラム 2026　中学生・高校生「未来のエスキースを描く」コンクール《中・高校生限定》",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/arch-tohtech-esquisse-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/arch-tohtech-esquisse-2026/",
-      "deadline": "2026-11-30",
-      "deadlineText": "2026年11月30日",
-      "prize": "7万円",
-      "notes": null
-    },
-    {
-      "id": "e8dc8870db",
-      "name": "8th All Japan Art Competition（第8回 全日本芸術公募展）",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/alljapanart-2026/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/alljapanart-2026/",
-      "deadline": "2026-11-30",
-      "deadlineText": "2026年11月30日",
-      "prize": "110万円",
       "notes": null
     },
     {
@@ -5858,6 +5802,21 @@
       "notes": null
     },
     {
+      "id": "3e8d5aa17d",
+      "name": "第41回 東北建築フォーラム 2026　中学生・高校生「未来のエスキースを描く」コンクール《中・高校生限定》",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/arch-tohtech-esquisse-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/arch-tohtech-esquisse-2026/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "7万円",
+      "notes": null
+    },
+    {
       "id": "bf891b2970",
       "name": "第7回 それぞれの宙を見上げて 星空フォトコンテスト 2026",
       "sources": [
@@ -5885,6 +5844,21 @@
       "deadline": "2026-11-30",
       "deadlineText": "2026年11月30日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "e8dc8870db",
+      "name": "8th All Japan Art Competition（第8回 全日本芸術公募展）",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/alljapanart-2026/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/alljapanart-2026/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": "110万円",
       "notes": null
     },
     {
@@ -5994,6 +5968,21 @@
       "deadline": "2026-12-03",
       "deadlineText": "2026年12月03日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "9408ecbd5f",
+      "name": "第5回 Webikeフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.webike.net/special/community/photo-contest/",
+      "deadline": "2026-12-03",
+      "deadlineText": "2026年12月3日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6131,6 +6120,10 @@
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
+        },
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/satoyamabasket-photo-2026/"
         }
       ],
       "entryUrl": "https://www.pref.ishikawa.lg.jp/sizen/ontai/photo_contest2026.html",
@@ -6351,6 +6344,21 @@
       "deadline": "2026-12-10",
       "deadlineText": "2026年12月10日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "2647411d84",
+      "name": "室生寺フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.narakko.jp/murouji-photocon/",
+      "deadline": "2026-12-10",
+      "deadlineText": "2026年12月10日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6681,6 +6689,21 @@
       "deadline": "2026-12-15",
       "deadlineText": "2026年12月15日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "0ae8d9fa52",
+      "name": "夕森渓谷もみじまつりフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://enasan.net/events/event20261107/",
+      "deadline": "2026-12-15",
+      "deadlineText": "2026年12月15日",
+      "prize": null,
       "notes": null
     },
     {
@@ -8194,6 +8217,21 @@
         }
       ],
       "entryUrl": "https://www.pref.saga.lg.jp/kiji003120039/index.html",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "ba47fb1326",
+      "name": "島原鉄道フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.shimatetsu.co.jp/infos/detail/?id=829",
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": null,
@@ -10464,6 +10502,21 @@
       "notes": null
     },
     {
+      "id": "064f014e08",
+      "name": "福岡ウエストコースト フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://yokanavi.com/events/274519",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "5b96e94836",
       "name": "第13回 島の暮らしと旅フォトコンテスト",
       "sources": [
@@ -10524,21 +10577,6 @@
       "notes": null
     },
     {
-      "id": "045ba0af6d",
-      "name": "令和8年度 白い森の国“ふるさとおぐに”フォトコンテスト",
-      "sources": [
-        {
-          "name": "登竜門",
-          "url": "https://compe.japandesign.ne.jp/oguni-yamagata-2027/"
-        }
-      ],
-      "entryUrl": "https://compe.japandesign.ne.jp/oguni-yamagata-2027/",
-      "deadline": "2027-01-31",
-      "deadlineText": "2027年01月31日",
-      "prize": "10万円",
-      "notes": null
-    },
-    {
       "id": "01a880e70f",
       "name": "新進アーティスト作品展 vol.25　Art Generation 2027",
       "sources": [
@@ -10548,6 +10586,21 @@
         }
       ],
       "entryUrl": "https://compe.japandesign.ne.jp/rose-theatre-art-generation-2027/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年01月31日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "045ba0af6d",
+      "name": "令和8年度 白い森の国“ふるさとおぐに”フォトコンテスト",
+      "sources": [
+        {
+          "name": "登竜門",
+          "url": "https://compe.japandesign.ne.jp/oguni-yamagata-2027/"
+        }
+      ],
+      "entryUrl": "https://compe.japandesign.ne.jp/oguni-yamagata-2027/",
       "deadline": "2027-01-31",
       "deadlineText": "2027年01月31日",
       "prize": "10万円",
