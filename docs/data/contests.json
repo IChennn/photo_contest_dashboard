@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-10-19T03:55:23Z",
-  "count": 814,
+  "updatedAt": "2026-10-20T04:07:22Z",
+  "count": 820,
   "contests": [
-    {
-      "id": "36986e947a",
-      "name": "2026年 第8回 キヤノン マンスリーフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://personal.canon.jp/event/photocontest/monthly",
-      "deadline": "2026-10-19",
-      "deadlineText": "2026年10月19日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "6fe0861e56",
       "name": "第65回 富士フイルムフォトコンテスト",
@@ -3251,6 +3236,25 @@
       "notes": null
     },
     {
+      "id": "87ba115103",
+      "name": "第17回 あらぶんちょドラマチックフォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9096"
+        },
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.tcn-catv.co.jp/photo/",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "83033c2075",
       "name": "ソニーオープンコンテスト 鉄道フォト＆ムービーコンテスト2026",
       "sources": [
@@ -3263,6 +3267,21 @@
       "deadline": "2026-11-15",
       "deadlineText": "2026年11月15日",
       "prize": "50,000円",
+      "notes": null
+    },
+    {
+      "id": "9e88d3d398",
+      "name": "ソニー 月例オープンフォトコンテスト 第70回",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://acafe.msc.sony.jp/info/monthly_open_contest/index.html",
+      "deadline": "2026-11-15",
+      "deadlineText": "2026年11月15日",
+      "prize": "30,000円",
       "notes": null
     },
     {
@@ -3323,21 +3342,6 @@
       "deadline": "2026-11-15",
       "deadlineText": "2026年11月15日",
       "prize": null,
-      "notes": null
-    },
-    {
-      "id": "87ba115103",
-      "name": "第17回 あらぶんちょドラマチックフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.tcn-catv.co.jp/photo/",
-      "deadline": "2026-11-15",
-      "deadlineText": "2026年11月15日",
-      "prize": "10万円",
       "notes": null
     },
     {
@@ -3714,6 +3718,21 @@
       "deadline": "2026-11-20",
       "deadlineText": "2026年11月20日",
       "prize": "10,000円",
+      "notes": null
+    },
+    {
+      "id": "dcf774ebc6",
+      "name": "青洲まつり2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.kinokawa.lg.jp/032/2025-0704-1046-88.html",
+      "deadline": "2026-11-20",
+      "deadlineText": "2026年11月20日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -5243,6 +5262,21 @@
       "notes": null
     },
     {
+      "id": "9aa557d158",
+      "name": "フォトコンテスト2026～武庫川髭の渡しコスモス園～",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kansai-tourism-amagasaki.jp/event/21647/",
+      "deadline": "2026-11-30",
+      "deadlineText": "2026年11月30日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "1c9c91330e",
       "name": "第50回 明日香路を写そう 写真コンクール",
       "sources": [
@@ -6061,6 +6095,21 @@
       "notes": null
     },
     {
+      "id": "d243142b15",
+      "name": "フォトコンテスト「わたしの奈良公園」",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.nara.lg.jp/n111/p060029.html",
+      "deadline": "2026-12-05",
+      "deadlineText": "2026年12月5日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "fa6a9fa025",
       "name": "愛媛県観光写真大賞 2026",
       "sources": [
@@ -6284,6 +6333,21 @@
       "deadline": "2026-12-10",
       "deadlineText": "2026年12月10日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "2fc784d811",
+      "name": "おいしい記憶 フォト＆エピソードコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kikkoman.com/jp/memory/photo_contest27/",
+      "deadline": "2026-12-10",
+      "deadlineText": "2026年12月10日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -8115,6 +8179,21 @@
       "deadline": "2026-12-31",
       "deadlineText": "2026年12月31日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "afadc4d92c",
+      "name": "第3回玉野市公式 Instagram フォトコンテスト「たまののじかんフォトキャンペーン」",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.tamano.lg.jp/soshiki/2/58845.html",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -11812,6 +11891,36 @@
       "notes": null
     },
     {
+      "id": "0781fca222",
+      "name": "島根半島・宍道湖中海ジオパーク国引きフォトコンテスト",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9097"
+        }
+      ],
+      "entryUrl": "https://kunibiki-geopark.jp/news/photocontest/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "576f3919f7",
+      "name": "妙高高原スカイケーブルで紅葉さんぽ＆秋のフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "Picru",
+          "url": "https://picru.jp/portals/detail/9095"
+        }
+      ],
+      "entryUrl": "https://akr-sky.com/news/post2945/",
+      "deadline": null,
+      "deadlineText": "要確認",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "ae49e97f70",
       "name": "TANOPOフォトコンテスト2026秋",
       "sources": [
@@ -12121,21 +12230,6 @@
         }
       ],
       "entryUrl": "https://shimotsuke-photocon.mitte-x.istsw.jp/index.html?cn=250",
-      "deadline": null,
-      "deadlineText": "要確認",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "42f6233807",
-      "name": "あがのフォトコン",
-      "sources": [
-        {
-          "name": "Picru",
-          "url": "https://picru.jp/portals/detail/9049"
-        }
-      ],
-      "entryUrl": "https://agano-spot.com/archives/2794",
       "deadline": null,
       "deadlineText": "要確認",
       "prize": null,
