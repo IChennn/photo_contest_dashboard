@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-10-21T03:55:01Z",
-  "count": 819,
+  "updatedAt": "2026-10-22T03:54:52Z",
+  "count": 818,
   "contests": [
-    {
-      "id": "df6d1035b8",
-      "name": "第11回 京島フォトコンテスト 2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.sumida-machi.or.jp/news/87/",
-      "deadline": "2026-10-21",
-      "deadlineText": "2026年10月21日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "935403c9b7",
       "name": "やまなし緑百景展 写真募集",
