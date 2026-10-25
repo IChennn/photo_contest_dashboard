@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-10-24T03:53:34Z",
-  "count": 827,
+  "updatedAt": "2026-10-25T03:52:47Z",
+  "count": 830,
   "contests": [
-    {
-      "id": "87afcdf8f6",
-      "name": "第21回 岡豊山フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kochi-rekimin.jp/events/469.html",
-      "deadline": "2026-10-24",
-      "deadlineText": "2026年10月24日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "38ecf40c2a",
       "name": "ONAHAMA WINTER GLASS 2026 PHOTO CONTEST",
@@ -3390,6 +3375,21 @@
       "notes": null
     },
     {
+      "id": "7394136a29",
+      "name": "磊々峡もみじのこみちライトアップ フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://akiusato.jp/event/lightup_contest.html",
+      "deadline": "2026-11-16",
+      "deadlineText": "2026年11月16日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "a54de4e7ad",
       "name": "第7回 月山ダムフォトコンテスト",
       "sources": [
@@ -4082,6 +4082,21 @@
       "deadline": "2026-11-27",
       "deadlineText": "2026年11月27日",
       "prize": "7万円",
+      "notes": null
+    },
+    {
+      "id": "4edf0d6b0c",
+      "name": "東武トップツアーズ 秋のフォトコンテスト2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/tobutoptours_official/p/De1f1h0kgpS/",
+      "deadline": "2026-11-29",
+      "deadlineText": "2026年11月29日",
+      "prize": "1万円",
       "notes": null
     },
     {
@@ -7244,6 +7259,21 @@
       "deadline": "2026-12-21",
       "deadlineText": "2026年12月21日",
       "prize": "5万円",
+      "notes": null
+    },
+    {
+      "id": "76c2f05478",
+      "name": "池田市 Instagram投稿フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/citypro/citypromo/21595.html",
+      "deadline": "2026-12-23",
+      "deadlineText": "2026年12月23日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -11042,6 +11072,21 @@
       "entryUrl": "https://www.city.ube.yamaguchi.jp/machizukuri/chuusankan/boshu_chuukansan/1025533.html",
       "deadline": "2027-02-19",
       "deadlineText": "2027年2月19日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "4ba8b5129a",
+      "name": "第7回 ながさきサンセットロード フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.nagasaki.jp/doc/54292.html",
+      "deadline": "2027-02-22",
+      "deadlineText": "2027年2月22日",
       "prize": null,
       "notes": null
     },
