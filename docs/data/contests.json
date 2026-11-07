@@ -1,112 +1,7 @@
 {
-  "updatedAt": "2026-11-06T05:43:49Z",
-  "count": 713,
+  "updatedAt": "2026-11-07T05:15:00Z",
+  "count": 714,
   "contests": [
-    {
-      "id": "31f526b8b4",
-      "name": "鉄道の思い出 投稿キャンペーン2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://ekitan.com/introduce/campaign/photo_con",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": "3,0000円",
-      "notes": null
-    },
-    {
-      "id": "2ad7229e78",
-      "name": "令和8年度「農村景観」写真コンクール",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.iwatochi.com/home%E7%94%A8/information/%E5%86%99%E7%9C%9F%E3%83%BB%E7%B5%B5%E7%94%BB%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB/photography-painting-competition/",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "ac00ea822e",
-      "name": "第13回 くにたちデジタル写真コンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kunimachi.jp/event/%E7%AC%AC13%E5%9B%9E%E3%81%8F%E3%81%AB%E3%81%9F%E3%81%A1%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%86%99%E7%9C%9F%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%80%80%E5%8B%9F%E9%9B%86%E9%96%8B%E5%A7%8B/",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "8498ddaaf2",
-      "name": "横浜港客船フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.yokohama.lg.jp/kanko-bunka/minato/kyakusen/contest/cruisephoto2026.html",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "3ec35418c8",
-      "name": "第25回 裾野の農業 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.susono.shizuoka.jp/soshiki/8/3/2/2/1846.html",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": "1万円",
-      "notes": null
-    },
-    {
-      "id": "f26fbf05d9",
-      "name": "第1回 きやまのお米フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.town.kiyama.lg.jp/kiji0036657/index.html",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "6f8d073157",
-      "name": "三里とやきもの フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.welcomekyushu.jp/yakimono/photo/",
-      "deadline": "2026-11-06",
-      "deadlineText": "2026年11月6日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "130c3a3b53",
       "name": "ゆにガーデンフォトコンテスト2026(Instagram)",
@@ -6438,6 +6333,21 @@
       "notes": null
     },
     {
+      "id": "71c0995d8e",
+      "name": "#へぐりフォトコン4th",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.heguri.nara.jp/soshiki/18/16104.html",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": "5,000円",
+      "notes": null
+    },
+    {
       "id": "10f837d175",
       "name": "和歌山マリーナフォトコンテスト",
       "sources": [
@@ -8003,6 +7913,21 @@
       "notes": null
     },
     {
+      "id": "221d4a0b40",
+      "name": "パロマ笑顔プロジェクト 第11回フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.paloma.co.jp/special/metro/paloma116/",
+      "deadline": "2027-01-17",
+      "deadlineText": "2027年1月17日",
+      "prize": "10万円",
+      "notes": null
+    },
+    {
       "id": "4c35a10db0",
       "name": "大瀬崎のビャクシン樹林フォトコンテスト",
       "sources": [
@@ -8165,6 +8090,21 @@
       "deadline": "2027-01-22",
       "deadlineText": "2027年1月22日",
       "prize": "20,000円",
+      "notes": null
+    },
+    {
+      "id": "a3436719f8",
+      "name": "和泉府中まちめぐりフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://satomachi-izumi.com/event/23988.html",
+      "deadline": "2027-01-23",
+      "deadlineText": "2027年1月23日",
+      "prize": "2万円",
       "notes": null
     },
     {
@@ -9515,6 +9455,21 @@
       "notes": null
     },
     {
+      "id": "4e327c243c",
+      "name": "THE YOKOHAMA ILLUMINATION フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://theyokohamaillumination.jp/photocontest/",
+      "deadline": "2027-02-07",
+      "deadlineText": "2027年2月7日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "a86476062a",
       "name": "びわ湖高島アウトドアフォトコンテスト",
       "sources": [
@@ -9542,6 +9497,21 @@
       "deadline": "2027-02-12",
       "deadlineText": "2027年2月12日",
       "prize": "10万円",
+      "notes": null
+    },
+    {
+      "id": "3ed046e3a6",
+      "name": "FeStA LuCeフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://festaluce.jp/wakayama/contest-overview/",
+      "deadline": "2027-02-14",
+      "deadlineText": "2027年2月14日",
+      "prize": null,
       "notes": null
     },
     {
@@ -9650,6 +9620,21 @@
       "notes": null
     },
     {
+      "id": "868f759a1a",
+      "name": "第31回　国見町フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.kunimi.fukushima.jp/soshiki/2/21884.html",
+      "deadline": "2027-02-18",
+      "deadlineText": "2027年2月18日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "adfaa3ec25",
       "name": "OGA!男鹿！観光写真フォトコンテスト2026",
       "sources": [
@@ -9695,6 +9680,21 @@
       "entryUrl": "https://www.city.ube.yamaguchi.jp/machizukuri/chuusankan/boshu_chuukansan/1025533.html",
       "deadline": "2027-02-19",
       "deadlineText": "2027年2月19日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "c651669d26",
+      "name": "楢葉町フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.naraha.lg.jp/cat426/010063.html",
+      "deadline": "2027-02-21",
+      "deadlineText": "2027年2月21日",
       "prize": null,
       "notes": null
     },
@@ -9970,6 +9970,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "13f099de4e",
+      "name": "亀山里山公園「みちくさ」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.eco-mie.com/env_info/20261104/",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": null,
       "notes": null
     },
     {
