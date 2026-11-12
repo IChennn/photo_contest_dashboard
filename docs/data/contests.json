@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-11-11T05:20:10Z",
-  "count": 712,
+  "updatedAt": "2026-11-12T06:24:05Z",
+  "count": 714,
   "contests": [
-    {
-      "id": "03faab9cf9",
-      "name": "ベストショット in こがわ SNSフォトコンテスト2026(Instagram)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.instagram.com/p/DYBL-33E9C5/?img_index=1",
-      "deadline": "2026-11-11",
-      "deadlineText": "2026年11月11日",
-      "prize": "5,000円",
-      "notes": null
-    },
-    {
-      "id": "41e82b8612",
-      "name": "2026 乗鞍岳を撮ろう 写真コンテスト(PDF)",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://norikuradake.jp/wp/wp-content/uploads/2026/07/fec6b9aba3287f47e39ea4209d064d98.pdf",
-      "deadline": "2026-11-11",
-      "deadlineText": "2026年11月11日",
-      "prize": "3万円",
-      "notes": null
-    },
     {
       "id": "a91fe043ab",
       "name": "第20回 秋艸道人賞・写真コンテスト",
@@ -3639,6 +3609,21 @@
       "notes": null
     },
     {
+      "id": "f142182978",
+      "name": "OH!!!能仁寺紅葉まつりフォトコンテスト2026(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/oh.hanno_official/p/DfPIft8AWTh/?img_index=1",
+      "deadline": "2026-12-06",
+      "deadlineText": "2026年12月6日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "715ac67f29",
       "name": "箱根強羅公園 わんわんフォトコンテスト",
       "sources": [
@@ -7185,6 +7170,21 @@
       "notes": null
     },
     {
+      "id": "6b67a47eec",
+      "name": "#わたしの琵琶湖システム 第3回フォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/shigagiahs/p/DfZPF3UEr4E/",
+      "deadline": "2027-01-11",
+      "deadlineText": "2027年1月11日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "ce31179e5b",
       "name": "薬木薬草園 フォトコンテスト 2026秋冬",
       "sources": [
@@ -9557,6 +9557,21 @@
       "notes": null
     },
     {
+      "id": "16de1ea02a",
+      "name": "令和8年度「東北のへそ」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.pref.akita.lg.jp/pages/archive/71747",
+      "deadline": "2027-02-19",
+      "deadlineText": "2027年2月19日",
+      "prize": "40,000円",
+      "notes": null
+    },
+    {
       "id": "adfaa3ec25",
       "name": "OGA!男鹿！観光写真フォトコンテスト2026",
       "sources": [
@@ -10631,6 +10646,21 @@
       "deadline": "2027-06-30",
       "deadlineText": "2027年6月30日",
       "prize": "5,000円",
+      "notes": null
+    },
+    {
+      "id": "6d249d7ed6",
+      "name": "第12回 かごしま健康の森公園 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://k-kouenkousya.jp/kenkou/k-newinfo/post-888.html",
+      "deadline": "2027-07-15",
+      "deadlineText": "2027年7月15日",
+      "prize": null,
       "notes": null
     },
     {
