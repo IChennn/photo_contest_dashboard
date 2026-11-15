@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-11-14T05:34:20Z",
-  "count": 716,
+  "updatedAt": "2026-11-15T05:31:40Z",
+  "count": 722,
   "contests": [
-    {
-      "id": "3020cfc8d7",
-      "name": "ダイアベティス フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://diabetes-blue.com/",
-      "deadline": "2026-11-14",
-      "deadlineText": "2026年11月14日",
-      "prize": "5万円",
-      "notes": null
-    },
-    {
-      "id": "d8189a5018",
-      "name": "CamsComs ハロウィーン スナップ フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://camscoms.com/contests/2026-halloween-snap",
-      "deadline": "2026-11-14",
-      "deadlineText": "2026年11月14日",
-      "prize": "2,000円",
-      "notes": null
-    },
     {
       "id": "83033c2075",
       "name": "ソニーオープンコンテスト 鉄道フォト＆ムービーコンテスト2026",
@@ -5733,6 +5703,21 @@
       "notes": null
     },
     {
+      "id": "212393e691",
+      "name": "さがみ湖2026 フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.sagamiko-resort.jp/pickup/2026winter_of_photocon.html",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "f1267adde7",
       "name": "令和8年度「伝えたい南区の宝」いいとこ撮りコンテスト(南区の宝部門)",
       "sources": [
@@ -6671,6 +6656,21 @@
       "notes": null
     },
     {
+      "id": "1a8a4028bc",
+      "name": "第4回 池田公園イルミネーション写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://joshidaikoji.nagoya/contest/",
+      "deadline": "2027-01-06",
+      "deadlineText": "2027年1月6日",
+      "prize": "3万円",
+      "notes": null
+    },
+    {
       "id": "aff53e8097",
       "name": "わたしが見つけた長野フォトコンテスト2026",
       "sources": [
@@ -7310,6 +7310,21 @@
       "deadline": "2027-01-13",
       "deadlineText": "2027年1月13日",
       "prize": "30,000円",
+      "notes": null
+    },
+    {
+      "id": "db2fc87f7f",
+      "name": "第22回 富士山百景写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://tokyocameraclub.com/fujicity/contest2026/",
+      "deadline": "2027-01-13",
+      "deadlineText": "2027年1月13日",
+      "prize": "15万円",
       "notes": null
     },
     {
@@ -8026,6 +8041,21 @@
       "notes": null
     },
     {
+      "id": "0caa614ac3",
+      "name": "第43回 よこぜ写真コンクール",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.yokoze.org/2026/11/54946/",
+      "deadline": "2027-01-29",
+      "deadlineText": "2027年1月29日",
+      "prize": "30,000円",
+      "notes": null
+    },
+    {
       "id": "68add88f70",
       "name": "第16回 野田市公式インスタグラムフォトコンテスト",
       "sources": [
@@ -8206,6 +8236,21 @@
       "entryUrl": "https://compe.japandesign.ne.jp/b-machi-keikansen-photo-2027/",
       "deadline": "2027-01-29",
       "deadlineText": "2027年01月29日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "d649060c30",
+      "name": "あかりのファンタジーイルミネーション in おだか 2026 フォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DftBKbBkv8N/",
+      "deadline": "2027-01-30",
+      "deadlineText": "2027年1月30日",
       "prize": null,
       "notes": null
     },
@@ -8579,6 +8624,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "3d73106bc2",
+      "name": "羽田空港フォトコンテスト2027 YOUR HANEDA STORY",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://photo.your-haneda-story.tokyo-haneda.com/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -10195,6 +10255,21 @@
       "notes": null
     },
     {
+      "id": "4c46b1e91b",
+      "name": "熱海花めぐり2026フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://ataminews.mitte-x.istsw.jp/index.html?cn=263",
+      "deadline": "2027-03-15",
+      "deadlineText": "2027年3月15日",
+      "prize": "2万円",
+      "notes": null
+    },
+    {
       "id": "db1804fad0",
       "name": "山のふるさと村 四季の写真コンクール",
       "sources": [
@@ -10796,6 +10871,21 @@
       "deadline": "2027-08-31",
       "deadlineText": "2027年8月31日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "51d1a1be32",
+      "name": "JA信州うえだ 2028年版オリジナルカレンダー 写真募集",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.ja-shinshuueda.iijan.or.jp/news/12359/",
+      "deadline": "2027-09-03",
+      "deadlineText": "2027年9月3日",
+      "prize": "3万円",
       "notes": null
     },
     {
