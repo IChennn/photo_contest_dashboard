@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T07:09:12Z",
-  "count": 707,
+  "updatedAt": "2026-11-18T06:33:11Z",
+  "count": 713,
   "contests": [
     {
       "id": "1644b390a1",
@@ -4660,15 +4660,15 @@
       "notes": null
     },
     {
-      "id": "571922bbf9",
-      "name": "中央市の風景2026 フォトコンテスト(PDF)",
+      "id": "5d65828c6c",
+      "name": "中央市の風景2026 フォトコンテスト",
       "sources": [
         {
           "name": "フォトセカイ",
           "url": "https://photosekai.com/post/photocontestlist/"
         }
       ],
-      "entryUrl": "https://michinoeki-toyotomi.com/wp-content/uploads/2026/08/2026photo-contest.pdf",
+      "entryUrl": "https://www.city.chuo.yamanashi.jp/eventboshu/15142.html",
       "deadline": "2026-12-25",
       "deadlineText": "2026年12月25日",
       "prize": null,
@@ -4897,6 +4897,21 @@
       "deadline": "2026-12-26",
       "deadlineText": "2026年12月26日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "f97735c604",
+      "name": "秋冬の彩りフォトコンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/Dfyyjj-GiNn/?img_index=1",
+      "deadline": "2026-12-27",
+      "deadlineText": "2026年12月27日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -5141,6 +5156,21 @@
       "deadline": "2026-12-30",
       "deadlineText": "2026年12月30日",
       "prize": "2万円",
+      "notes": null
+    },
+    {
+      "id": "8554e7bb18",
+      "name": "飛騨大鍾乳洞 11月～12月ワンちゃんフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.syonyudo.com/11%e6%9c%88%ef%bd%9e12%e6%9c%88%e3%80%80%e3%83%af%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88/",
+      "deadline": "2026-12-30",
+      "deadlineText": "2026年12月30日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6157,6 +6187,21 @@
       "notes": null
     },
     {
+      "id": "7c56b403d4",
+      "name": "大阪狭山市フォトコンテスト〜2026年の思い出〜",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.city.osakasayama.osaka.jp/sosiki/siminseikatsubu/sangyounigiwaizukuri/citypromotion/photocontest/9482.html",
+      "deadline": "2027-01-04",
+      "deadlineText": "2027年1月4日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "daf582692b",
       "name": "2027 みんなでつくる赤穂市日本遺産写真展",
       "sources": [
@@ -6214,6 +6259,21 @@
       "deadline": "2027-01-05",
       "deadlineText": "2027年1月5日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "f78833336e",
+      "name": "魅力発見！新しい「かながわの旅」フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.kanagawa-kankou.or.jp/features/kanagawaphotocontest2026",
+      "deadline": "2027-01-05",
+      "deadlineText": "2027年1月5日",
+      "prize": null,
       "notes": null
     },
     {
@@ -6649,6 +6709,21 @@
       "deadline": "2027-01-10",
       "deadlineText": "2027年1月10日",
       "prize": "1万円",
+      "notes": null
+    },
+    {
+      "id": "a8cb380229",
+      "name": "へそっこルミエール2026 Instagramフォト＆リール動画コンテスト(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/Dd0ajNbRPwF/",
+      "deadline": "2027-01-10",
+      "deadlineText": "2027年1月10日",
+      "prize": "10,000円",
       "notes": null
     },
     {
@@ -10237,6 +10312,21 @@
       "deadline": "2027-03-31",
       "deadlineText": "2027年03月31日",
       "prize": "30万円",
+      "notes": null
+    },
+    {
+      "id": "2feadbbcec",
+      "name": "高岡の青 フォトコンテスト 2026-2027(Instagram)",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.instagram.com/p/DfLgIoMkrvD/?hl=ja&img_index=1",
+      "deadline": "2027-04-30",
+      "deadlineText": "2027年4月30日",
+      "prize": null,
       "notes": null
     },
     {
