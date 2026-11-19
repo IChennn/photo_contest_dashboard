@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-11-18T06:33:11Z",
-  "count": 713,
+  "updatedAt": "2026-11-19T06:34:53Z",
+  "count": 712,
   "contests": [
-    {
-      "id": "1644b390a1",
-      "name": "第21回 動物ふれあいフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.ishigaki.okinawa.jp/soshiki/kankyo/3/12647.html",
-      "deadline": "2026-11-18",
-      "deadlineText": "2026年11月18日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "75400ee175",
       "name": "2026年 第9回 キヤノン マンスリーフォトコンテスト",
