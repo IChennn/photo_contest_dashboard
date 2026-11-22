@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-11-21T06:12:14Z",
-  "count": 714,
+  "updatedAt": "2026-11-22T05:46:16Z",
+  "count": 716,
   "contests": [
-    {
-      "id": "a08c6fa31f",
-      "name": "野付半島フォトコンテスト2026",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://notsuke.jp/information/7272",
-      "deadline": "2026-11-21",
-      "deadlineText": "2026年11月21日",
-      "prize": null,
-      "notes": null
-    },
-    {
-      "id": "0c9916c3c9",
-      "name": "2026（第12回）長野県木祖村 紅葉のフォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://kisotourism.com/photo/2026%ef%bc%88%e7%ac%ac12%e5%9b%9e%ef%bc%89%e9%95%b7%e9%87%8e%e7%9c%8c%e6%9c%a8%e7%a5%96%e6%9d%91%e3%80%80%e7%b4%85%e8%91%89%e3%81%ae%e3%83%95%e3%82%a9%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/",
-      "deadline": "2026-11-21",
-      "deadlineText": "2026年11月21日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "24de409a34",
       "name": "和傘彩る菊花展2026 フォトコンテスト",
@@ -2896,6 +2866,21 @@
       "notes": null
     },
     {
+      "id": "21b7cdb337",
+      "name": "橿原の空に ブルーインパルス フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://kashihara-naviplaza.com/1283/",
+      "deadline": "2026-12-06",
+      "deadlineText": "2026年12月6日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "0586e11a1b",
       "name": "和歌山城フォトコンテスト2026秋(Instagram)",
       "sources": [
@@ -4031,6 +4016,21 @@
         }
       ],
       "entryUrl": "https://personal.canon.jp/event/photocontest/monthly",
+      "deadline": "2026-12-19",
+      "deadlineText": "2026年12月19日",
+      "prize": null,
+      "notes": null
+    },
+    {
+      "id": "573491867c",
+      "name": "HANABUN PHOTO CONTEST 2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://hanabun-osaka.witc-pm.jp/event/hanabun-photo-contest-2026lightup/",
       "deadline": "2026-12-19",
       "deadlineText": "2026年12月19日",
       "prize": null,
@@ -6720,6 +6720,21 @@
       "deadline": "2027-01-11",
       "deadlineText": "2027年1月11日",
       "prize": null,
+      "notes": null
+    },
+    {
+      "id": "6d3c0ceb23",
+      "name": "門司港レトロイルミネーション フォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mojiko-retoro9.jp/notice/news/post-2516/",
+      "deadline": "2027-01-11",
+      "deadlineText": "2027年1月11日",
+      "prize": "5,000円",
       "notes": null
     },
     {
@@ -9835,6 +9850,21 @@
       "deadline": "2027-02-28",
       "deadlineText": "2027年2月28日",
       "prize": "15,000円",
+      "notes": null
+    },
+    {
+      "id": "b25b09c069",
+      "name": "けやきライトパレードフォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://14909f38a22.benchmarkpages.com/keyaki-light-parade-photo-contest",
+      "deadline": "2027-02-28",
+      "deadlineText": "2027年2月28日",
+      "prize": "20,000円",
       "notes": null
     },
     {
