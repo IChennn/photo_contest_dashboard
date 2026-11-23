@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-11-22T05:46:16Z",
-  "count": 716,
+  "updatedAt": "2026-11-23T06:32:37Z",
+  "count": 719,
   "contests": [
-    {
-      "id": "24de409a34",
-      "name": "和傘彩る菊花展2026 フォトコンテスト",
-      "sources": [
-        {
-          "name": "フォトセカイ",
-          "url": "https://photosekai.com/post/photocontestlist/"
-        }
-      ],
-      "entryUrl": "https://www.city.hashimoto.lg.jp/hashimototaikan/asobu/ibennto/kikkaten/2026/photocontest.html",
-      "deadline": "2026-11-22",
-      "deadlineText": "2026年11月22日",
-      "prize": null,
-      "notes": null
-    },
     {
       "id": "c1c64c583c",
       "name": "大佛次郎×ねこ写真展2027 作品募集",
@@ -5395,6 +5380,21 @@
       "notes": null
     },
     {
+      "id": "562abcb042",
+      "name": "聖寶寺フォトコンテスト2026",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.shoubouji.com/contest2026/",
+      "deadline": "2026-12-31",
+      "deadlineText": "2026年12月31日",
+      "prize": null,
+      "notes": null
+    },
+    {
       "id": "d6855dcc46",
       "name": "叡電&三鉄 悠久の風フォトコンテスト2026",
       "sources": [
@@ -6975,6 +6975,21 @@
       "notes": null
     },
     {
+      "id": "24fdef371e",
+      "name": "第4回 オシドリフォトコン",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.town.hino.tottori.jp/item/43416.htm",
+      "deadline": "2027-01-14",
+      "deadlineText": "2027年1月14日",
+      "prize": "1万円",
+      "notes": null
+    },
+    {
       "id": "dd08e83b1b",
       "name": "SEIKA AWARD 2027《高校生限定》",
       "sources": [
@@ -8128,6 +8143,21 @@
       "deadline": "2027-01-31",
       "deadlineText": "2027年1月31日",
       "prize": "3万円",
+      "notes": null
+    },
+    {
+      "id": "e11bfcc576",
+      "name": "第1回 女川 海の写真コンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://www.onagawa-umi-photo-contest.com/",
+      "deadline": "2027-01-31",
+      "deadlineText": "2027年1月31日",
+      "prize": "5万円",
       "notes": null
     },
     {
@@ -10439,6 +10469,21 @@
       "deadline": "2027-05-31",
       "deadlineText": "2027年5月31日",
       "prize": "15万円",
+      "notes": null
+    },
+    {
+      "id": "8579c15496",
+      "name": "キャンプリゾート森のひととき 冬・春シーズンフォトコンテスト",
+      "sources": [
+        {
+          "name": "フォトセカイ",
+          "url": "https://photosekai.com/post/photocontestlist/"
+        }
+      ],
+      "entryUrl": "https://mori-hitotoki.com/news/3246",
+      "deadline": "2027-05-31",
+      "deadlineText": "2027年5月31日",
+      "prize": "10,000円",
       "notes": null
     },
     {
